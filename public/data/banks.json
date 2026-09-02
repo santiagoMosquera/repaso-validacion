@@ -21,6 +21,18 @@
       "code": "0103",
       "name": "Estructuras de Datos y Algoritmos",
       "file": "/data/0103-estructuras-de-datos-y-algoritmos.json"
+    },
+    {
+      "id": "0104",
+      "code": "0104",
+      "name": "Desarrollo Web Front End",
+      "file": "/data/0104-desarrollo-web-front-end.json"
+    },
+    {
+      "id": "0105",
+      "code": "0105 ",
+      "name": "Lógica y Resolución de Problemas Computacionales",
+      "file": "/data/0105-logica-y-resolucion-de-problemas-computacionales.json"
     }
   ]
 }

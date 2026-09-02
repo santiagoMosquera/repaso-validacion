@@ -1,0 +1,338 @@
+{
+  "id": "0104",
+  "code": "0104",
+  "name": "Desarrollo Web Front End",
+  "program": "Tecnología Superior en Desarrollo de Software y Programación",
+  "questions": [
+    {
+      "id": "0104-01",
+      "text": "¿Qué etiqueta HTML se utiliza para mostrar un título de nivel 1 dentro del contenido visible de una página?",
+      "options": [
+        "<head>",
+        "<h1>",
+        "<title>",
+        "<header>"
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0104-02",
+      "text": "¿Qué etiqueta HTML se utiliza para crear un párrafo?",
+      "options": [
+        "<p>",
+        "<text>",
+        "<paragraph>",
+        "<span>"
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0104-03",
+      "text": "¿Cuál es la forma correcta de crear un enlace hacia otra página web?",
+      "options": [
+        "<a href=\"https://ejemplo.com\">Visitar sitio</a>",
+        "<link=\"https://ejemplo.com\">Visitar sitio</link>",
+        "<a src=\"https://ejemplo.com\">Visitar sitio</a>",
+        "<href>https://ejemplo.com</href>"
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0104-04",
+      "text": "¿Cuál es la forma correcta de mostrar una imagen llamada foto.jpg?",
+      "options": [
+        "<img src=\"foto.jpg\">",
+        "<image href=\"foto.jpg\">",
+        "<picture src=\"foto.jpg\">",
+        "<img href=\"foto.jpg\">"
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0104-05",
+      "text": "¿Qué etiqueta HTML se utiliza para crear un campo donde el usuario puede ingresar información?",
+      "options": [
+        "<input>",
+        "<label>",
+        "<p>",
+        "<form-text>"
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0104-06",
+      "text": "¿Qué representa el siguiente código HTML?\n\n<ul>\n    <li>HTML</li>\n    <li>CSS</li>\n    <li>JavaScript</li>\n</ul>",
+      "options": [
+        "Una tabla",
+        "Una lista ordenada",
+        "Una lista no ordenada",
+        "Un formulario"
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0104-07",
+      "text": "¿Cuál es la forma correcta de enlazar un archivo CSS llamado estilos.css desde HTML?",
+      "options": [
+        "<link rel=\"stylesheet\" href=\"estilos.css\">",
+        "<script src=\"estilos.css\"></script>",
+        "<style src=\"estilos.css\">",
+        "<link src=\"estilos.css\">"
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0104-08",
+      "text": "¿Qué etiqueta HTML se utiliza para hacer referencia a una hoja de estilos CSS externa?",
+      "options": [
+        "<style>",
+        "<css>",
+        "<link>",
+        "<script>"
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0104-09",
+      "text": "¿Cuál es la forma correcta de cargar un archivo JavaScript llamado app.js desde HTML?",
+      "options": [
+        "<link href=\"app.js\">",
+        "<script href=\"app.js\"></script>",
+        "<script src=\"app.js\"></script>",
+        "<javascript src=\"app.js\">"
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0104-10",
+      "text": "¿Cuál afirmación describe correctamente la siguiente estructura HTML?\n\n<head>\n    <link rel=\"stylesheet\" href=\"css/estilos.css\">\n</head>\n\n<body>\n    <h1>Mi página</h1>\n    <script src=\"js/app.js\"></script>\n</body>",
+      "options": [
+        "El CSS y JavaScript están escritos directamente en el HTML.",
+        "El HTML referencia archivos externos de CSS y JavaScript.",
+        "El archivo JavaScript reemplaza al HTML.",
+        "El archivo CSS se ejecuta como JavaScript."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0104-11",
+      "text": "¿Qué se muestra en consola al ejecutar el siguiente código?\n\n<h1 id=\"titulo\">Hola</h1>\n\n<script>\nlet elemento = document.getElementById(\"titulo\");\nconsole.log(elemento.textContent);\n</script>",
+      "options": [
+        "titulo",
+        "h1",
+        "Hola",
+        "elemento"
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0104-12",
+      "text": "¿Qué hace la siguiente instrucción JavaScript?\n\ndocument.getElementById(\"titulo\").textContent = \"Bienvenido\";",
+      "options": [
+        "Elimina el elemento con id titulo.",
+        "Cambia el contenido del elemento con id titulo a Bienvenido.",
+        "Crea un nuevo archivo HTML.",
+        "Cambia el nombre del id a Bienvenido."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0104-13",
+      "text": "¿Qué verá el usuario en la página después de ejecutar el código?\n\n<p id=\"mensaje\">Texto original</p>\n\n<script>\nlet mensaje = document.getElementById(\"mensaje\");\nmensaje.textContent = \"Texto modificado\";\n</script>",
+      "options": [
+        "Texto original",
+        "mensaje",
+        "Texto modificado",
+        "undefined"
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0104-14",
+      "text": "¿Qué ocurre después de ejecutar el siguiente código JavaScript?\n\n<p id=\"mensaje\">Hola</p>\n\n<script>\nlet elemento = document.getElementById(\"mensaje\");\nelemento.style.color = \"red\";\n</script>",
+      "options": [
+        "El texto cambia a \"red\".",
+        "El elemento desaparece.",
+        "El texto \"Hola\" se muestra de color rojo.",
+        "Se cambia el id del elemento."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0104-15",
+      "text": "¿Qué ocurre cuando el usuario presiona el botón?\n\n<button id=\"boton\">Presionar</button>\n<p id=\"resultado\"></p>\n\n<script>\nlet boton = document.getElementById(\"boton\");\n\nboton.addEventListener(\"click\", function() {\n    document.getElementById(\"resultado\").textContent = \"Botón presionado\";\n});\n</script>",
+      "options": [
+        "Se elimina el botón.",
+        "La página se recarga.",
+        "El párrafo muestra \"Botón presionado\".",
+        "Se produce un error."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0104-16",
+      "text": "¿Qué evento se utiliza normalmente para detectar que un usuario presionó un botón con el mouse?",
+      "options": [
+        "change",
+        "click",
+        "loadFile",
+        "pressButton"
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0104-17",
+      "text": "¿Qué valor se muestra en consola?\n\n<input id=\"nombre\" value=\"Carlos\">\n\n<script>\nlet nombre = document.getElementById(\"nombre\").value;\nconsole.log(nombre);\n</script>",
+      "options": [
+        "nombre",
+        "Carlos",
+        "input",
+        "value"
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0104-18",
+      "text": "¿Qué hace el siguiente código JavaScript?\n\nlet nuevoParrafo = document.createElement(\"p\");\nnuevoParrafo.textContent = \"Nuevo contenido\";\n\ndocument.body.appendChild(nuevoParrafo);",
+      "options": [
+        "Elimina un párrafo.",
+        "Cambia el título de la página.",
+        "Crea un párrafo con el texto Nuevo contenido y lo agrega al documento.",
+        "Abre otra página web."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0104-19",
+      "text": "¿Cuál es uno de los conceptos fundamentales de React?",
+      "options": [
+        "Construir interfaces mediante componentes reutilizables.",
+        "Crear exclusivamente bases de datos.",
+        "Reemplazar JavaScript por HTML.",
+        "Administrar servidores web."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0104-20",
+      "text": "¿Qué se mostrará al renderizar el componente App?\n\nfunction Saludo() {\n    return <h1>Hola estudiantes</h1>;\n}\n\nfunction App() {\n    return <Saludo />;\n}",
+      "options": [
+        "Saludo",
+        "App",
+        "Hola estudiantes",
+        "No se muestra nada"
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0104-21",
+      "text": "¿Qué se mostrará en pantalla al renderizar el componente App?\n\nfunction Estudiante(props) {\n    return <p>{props.nombre}</p>;\n}\n\nfunction App() {\n    return <Estudiante nombre=\"Carlos\" />;\n}",
+      "options": [
+        "props.nombre",
+        "Estudiante",
+        "nombre",
+        "Carlos"
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0104-22",
+      "text": "¿Qué es un componente en Angular?",
+      "options": [
+        "Una unidad de la interfaz que combina lógica y una plantilla.",
+        "Una base de datos.",
+        "Un servidor web.",
+        "Un archivo de imágenes."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0104-23",
+      "text": "¿Qué se mostrará en la plantilla HTML de Angular?\n\n// app.component.ts\nexport class AppComponent {\n    nombre = \"Carlos\";\n}\n\n// app.component.html\n<h1>Hola {{ nombre }}</h1>",
+      "options": [
+        "Hola nombre",
+        "Hola {{ nombre }}",
+        "Hola Carlos",
+        "Carlos nombre"
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0104-24",
+      "text": "Si el usuario presiona el botón dos veces, ¿qué valor se mostrará en el párrafo?\n\n// app.component.ts\nexport class AppComponent {\n    contador = 0;\n\n    incrementar() {\n        this.contador++;\n    }\n}\n\n// app.component.html\n<button (click)=\"incrementar()\">Incrementar</button>\n<p>{{ contador }}</p>",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "incrementar"
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0104-25",
+      "text": "Una aplicación funciona durante el desarrollo en http://localhost:3000 y luego se publica en un servidor web. ¿Cuál es la diferencia principal?",
+      "options": [
+        "localhost ejecuta la aplicación en el equipo local del desarrollador, mientras que una aplicación desplegada en un servidor puede ser accedida desde otros dispositivos.",
+        "localhost siempre está disponible públicamente en Internet.",
+        "Una aplicación en un servidor no utiliza JavaScript.",
+        "No existe diferencia."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0104-26",
+      "text": "¿Qué efecto tendrá el siguiente CSS sobre el párrafo?\n\n<p class=\"destacado\">Bienvenido</p>\n\n<style>\n.destacado {\n    font-weight: bold;\n}\n</style>",
+      "options": [
+        "El texto se mostrará en negrita.",
+        "El párrafo desaparecerá.",
+        "El texto cambiará a rojo.",
+        "Se creará un nuevo párrafo."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0104-27",
+      "text": "¿Qué ocurrirá al ejecutar el siguiente JavaScript?\n\n<div id=\"contenedor\"></div>\n\n<script>\nlet contenedor = document.getElementById(\"contenedor\");\n\nlet boton = document.createElement(\"button\");\nboton.textContent = \"Guardar\";\n\ncontenedor.appendChild(boton);\n</script>",
+      "options": [
+        "Se eliminará el div.",
+        "Se agregará un botón con el texto \"Guardar\" dentro del div.",
+        "Se cambiará el id del div.",
+        "Se abrirá otra página."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0104-28",
+      "text": "¿Qué contenido se renderizará en pantalla?\n\nfunction Producto({ nombre, precio }) {\n    return (\n        <p>\n            {nombre} - ${precio}\n        </p>\n    );\n}\n\nfunction App() {\n    return <Producto nombre=\"Teclado\" precio={25} />;\n}",
+      "options": [
+        "Producto - precio",
+        "Teclado - $25",
+        "nombre - precio",
+        "Teclado - precio"
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0104-29",
+      "text": "¿Para qué se puede utilizar Vercel en un proyecto Front End?",
+      "options": [
+        "Para desplegar y alojar una aplicación web.",
+        "Para escribir exclusivamente código Java.",
+        "Para crear únicamente una base de datos local.",
+        "Para sustituir HTML por JavaScript."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0104-30",
+      "text": "Un desarrollador conecta el repositorio de su proyecto a Vercel y, luego del despliegue, obtiene una URL como https://mi-proyecto.vercel.app. ¿Qué indica esta dirección?",
+      "options": [
+        "Que el código solamente puede ejecutarse en la computadora del desarrollador.",
+        "Que la aplicación fue desplegada y puede ser accedida mediante una URL pública.",
+        "Que GitHub fue eliminado.",
+        "Que la aplicación se convirtió en una aplicación móvil."
+      ],
+      "correctOption": 1
+    }
+  ]
+}
