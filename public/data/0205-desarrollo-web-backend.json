@@ -1,0 +1,338 @@
+{
+  "id": "0205",
+  "code": "0205",
+  "name": "Desarrollo Web Backend",
+  "program": "Tecnología Superior en Desarrollo de Software y Programación",
+  "questions": [
+    {
+      "id": "0205-01",
+      "text": "¿Qué es una API en el contexto de desarrollo de software?",
+      "options": [
+        "Una interfaz que permite que diferentes aplicaciones o componentes se comuniquen entre sí.",
+        "Un tipo de base de datos que solo almacena archivos.",
+        "Un lenguaje utilizado únicamente para diseñar pantallas.",
+        "Un programa que reemplaza completamente al backend."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0205-02",
+      "text": "¿Cuál es una ventaja importante de utilizar APIs?",
+      "options": [
+        "Obligan a que todos los sistemas estén desarrollados con el mismo lenguaje.",
+        "Permiten integrar sistemas y reutilizar funcionalidades sin conocer toda su implementación interna.",
+        "Eliminan la necesidad de utilizar HTTP.",
+        "Impiden que un frontend se comunique con un backend."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0205-03",
+      "text": "En una arquitectura web, ¿qué componente suele exponer una API para que el frontend u otros sistemas consuman información?",
+      "options": [
+        "El navegador únicamente.",
+        "La base de datos directamente.",
+        "El backend.",
+        "El teclado del usuario."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0205-04",
+      "text": "¿Qué característica es común en un servicio REST?",
+      "options": [
+        "Solo puede trabajar con archivos de texto locales.",
+        "Siempre requiere que frontend y backend estén en la misma tecnología.",
+        "No utiliza direcciones o rutas para identificar recursos.",
+        "Utiliza HTTP y rutas para acceder y operar sobre recursos."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0205-05",
+      "text": "¿Qué método HTTP se utiliza normalmente para consultar información sin modificarla?",
+      "options": [
+        "GET",
+        "POST",
+        "DELETE",
+        "PATCH"
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0205-06",
+      "text": "¿Qué método HTTP se utiliza normalmente para crear un nuevo recurso?",
+      "options": [
+        "GET",
+        "POST",
+        "PUT",
+        "DELETE"
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0205-07",
+      "text": "¿Qué método HTTP se utiliza normalmente para eliminar un recurso?",
+      "options": [
+        "POST",
+        "PATCH",
+        "DELETE",
+        "GET"
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0205-08",
+      "text": "¿Qué método HTTP se asocia normalmente con la actualización completa de un recurso?",
+      "options": [
+        "GET",
+        "POST",
+        "DELETE",
+        "PUT"
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0205-09",
+      "text": "Si se desea modificar únicamente el correo electrónico de un usuario sin reemplazar todos sus datos, ¿qué método HTTP es apropiado?",
+      "options": [
+        "PATCH",
+        "GET",
+        "DELETE",
+        "OPTIONS"
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0205-10",
+      "text": "En la siguiente ruta, ¿qué representa /usuarios?\n\nGET /usuarios",
+      "options": [
+        "Un código HTTP.",
+        "El path o ruta del recurso.",
+        "Un token JWT.",
+        "Un motor de base de datos."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0205-11",
+      "text": "En la ruta GET /usuarios/25, el valor 25 normalmente representa:",
+      "options": [
+        "Un método HTTP.",
+        "Un código de error.",
+        "Un parámetro de ruta o Path Param.",
+        "Un encabezado de autorización."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0205-12",
+      "text": "Observe la ruta. ¿Cuáles son Query Params?\n\nGET /productos?categoria=tecnologia&activo=true",
+      "options": [
+        "/productos y GET",
+        "categoria únicamente",
+        "tecnologia y true únicamente",
+        "categoria y activo."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0205-13",
+      "text": "¿Cuál es un uso común de los Query Params en una API REST?",
+      "options": [
+        "Filtrar, ordenar o limitar los resultados de una consulta.",
+        "Definir la contraseña del servidor.",
+        "Crear automáticamente una base de datos.",
+        "Reemplazar todos los métodos HTTP."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0205-14",
+      "text": "¿Qué código HTTP indica normalmente que una solicitud fue procesada correctamente?",
+      "options": [
+        "404",
+        "200",
+        "500",
+        "401"
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0205-15",
+      "text": "¿Qué código HTTP se utiliza normalmente cuando un recurso solicitado no existe?",
+      "options": [
+        "201",
+        "400",
+        "404",
+        "500"
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0205-16",
+      "text": "¿Qué código HTTP representa normalmente un error interno del servidor?",
+      "options": [
+        "200",
+        "201",
+        "403",
+        "500"
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0205-17",
+      "text": "¿Cuál relación entre código HTTP y significado es correcta?",
+      "options": [
+        "401 → usuario no autenticado o credenciales no válidas.",
+        "404 → operación creada correctamente.",
+        "200 → error interno del servidor.",
+        "500 → recurso no encontrado."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0205-18",
+      "text": "¿Cuál flujo representa mejor una arquitectura web común?",
+      "options": [
+        "Base de datos → Teclado → Frontend.",
+        "Frontend → Backend/API → Base de datos.",
+        "Frontend → Base de datos directamente en todos los casos.",
+        "API → Monitor → Base de datos."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0205-19",
+      "text": "¿Cuál es una responsabilidad común del backend?",
+      "options": [
+        "Dibujar físicamente los botones del teclado.",
+        "Ejecutar únicamente estilos CSS.",
+        "Procesar lógica de negocio y acceder a la base de datos.",
+        "Reemplazar la base de datos por HTML."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0205-20",
+      "text": "¿Por qué es útil que el backend exponga una API?",
+      "options": [
+        "Porque obliga a que todos los consumidores usen JavaScript.",
+        "Porque evita completamente el uso de una base de datos.",
+        "Porque hace innecesaria la autenticación.",
+        "Porque permite que el frontend y otros sistemas consuman funcionalidades de forma controlada."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0205-21",
+      "text": "Un sistema desarrollado en Java necesita consumir información de un backend creado con Node.js. ¿Qué afirmación es correcta?",
+      "options": [
+        "Pueden integrarse mediante una API aunque utilicen tecnologías diferentes.",
+        "No pueden comunicarse porque utilizan lenguajes distintos.",
+        "Solo pueden integrarse si ambos utilizan la misma base de datos.",
+        "Necesariamente deben convertir ambos sistemas a Node.js."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0205-22",
+      "text": "¿Qué significa autenticación en un sistema?",
+      "options": [
+        "Determinar qué permisos tiene un usuario.",
+        "Verificar la identidad del usuario.",
+        "Eliminar automáticamente el token.",
+        "Crear una nueva base de datos."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0205-23",
+      "text": "¿Qué significa autorización?",
+      "options": [
+        "Validar únicamente el nombre de usuario.",
+        "Crear el token JWT sin revisar permisos.",
+        "Determinar qué acciones o recursos puede utilizar un usuario autenticado.",
+        "Convertir un GET en POST."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0205-24",
+      "text": "¿Para qué se utiliza comúnmente un JWT en una API?",
+      "options": [
+        "Para almacenar archivos de imagen.",
+        "Para reemplazar todos los códigos HTTP.",
+        "Para crear tablas en la base de datos.",
+        "Para transportar información que permite identificar y validar una sesión o usuario en solicitudes protegidas."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0205-25",
+      "text": "¿Cómo se envía comúnmente un JWT a una API protegida?",
+      "options": [
+        "En el encabezado Authorization utilizando Bearer.",
+        "Como nombre de una tabla SQL.",
+        "Dentro del método GET como código HTTP.",
+        "Como extensión del archivo JavaScript."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0205-26",
+      "text": "Un usuario está correctamente autenticado, pero intenta acceder a una función para la cual no tiene permiso. ¿Qué código HTTP es el más apropiado?",
+      "options": [
+        "200",
+        "403",
+        "201",
+        "500"
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0205-27",
+      "text": "¿Qué es Node.js?",
+      "options": [
+        "Un motor de base de datos relacional.",
+        "Un framework exclusivo de diseño gráfico.",
+        "Un entorno que permite ejecutar JavaScript fuera del navegador, por ejemplo en servidores.",
+        "Un código HTTP."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0205-28",
+      "text": "Observe el código. ¿Qué tipo de solicitud atiende esta ruta?\n\napp.get('/usuarios', (req, res) => {\n\nres.json({ mensaje: 'Lista de usuarios' });\n\n});",
+      "options": [
+        "POST",
+        "DELETE",
+        "PATCH",
+        "GET"
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0205-29",
+      "text": "Observe el código. ¿Cómo se obtiene el valor del parámetro id enviado en /usuarios/:id?\n\napp.get('/usuarios/:id', (req, res) => {\n\nconst id = req.params.id;\n\nres.json({ id: id });\n\n});",
+      "options": [
+        "Con req.params.id.",
+        "Con req.body.id únicamente.",
+        "Con res.params.id.",
+        "Con app.id."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0205-30",
+      "text": "Observe el código. ¿Qué expresión obtiene el valor del Query Param categoria?\n\napp.get('/productos', (req, res) => {\n\nconst categoria = req.query.categoria;\n\n});",
+      "options": [
+        "req.params.categoria",
+        "req.query.categoria",
+        "res.query.categoria",
+        "app.query.categoria"
+      ],
+      "correctOption": 1
+    }
+  ]
+}

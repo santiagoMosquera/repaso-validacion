@@ -39,6 +39,42 @@
       "code": "0106 ",
       "name": "Introducción a DevOps y Control de Versiones",
       "file": "/data/0106-introduccion-a-devops-y-control-de-versiones.json"
+    },
+    {
+      "id": "0201",
+      "code": "0201",
+      "name": "Matemáticas Discretas",
+      "file": "/data/0201-matematicas-discretas.json"
+    },
+    {
+      "id": "0202",
+      "code": "0202",
+      "name": "Fundamentos de Bases de Datos",
+      "file": "/data/0202-fundamentos-de-bases-de-datos.json"
+    },
+    {
+      "id": "0203",
+      "code": "0203",
+      "name": "Introducción a la Ingeniería de Software",
+      "file": "/data/0203-introduccion-a-la-ingenieria-de-software.json"
+    },
+    {
+      "id": "0204",
+      "code": "0204",
+      "name": "Programación Orientada a Objetos",
+      "file": "/data/0204-programacion-orientada-a-objetos.json"
+    },
+    {
+      "id": "0205",
+      "code": "0205",
+      "name": "Desarrollo Web Backend",
+      "file": "/data/0205-desarrollo-web-backend.json"
+    },
+      {
+      "id": "0206",
+      "code": "0206",
+      "name": "Lenguaje y Comunicación",
+      "file": "/data/0206-lenguaje-y-comunicacion.json"
     }
   ]
 }

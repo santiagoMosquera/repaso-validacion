@@ -1,0 +1,338 @@
+{
+  "id": "0204",
+  "code": "0204",
+  "name": "Programación Orientada a Objetos",
+  "program": "Tecnología Superior en Desarrollo de Software y Programación",
+  "questions": [
+    {
+      "id": "0204-01",
+      "text": "¿Qué representa una clase en programación orientada a objetos?",
+      "options": [
+        "Una plantilla que define características y comportamientos de objetos.",
+        "Una variable que solo almacena números.",
+        "Un error generado por Java.",
+        "Una lista que únicamente almacena texto."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0204-02",
+      "text": "En el siguiente código, ¿cuál es el nombre de la clase?\n\nclass Persona {\n\nString nombre;\n\nvoid saludar() {\n\nSystem.out.println(\"Hola\");\n\n}\n\n}",
+      "options": [
+        "nombre",
+        "Persona",
+        "saludar",
+        "String"
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0204-03",
+      "text": "En el código anterior, ¿cuál elemento corresponde a un método de la clase Persona?",
+      "options": [
+        "Persona",
+        "nombre",
+        "saludar()",
+        "String"
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0204-04",
+      "text": "¿Qué instrucción crea un objeto de la clase Persona?",
+      "options": [
+        "Persona = new;",
+        "new Persona;",
+        "Persona();",
+        "Persona p = new Persona();"
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0204-05",
+      "text": "¿Qué representa el atributo nombre dentro de una clase Persona?",
+      "options": [
+        "Un dato que describe una característica del objeto.",
+        "Un método obligatorio de Java.",
+        "Una excepción.",
+        "Una interfaz."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0204-06",
+      "text": "¿Cuál es el objetivo principal del encapsulamiento?",
+      "options": [
+        "Ocultar el código fuente completamente.",
+        "Controlar el acceso al estado interno de un objeto.",
+        "Eliminar la necesidad de utilizar métodos.",
+        "Permitir que todos los atributos sean públicos."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0204-07",
+      "text": "Observe la clase. ¿Por qué el atributo nombre está declarado como private?\n\nclass Persona {\n\nprivate String nombre;\n\npublic String getNombre() {\n\nreturn nombre;\n\n}\n\n}",
+      "options": [
+        "Para que no exista dentro de los objetos.",
+        "Para convertirlo automáticamente en un método.",
+        "Para restringir su acceso directo desde otras clases.",
+        "Para que Java lo elimine al finalizar el programa."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0204-08",
+      "text": "¿Qué método se utiliza normalmente para obtener el valor de un atributo privado?",
+      "options": [
+        "Constructor",
+        "Setter",
+        "main",
+        "Getter"
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0204-09",
+      "text": "¿Cuál es una ventaja de utilizar setters en una clase?",
+      "options": [
+        "Permiten validar un valor antes de asignarlo a un atributo.",
+        "Obligan a que todos los atributos sean públicos.",
+        "Eliminan automáticamente los objetos.",
+        "Evitan que una clase tenga métodos."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0204-10",
+      "text": "¿Qué palabra reservada se utiliza en Java para indicar que una clase hereda de otra?",
+      "options": [
+        "implements",
+        "extends",
+        "inherits",
+        "superclass"
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0204-11",
+      "text": "Observe el código. Si Perro no redefine el método respirar(), ¿puede ejecutarlo un objeto de tipo Perro?\n\nclass Animal {\n\npublic void respirar() {\n\nSystem.out.println(\"Respirando\");\n\n}\n\n}\n\nclass Perro extends Animal {\n\n}",
+      "options": [
+        "No, porque los métodos nunca se heredan.",
+        "Solo si respirar() es private.",
+        "Sí, porque es un método público definido en la clase padre.",
+        "Solo si Perro es una interfaz."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0204-12",
+      "text": "¿Qué indica la anotación @Override en Java?",
+      "options": [
+        "Que un método será eliminado.",
+        "Que una clase es una interfaz.",
+        "Que se crea un nuevo atributo privado.",
+        "Que el método redefine un comportamiento heredado."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0204-13",
+      "text": "¿Cuál es una ventaja principal de la herencia?",
+      "options": [
+        "Permite reutilizar comportamientos definidos en una clase padre.",
+        "Hace que todos los atributos sean públicos.",
+        "Evita utilizar objetos.",
+        "Impide sobrescribir métodos."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0204-14",
+      "text": "¿Qué palabra reservada se utiliza para declarar una interfaz en Java?",
+      "options": [
+        "class",
+        "interface",
+        "extends",
+        "new"
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0204-15",
+      "text": "¿Qué palabra se utiliza normalmente para que una clase implemente una interfaz?",
+      "options": [
+        "inherits",
+        "override",
+        "implements",
+        "instanceof"
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0204-16",
+      "text": "Observe el código. ¿Qué debe hacer la clase Pajaro respecto al método volar()?\n\ninterface Volador {\n\nvoid volar();\n\n}\n\nclass Pajaro implements Volador {\n\n// código pendiente\n\n}",
+      "options": [
+        "Eliminarlo de la interfaz.",
+        "Convertirlo en atributo.",
+        "Ignorarlo siempre.",
+        "Implementarlo, proporcionando su comportamiento."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0204-17",
+      "text": "¿Qué describe mejor el polimorfismo en programación orientada a objetos?",
+      "options": [
+        "Permite tratar objetos de clases relacionadas mediante un tipo común y ejecutar comportamientos específicos.",
+        "Convierte todos los objetos en variables String.",
+        "Impide sobrescribir métodos.",
+        "Permite usar únicamente una clase en todo el programa."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0204-18",
+      "text": "Observe el código. ¿Qué método se ejecutará al llamar animal.sonido()?\n\nclass Animal {\n\npublic void sonido() {\n\nSystem.out.println(\"Sonido\");\n\n}\n\n}\n\nclass Perro extends Animal {\n\n@Override\n\npublic void sonido() {\n\nSystem.out.println(\"Guau\");\n\n}\n\n}\n\nAnimal animal = new Perro();\n\nanimal.sonido();",
+      "options": [
+        "El método de Object.",
+        "El método sonido() redefinido en Perro.",
+        "Ningún método.",
+        "Siempre el método de Animal, sin importar el objeto."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0204-19",
+      "text": "En la declaración Animal animal = new Perro();, ¿qué representa Animal?",
+      "options": [
+        "El nombre del objeto creado.",
+        "El constructor utilizado.",
+        "El tipo de la referencia.",
+        "Una interfaz obligatoria."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0204-20",
+      "text": "¿Qué característica permite que Perro y Gato tengan su propia versión del método sonido()?",
+      "options": [
+        "Encapsulamiento solamente.",
+        "Uso de ArrayList.",
+        "NullPointerException.",
+        "Sobrescritura de métodos."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0204-21",
+      "text": "¿Qué tipo de elementos puede almacenar la siguiente colección?\n\nArrayList<Persona> personas = new ArrayList<>();",
+      "options": [
+        "Objetos de tipo Persona.",
+        "Únicamente números enteros.",
+        "Cualquier objeto sin restricción de tipo.",
+        "Solo valores booleanos."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0204-22",
+      "text": "¿Qué método se utiliza para agregar un objeto a un ArrayList?",
+      "options": [
+        "get()",
+        "add()",
+        "size()",
+        "removeAll()"
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0204-23",
+      "text": "Observe el código. ¿Qué devuelve personas.get(0)?\n\nArrayList<Persona> personas = new ArrayList<>();\n\npersonas.add(new Persona(\"Ana\"));\n\npersonas.add(new Persona(\"Luis\"));\n\nPersona p = personas.get(0);",
+      "options": [
+        "El tamaño del ArrayList.",
+        "La última Persona de la lista.",
+        "El primer objeto Persona almacenado.",
+        "Elimina el primer objeto."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0204-24",
+      "text": "¿Qué método permite conocer cuántos elementos contiene un ArrayList?",
+      "options": [
+        "length()",
+        "count()",
+        "getSize()",
+        "size()"
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0204-25",
+      "text": "¿Qué realiza el siguiente código?\n\nfor (Persona p : personas) {\n\nSystem.out.println(p.getNombre());\n\n}",
+      "options": [
+        "Recorre todas las personas de la lista y muestra su nombre.",
+        "Elimina todas las personas.",
+        "Crea una nueva lista en cada iteración.",
+        "Muestra únicamente la primera persona."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0204-26",
+      "text": "¿Qué ocurrirá al ejecutar el siguiente código?\n\nPersona persona = null;\n\nSystem.out.println(persona.getNombre());",
+      "options": [
+        "Se imprimirá null sin problemas.",
+        "Se producirá una NullPointerException.",
+        "Se creará automáticamente un objeto Persona.",
+        "Java cambiará persona por una cadena vacía."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0204-27",
+      "text": "¿Cuál es una causa común de NullPointerException?",
+      "options": [
+        "Utilizar un método static.",
+        "Crear una clase con constructor.",
+        "Intentar acceder a un método o atributo mediante una referencia null.",
+        "Agregar un objeto válido a un ArrayList."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0204-28",
+      "text": "¿Cuál de las siguientes validaciones ayuda a prevenir una NullPointerException antes de usar persona?",
+      "options": [
+        "if (persona == new Persona())",
+        "if (persona instanceof null)",
+        "if (persona = null)",
+        "if (persona != null)"
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0204-29",
+      "text": "¿Cuál de los siguientes grupos contiene únicamente conceptos propios de la programación orientada a objetos?",
+      "options": [
+        "Clase, objeto, encapsulamiento, herencia y polimorfismo.",
+        "HTML, CSS, DNS y HTTP.",
+        "SELECT, INSERT, UPDATE y DELETE.",
+        "RAM, CPU, disco y monitor."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0204-30",
+      "text": "¿Cuál afirmación describe mejor un objeto en Java?",
+      "options": [
+        "Es siempre una interfaz.",
+        "Es una instancia creada a partir de una clase.",
+        "Es un error de compilación.",
+        "Es exclusivamente un método estático."
+      ],
+      "correctOption": 1
+    }
+  ]
+}

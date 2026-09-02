@@ -1,0 +1,338 @@
+{
+  "id": "0201",
+  "code": "0201",
+  "name": "Matemáticas Discretas",
+  "program": "Tecnología Superior en Desarrollo de Software y Programación",
+  "questions": [
+    {
+      "id": "0201-01",
+      "text": "¿Cuál es el valor de 5!?",
+      "options": [
+        "25",
+        "60",
+        "120",
+        "125"
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0201-02",
+      "text": "¿Cuál es el resultado de 6!?",
+      "options": [
+        "120",
+        "360",
+        "620",
+        "720"
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0201-03",
+      "text": "¿Cuál es el valor de 0!?",
+      "options": [
+        "0",
+        "1",
+        "No existe",
+        "10"
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0201-04",
+      "text": "¿Cuál es el resultado de la expresión 4! + 3!?",
+      "options": [
+        "24",
+        "27",
+        "30",
+        "36"
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0201-05",
+      "text": "¿De cuántas formas diferentes pueden ordenarse 4 libros distintos en una repisa?",
+      "options": [
+        "4",
+        "8",
+        "16",
+        "24"
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0201-06",
+      "text": "Cinco estudiantes deben colocarse en una fila. ¿De cuántas maneras diferentes pueden organizarse?",
+      "options": [
+        "25",
+        "60",
+        "120",
+        "125"
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0201-07",
+      "text": "¿Cuál es el resultado de la permutación P(6, 2)?",
+      "options": [
+        "12",
+        "20",
+        "30",
+        "36"
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0201-08",
+      "text": "En una competencia participan 5 corredores. ¿De cuántas maneras diferentes se pueden asignar el primer, segundo y tercer lugar?",
+      "options": [
+        "10",
+        "15",
+        "60",
+        "125"
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0201-09",
+      "text": "Se tienen 7 estudiantes y se deben elegir un presidente y un vicepresidente. ¿Cuántas formas diferentes existen para asignar los dos cargos?",
+      "options": [
+        "14",
+        "21",
+        "42",
+        "49"
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0201-10",
+      "text": "De un grupo de 5 estudiantes se deben seleccionar 2 para participar en una actividad. ¿Cuántos grupos diferentes pueden formarse?",
+      "options": [
+        "5",
+        "10",
+        "20",
+        "25"
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0201-11",
+      "text": "¿Cuál es el resultado de C(6, 3)?",
+      "options": [
+        "18",
+        "20",
+        "24",
+        "36"
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0201-12",
+      "text": "Una heladería ofrece 4 sabores diferentes. Si una persona desea escoger 2 sabores distintos, ¿cuántas combinaciones puede realizar?",
+      "options": [
+        "4",
+        "6",
+        "8",
+        "12"
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0201-13",
+      "text": "De un grupo de 7 personas se deben seleccionar 3 para formar un comité. ¿Cuántos comités diferentes pueden formarse?",
+      "options": [
+        "21",
+        "28",
+        "35",
+        "42"
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0201-14",
+      "text": "De 8 estudiantes se seleccionará únicamente uno para representar al curso. ¿Cuántas posibilidades existen?",
+      "options": [
+        "1",
+        "4",
+        "8",
+        "16"
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0201-15",
+      "text": "Considere A = {1, 2, 3, 4, 5} y B = {4, 5, 6, 7}. ¿Cuál es el resultado de A ∪ B?",
+      "options": [
+        "{1, 2, 3, 4, 5, 6, 7}",
+        "{4, 5}",
+        "{1, 2, 3}",
+        "{6, 7}"
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0201-16",
+      "text": "Considere A = {1, 2, 3, 4, 5} y B = {4, 5, 6, 7}. ¿Cuál es el resultado de A ∩ B?",
+      "options": [
+        "{1, 2, 3}",
+        "{4, 5}",
+        "{5, 6}",
+        "{4, 5, 6, 7}"
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0201-17",
+      "text": "Considere A = {1, 2, 3, 4, 5} y B = {4, 5, 6, 7}. ¿Cuál es el resultado de A − B?",
+      "options": [
+        "{1, 2, 3}",
+        "{4, 5}",
+        "{6, 7}",
+        "{1, 2, 3, 6, 7}"
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0201-18",
+      "text": "Considere A = {1, 2, 3, 4, 5} y B = {4, 5, 6, 7}. ¿Cuál es el resultado de B − A?",
+      "options": [
+        "{1, 2, 3}",
+        "{4, 5}",
+        "{6, 7}",
+        "{1, 2, 3, 6, 7}"
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0201-19",
+      "text": "Considere C = {a, b, c, d} y D = {c, d, e, f}. ¿Cuál es el resultado de C ∩ D?",
+      "options": [
+        "{a, b}",
+        "{c, d}",
+        "{e, f}",
+        "{a, b, e, f}"
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0201-20",
+      "text": "Considere C = {a, b, c, d} y D = {c, d, e, f}. ¿Cuál es el resultado de C ∪ D?",
+      "options": [
+        "{a, b, c, d, e, f}",
+        "{c, d}",
+        "{a, b, e, f}",
+        "{a, b, c, d}"
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0201-21",
+      "text": "Considere C = {a, b, c, d} y D = {c, d, e, f}. ¿Cuál es el resultado de D − C?",
+      "options": [
+        "{a, b}",
+        "{c, d}",
+        "{e, f}",
+        "{a, b, e, f}"
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0201-22",
+      "text": "Considere X = {2, 4, 6, 8} y Y = {1, 2, 3, 4}. ¿Cuál es el resultado de X ∩ Y?",
+      "options": [
+        "{1, 3}",
+        "{2, 4}",
+        "{6, 8}",
+        "{1, 2, 3, 4, 6, 8}"
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0201-23",
+      "text": "Considere M = {10, 20, 30, 40} y N = {30, 40, 50}. ¿Cuál es el resultado de M − N?",
+      "options": [
+        "{10, 20}",
+        "{30, 40}",
+        "{50}",
+        "{10, 20, 50}"
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0201-24",
+      "text": "En teoría de grafos, ¿cómo se llaman los elementos o puntos que forman parte de un grafo?",
+      "options": [
+        "Variables",
+        "Vértices",
+        "Funciones",
+        "Conjuntos"
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0201-25",
+      "text": "¿Cómo se denomina la conexión entre dos vértices de un grafo?",
+      "options": [
+        "Arista",
+        "Factorial",
+        "Variable",
+        "Conjunto"
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0201-26",
+      "text": "Un grafo posee los vértices V = {A, B, C, D}. ¿Cuántos vértices tiene el grafo?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0201-27",
+      "text": "Considere las aristas E = {(A,B), (B,C), (C,D)}. ¿Cuántas aristas tiene el grafo?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "6"
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0201-28",
+      "text": "Un vértice está conectado directamente con otros 3 vértices. ¿Cuál es su grado?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0201-29",
+      "text": "¿Cuál de las siguientes afirmaciones describe mejor un camino dentro de un grafo?",
+      "options": [
+        "Una secuencia de vértices conectados mediante aristas.",
+        "Un conjunto que no contiene elementos.",
+        "Una operación utilizada para calcular factoriales.",
+        "Una lista de números ordenados de menor a mayor."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0201-30",
+      "text": "¿Cuál es la principal característica de un grafo dirigido?",
+      "options": [
+        "No posee vértices.",
+        "Sus aristas tienen una dirección determinada.",
+        "Todos sus vértices deben estar conectados entre sí.",
+        "Solamente puede tener dos vértices."
+      ],
+      "correctOption": 1
+    }
+  ]
+}

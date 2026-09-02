@@ -1,0 +1,338 @@
+{
+  "id": "0203",
+  "code": "0203",
+  "name": "Introducción a la Ingeniería de Software",
+  "program": "Tecnología Superior en Desarrollo de Software y Programación",
+  "questions": [
+    {
+      "id": "0203-01",
+      "text": "¿Cuál es la principal responsabilidad del Product Owner en Scrum?",
+      "options": [
+        "Instalar los servidores del proyecto.",
+        "Definir y priorizar las necesidades del producto.",
+        "Diseñar únicamente la base de datos.",
+        "Aprobar las vacaciones del equipo."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0203-02",
+      "text": "¿Cuál es una función principal del Scrum Master?",
+      "options": [
+        "Asignar una nota a cada desarrollador.",
+        "Programar todo el sistema por sí solo.",
+        "Reemplazar al cliente en todas las decisiones.",
+        "Facilitar el trabajo del equipo y ayudar a eliminar impedimentos."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0203-03",
+      "text": "En Scrum, ¿quiénes construyen el incremento del producto durante el Sprint?",
+      "options": [
+        "Los Developers.",
+        "Únicamente el Product Owner.",
+        "Únicamente el Scrum Master.",
+        "Los usuarios finales."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0203-04",
+      "text": "¿Cuál es el objetivo principal de la Sprint Planning?",
+      "options": [
+        "Presentar el producto terminado al mercado.",
+        "Eliminar la documentación del proyecto.",
+        "Definir qué trabajo se realizará durante el Sprint.",
+        "Ejecutar pruebas de rendimiento."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0203-05",
+      "text": "¿Qué ceremonia de Scrum se realiza normalmente de forma breve y diaria para sincronizar al equipo?",
+      "options": [
+        "Sprint Review.",
+        "Sprint Retrospective.",
+        "Daily Scrum.",
+        "Product Release."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0203-06",
+      "text": "¿Qué se analiza principalmente en una Sprint Retrospective?",
+      "options": [
+        "Cómo mejorar la forma de trabajo del equipo.",
+        "El salario de los integrantes.",
+        "El diseño físico de los servidores.",
+        "La publicidad del producto."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0203-07",
+      "text": "¿Cuál es el objetivo principal del levantamiento de requerimientos?",
+      "options": [
+        "Comprar equipos para el proyecto.",
+        "Instalar el sistema operativo.",
+        "Eliminar todas las reglas del negocio.",
+        "Comprender las necesidades que debe satisfacer el sistema."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0203-08",
+      "text": "¿Cuál de las siguientes actividades puede utilizarse para levantar requerimientos?",
+      "options": [
+        "Cambiar la contraseña del servidor.",
+        "Entrevistar a usuarios y responsables del proceso.",
+        "Formatear los computadores.",
+        "Comprimir archivos del proyecto."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0203-09",
+      "text": "¿Para qué sirve un prototipo de una aplicación?",
+      "options": [
+        "Para reemplazar definitivamente la base de datos.",
+        "Para representar y validar una idea de interfaz o funcionamiento antes del desarrollo completo.",
+        "Para eliminar la necesidad de hablar con el usuario.",
+        "Para medir la velocidad de Internet."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0203-10",
+      "text": "Si un cliente revisa un prototipo y solicita cambiar la ubicación de varios botones, ¿qué beneficio del prototipado se está aprovechando?",
+      "options": [
+        "Eliminar la necesidad de pruebas.",
+        "Evitar almacenar información.",
+        "Detectar ajustes antes de invertir más tiempo en el desarrollo final.",
+        "Reemplazar al equipo de desarrollo."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0203-11",
+      "text": "¿Qué busca comprobar una prueba unitaria?",
+      "options": [
+        "El funcionamiento correcto de una pequeña unidad de código de manera aislada.",
+        "El comportamiento de todos los sistemas de una empresa al mismo tiempo.",
+        "La velocidad de la conexión a Internet.",
+        "El diseño gráfico completo de una aplicación."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0203-12",
+      "text": "Un desarrollador prueba de forma independiente una función que calcula el total de una factura. ¿Qué tipo de prueba está realizando?",
+      "options": [
+        "Prueba de integración.",
+        "Prueba de rendimiento.",
+        "Prueba de aceptación.",
+        "Prueba unitaria."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0203-13",
+      "text": "¿Cuál es una ventaja de las pruebas unitarias?",
+      "options": [
+        "Garantizan que nunca existirán errores.",
+        "Eliminan la necesidad de escribir código.",
+        "Sustituyen todas las demás pruebas.",
+        "Ayudan a detectar errores en componentes pequeños del sistema."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0203-14",
+      "text": "¿Qué validan principalmente las pruebas de integración?",
+      "options": [
+        "Que una función aislada retorne un valor.",
+        "Que diferentes módulos o componentes funcionen correctamente al comunicarse entre sí.",
+        "Que el usuario recuerde su contraseña.",
+        "Que el monitor tenga buena resolución."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0203-15",
+      "text": "Se desea comprobar que el backend guarde correctamente en la base de datos la información enviada desde una pantalla. ¿Qué tipo de prueba es más adecuada?",
+      "options": [
+        "Prueba unitaria únicamente.",
+        "Prueba de ortografía.",
+        "Prueba de integración.",
+        "Prueba de diseño gráfico."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0203-16",
+      "text": "¿Cuál de los siguientes casos representa una prueba de integración?",
+      "options": [
+        "Verificar que un servicio de pagos se comunique correctamente con el módulo de facturación.",
+        "Probar únicamente una suma dentro de una función.",
+        "Revisar el color de un botón sin interacción con otros componentes.",
+        "Cambiar el fondo de pantalla del computador."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0203-17",
+      "text": "¿Qué evalúa principalmente una prueba de rendimiento?",
+      "options": [
+        "La ortografía del código fuente.",
+        "El diseño del logotipo.",
+        "El comportamiento del sistema bajo determinadas condiciones de carga y tiempo de respuesta.",
+        "La cantidad de reuniones del equipo."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0203-18",
+      "text": "Un sistema será utilizado por cientos de usuarios al mismo tiempo. ¿Qué prueba ayuda a analizar si mantiene tiempos de respuesta aceptables?",
+      "options": [
+        "Prueba unitaria.",
+        "Prueba de prototipo.",
+        "Prueba de requerimientos.",
+        "Prueba de rendimiento."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0203-19",
+      "text": "¿Cuál de los siguientes datos puede ser relevante durante una prueba de rendimiento?",
+      "options": [
+        "Nombre del Scrum Master.",
+        "Tiempo de respuesta de una operación.",
+        "Color del logotipo.",
+        "Número de reuniones realizadas."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0203-20",
+      "text": "En una arquitectura con frontend, backend y base de datos, ¿qué capa interactúa directamente con el usuario?",
+      "options": [
+        "Frontend.",
+        "Backend.",
+        "Base de datos.",
+        "Servidor DNS."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0203-21",
+      "text": "¿Cuál es una responsabilidad típica del backend?",
+      "options": [
+        "Procesar la lógica de negocio y atender solicitudes de la aplicación.",
+        "Mostrar únicamente botones y formularios al usuario.",
+        "Diseñar el logotipo empresarial.",
+        "Reemplazar la base de datos por archivos de imagen."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0203-22",
+      "text": "¿Cuál es la función principal de la base de datos dentro de esta arquitectura?",
+      "options": [
+        "Diseñar las pantallas.",
+        "Mostrar animaciones al usuario.",
+        "Dirigir las ceremonias de Scrum.",
+        "Almacenar y gestionar la información persistente del sistema."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0203-23",
+      "text": "¿Cuál representa mejor un flujo común de una aplicación en capas?",
+      "options": [
+        "Base de datos → Teclado → Monitor.",
+        "Scrum Master → Frontend → Product Owner.",
+        "Frontend → Backend → Base de datos.",
+        "Prototipo → Impresora → Internet."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0203-24",
+      "text": "¿Qué es una API?",
+      "options": [
+        "Un tipo de monitor para programadores.",
+        "Una interfaz que permite que aplicaciones o componentes se comuniquen mediante reglas definidas.",
+        "Una metodología para reemplazar Scrum.",
+        "Un dispositivo para almacenar archivos físicamente."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0203-25",
+      "text": "¿Cuál es una ventaja del uso de APIs?",
+      "options": [
+        "Obligan a que todos los sistemas estén desarrollados en el mismo lenguaje.",
+        "Facilitan la integración y reutilización de funcionalidades entre sistemas.",
+        "Eliminan la necesidad de redes.",
+        "Impiden compartir información entre aplicaciones."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0203-26",
+      "text": "Una aplicación móvil necesita consultar el saldo de un cliente almacenado en otro sistema. ¿Qué mecanismo puede facilitar esta comunicación?",
+      "options": [
+        "Una Sprint Retrospective.",
+        "Un prototipo en papel.",
+        "Una prueba unitaria.",
+        "Una API."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0203-27",
+      "text": "¿Qué ventaja aporta una API al separar la interfaz de usuario de la lógica del sistema?",
+      "options": [
+        "Permite que diferentes aplicaciones consuman los mismos servicios sin conocer todos los detalles internos.",
+        "Obliga a copiar toda la base de datos en cada pantalla.",
+        "Evita que el backend procese información.",
+        "Hace innecesario definir reglas de comunicación."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0203-28",
+      "text": "Un frontend desarrollado en Angular necesita consumir información de un backend desarrollado en Java. ¿Es posible integrarlos?",
+      "options": [
+        "No, ambos deben estar desarrollados obligatoriamente en Angular.",
+        "No, Java solo puede comunicarse con Java.",
+        "Sí, pero únicamente si no existe una base de datos.",
+        "Sí, si utilizan un mecanismo de comunicación compatible, como una API."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0203-29",
+      "text": "¿Qué permite que dos sistemas desarrollados con tecnologías diferentes puedan intercambiar información?",
+      "options": [
+        "Utilizar exactamente el mismo computador.",
+        "Tener el mismo diseño visual.",
+        "Definir interfaces, protocolos y formatos de comunicación compatibles.",
+        "Usar obligatoriamente el mismo lenguaje de programación."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0203-30",
+      "text": "Un sistema desarrollado en .NET debe enviar información a otro desarrollado en Node.js. ¿Cuál es una solución adecuada?",
+      "options": [
+        "Exponer y consumir una API con un formato de datos acordado.",
+        "Reescribir obligatoriamente ambos sistemas en el mismo lenguaje.",
+        "Eliminar uno de los sistemas.",
+        "Compartir únicamente capturas de pantalla."
+      ],
+      "correctOption": 0
+    }
+  ]
+}

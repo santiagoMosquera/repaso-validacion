@@ -1,0 +1,338 @@
+{
+  "id": "0206",
+  "code": "0206",
+  "name": "Lenguaje y Comunicación",
+  "program": "Tecnología Superior en Desarrollo de Software y Programación",
+  "questions": [
+    {
+      "id": "0206-01",
+      "text": "¿Cuál es una ventaja importante de la comunicación escrita?",
+      "options": [
+        "Permite hablar sin preparación.",
+        "Evita la necesidad de organizar las ideas.",
+        "Permite dejar evidencia documental.",
+        "Reemplaza completamente la comunicación oral."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0206-02",
+      "text": "¿Cuál es la función principal del asunto en un correo electrónico profesional?",
+      "options": [
+        "Identificar de manera breve el contenido principal del mensaje.",
+        "Reemplazar el contenido del correo.",
+        "Incluir la despedida.",
+        "Decorar el mensaje."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0206-03",
+      "text": "¿Cuál de las siguientes características corresponde a una comunicación profesional?",
+      "options": [
+        "Uso frecuente de abreviaciones informales.",
+        "Mensajes extensos sin estructura.",
+        "Uso obligatorio de términos técnicos.",
+        "Claridad, coherencia y orden."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0206-04",
+      "text": "¿Qué significa que un texto tenga coherencia?",
+      "options": [
+        "Que contiene muchas imágenes.",
+        "Que sus ideas mantienen una relación lógica entre sí.",
+        "Que utiliza diferentes tipos de letra.",
+        "Que todos sus párrafos tienen el mismo tamaño."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0206-05",
+      "text": "¿Cuál es la función de la cohesión textual?",
+      "options": [
+        "Conectar adecuadamente las ideas y partes del texto.",
+        "Aumentar la extensión de un documento.",
+        "Cambiar el diseño gráfico del texto.",
+        "Reemplazar las reglas ortográficas."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0206-06",
+      "text": "¿Qué es una cita según las normas APA?",
+      "options": [
+        "Una lista de todos los capítulos de un documento.",
+        "Un saludo utilizado en textos académicos.",
+        "El reconocimiento de una fuente utilizada dentro del texto.",
+        "Una firma colocada al final del documento."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0206-07",
+      "text": "¿Cuál de los siguientes elementos debe identificarse al preparar un correo profesional?",
+      "options": [
+        "El color de fondo del correo.",
+        "El destinatario del mensaje.",
+        "La cantidad de archivos del computador.",
+        "El tipo de navegador utilizado."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0206-08",
+      "text": "¿Qué debería evitarse en una redacción profesional?",
+      "options": [
+        "Una estructura ordenada.",
+        "El uso correcto de la ortografía.",
+        "La claridad en las ideas.",
+        "El lenguaje excesivamente informal y las abreviaciones."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0206-09",
+      "text": "¿Qué es la argumentación?",
+      "options": [
+        "La exposición de razones que permiten sostener o defender una idea.",
+        "La repetición de una frase varias veces.",
+        "La escritura de un texto sin organización.",
+        "El uso de palabras difíciles para impresionar al lector."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0206-10",
+      "text": "¿Cuál es una característica de la comunicación efectiva?",
+      "options": [
+        "Utilizar únicamente lenguaje técnico.",
+        "Evitar que el receptor formule preguntas.",
+        "Lograr que el mensaje sea comprendido con claridad.",
+        "Transmitir la mayor cantidad posible de información."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0206-11",
+      "text": "¿A qué se refiere la gramática?",
+      "options": [
+        "Al formato visual de los documentos.",
+        "Al conjunto de reglas que permiten utilizar correctamente un idioma.",
+        "A la cantidad de palabras de un texto.",
+        "Al uso exclusivo de signos de puntuación."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0206-12",
+      "text": "¿Qué diferencia principalmente un mensaje profesional de WhatsApp de uno informal?",
+      "options": [
+        "La cantidad de mensajes enviados.",
+        "El dispositivo utilizado.",
+        "La hora en que se envía.",
+        "El uso de un lenguaje correcto, claro y con un tono adecuado."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0206-13",
+      "text": "¿Qué es una referencia bibliográfica?",
+      "options": [
+        "El conjunto de datos que permite identificar una fuente consultada.",
+        "Una opinión personal sobre un libro.",
+        "Una imagen obtenida de Internet.",
+        "El título principal de un documento."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0206-14",
+      "text": "¿Por qué es importante mantener una buena ortografía en la comunicación profesional?",
+      "options": [
+        "Porque permite escribir más rápido.",
+        "Porque evita utilizar referencias bibliográficas.",
+        "Porque contribuye a transmitir profesionalismo y credibilidad.",
+        "Porque sustituye la necesidad de redactar con claridad."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0206-15",
+      "text": "¿Qué son las barreras de comunicación?",
+      "options": [
+        "Técnicas utilizadas para mejorar una presentación.",
+        "Factores u obstáculos que dificultan la comprensión del mensaje.",
+        "Reglas para elaborar referencias APA.",
+        "Partes obligatorias de un correo electrónico."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0206-16",
+      "text": "¿Qué es un informe técnico desde el punto de vista comunicativo?",
+      "options": [
+        "Un mensaje informal enviado al equipo.",
+        "Un listado de archivos utilizados en el proyecto.",
+        "Una publicación realizada en redes sociales.",
+        "Un documento que comunica profesionalmente información sobre un proyecto."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0206-17",
+      "text": "¿Por qué es importante utilizar un lenguaje claro en un informe técnico?",
+      "options": [
+        "Para facilitar que el lector comprenda la información presentada.",
+        "Para aumentar la cantidad de páginas del documento.",
+        "Para evitar incluir explicaciones.",
+        "Para utilizar la mayor cantidad posible de términos especializados."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0206-18",
+      "text": "¿Qué sección de un informe técnico permite presentar inicialmente el propósito y contexto del proyecto?",
+      "options": [
+        "Referencias.",
+        "Conclusiones.",
+        "Introducción.",
+        "Anexos."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0206-19",
+      "text": "¿Cuál es la función de las conclusiones en un informe técnico?",
+      "options": [
+        "Presentar el índice del documento.",
+        "Resumir los principales resultados y reflexionar sobre ellos.",
+        "Incluir únicamente imágenes del sistema.",
+        "Presentar por primera vez los objetivos del proyecto."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0206-20",
+      "text": "¿Qué es un manual de usuario?",
+      "options": [
+        "Un documento dirigido exclusivamente a los programadores.",
+        "Un contrato entre el cliente y el desarrollador.",
+        "Un documento que contiene únicamente código fuente.",
+        "Un documento que guía al usuario en el uso correcto de un sistema."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0206-21",
+      "text": "¿A quién está dirigido principalmente un manual de usuario?",
+      "options": [
+        "Al usuario final que utilizará el sistema.",
+        "Únicamente al equipo de programación.",
+        "Al administrador de la base de datos exclusivamente.",
+        "Solo al gerente de la empresa."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0206-22",
+      "text": "¿Qué tipo de lenguaje debería utilizarse en un manual de usuario?",
+      "options": [
+        "Altamente técnico y especializado.",
+        "Jurídico y complejo.",
+        "Simple, directo y comprensible.",
+        "Informal y lleno de abreviaciones."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0206-23",
+      "text": "¿Cuál es la utilidad de incluir capturas de pantalla en un manual de usuario?",
+      "options": [
+        "Aumentar el número de páginas.",
+        "Facilitar la comprensión de los pasos mediante apoyo visual.",
+        "Reemplazar completamente las instrucciones escritas.",
+        "Decorar el documento."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0206-24",
+      "text": "¿Cuál es el propósito de una sección de preguntas frecuentes en un manual?",
+      "options": [
+        "Presentar dudas comunes y sus respectivas respuestas.",
+        "Mostrar únicamente errores técnicos.",
+        "Reemplazar la introducción del documento.",
+        "Registrar los nombres de los desarrolladores."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0206-25",
+      "text": "¿Qué habilidades se fortalecen al presentar oralmente un proyecto?",
+      "options": [
+        "Únicamente la memorización.",
+        "Exclusivamente la escritura técnica.",
+        "La lectura silenciosa y la mecanografía.",
+        "La expresión oral, la argumentación y la adaptación del mensaje al público."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0206-26",
+      "text": "¿Cuál es el objetivo comunicativo de simular una capacitación al cliente?",
+      "options": [
+        "Demostrar que se memorizó el manual.",
+        "Practicar la comunicación clara del funcionamiento del sistema a un usuario.",
+        "Evitar responder preguntas del usuario.",
+        "Presentar únicamente las características técnicas del software."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0206-27",
+      "text": "¿Qué debería hacer un expositor cuando nota que el público no comprende su explicación?",
+      "options": [
+        "Continuar sin realizar cambios.",
+        "Hablar más rápido para terminar la presentación.",
+        "Reformular la explicación utilizando otras palabras o ejemplos.",
+        "Entregar el documento y finalizar la presentación."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0206-28",
+      "text": "¿Qué elemento permite ubicar rápidamente las diferentes secciones de un informe técnico?",
+      "options": [
+        "El índice o tabla de contenidos.",
+        "La despedida.",
+        "El pie de página.",
+        "La firma del desarrollador."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0206-29",
+      "text": "¿Por qué deben incluirse referencias APA en un informe técnico cuando se utilizan fuentes externas?",
+      "options": [
+        "Para aumentar el número de páginas.",
+        "Para reemplazar las conclusiones.",
+        "Para hacer que el informe parezca más complejo.",
+        "Para reconocer las fuentes utilizadas y aportar credibilidad académica."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0206-30",
+      "text": "¿Cuál de las siguientes opciones representa una estructura adecuada para un informe técnico de acuerdo con los temas estudiados?",
+      "options": [
+        "Portada, memes, imágenes y despedida.",
+        "Portada, índice, introducción, objetivos, descripción del proyecto, tecnologías, arquitectura, capturas, conclusiones y referencias.",
+        "Título, código fuente y firma.",
+        "Introducción y conclusiones únicamente."
+      ],
+      "correctOption": 1
+    }
+  ]
+}

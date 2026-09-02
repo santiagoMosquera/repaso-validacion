@@ -1,0 +1,338 @@
+{
+  "id": "0202",
+  "code": "0202",
+  "name": "Fundamentos de Bases de Datos",
+  "program": "Tecnología Superior en Desarrollo de Software y Programación",
+  "questions": [
+    {
+      "id": "0202-01",
+      "text": "¿Cuál es una de las principales ventajas de almacenar información en una base de datos?",
+      "options": [
+        "La información solamente puede ser consultada una vez.",
+        "Evita completamente la necesidad de realizar respaldos.",
+        "Solo permite almacenar números.",
+        "Permite organizar, consultar y actualizar información de manera eficiente."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0202-02",
+      "text": "¿Qué ventaja ofrece una base de datos frente a almacenar información en archivos independientes?",
+      "options": [
+        "Permite reducir la duplicación innecesaria de información.",
+        "Obliga a repetir los mismos datos en varios archivos.",
+        "Impide que varios usuarios consulten información.",
+        "No permite realizar búsquedas."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0202-03",
+      "text": "¿Cuál de las siguientes opciones es una ventaja del uso de bases de datos?",
+      "options": [
+        "Evitar que la información pueda ser modificada.",
+        "Almacenar únicamente texto.",
+        "Permitir control de acceso mediante usuarios y permisos.",
+        "Eliminar automáticamente toda la información antigua."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0202-04",
+      "text": "¿Qué significa DML en el contexto de bases de datos?",
+      "options": [
+        "Database Main Language.",
+        "Data Model Logic.",
+        "Digital Management Language.",
+        "Data Manipulation Language."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0202-05",
+      "text": "¿Cuál de las siguientes sentencias DML se utiliza para agregar un nuevo registro?",
+      "options": [
+        "INSERT",
+        "ALTER",
+        "DROP",
+        "CREATE"
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0202-06",
+      "text": "¿Qué sentencia DML se utiliza para modificar datos existentes en una tabla?",
+      "options": [
+        "ALTER",
+        "TRUNCATE",
+        "UPDATE",
+        "CREATE"
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0202-07",
+      "text": "Observe la siguiente sentencia SQL. ¿Qué operación realiza?\n\nINSERT INTO estudiantes (nombre, edad)\nVALUES ('Carlos', 20);",
+      "options": [
+        "Crea una nueva tabla.",
+        "Elimina la tabla estudiantes.",
+        "Modifica la estructura de la tabla.",
+        "Agrega un nuevo estudiante."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0202-08",
+      "text": "¿Qué significa DDL en bases de datos?",
+      "options": [
+        "Digital Definition Language.",
+        "Data Definition Language.",
+        "Data Delete Language.",
+        "Database Development Logic."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0202-09",
+      "text": "¿Cuál sentencia DDL se utiliza para crear una nueva tabla?",
+      "options": [
+        "CREATE TABLE",
+        "INSERT INTO",
+        "UPDATE",
+        "SELECT"
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0202-10",
+      "text": "Observe la siguiente sentencia. ¿Qué hace?\n\nALTER TABLE estudiantes\nADD correo VARCHAR(100);",
+      "options": [
+        "Elimina la tabla estudiantes.",
+        "Consulta la columna correo.",
+        "Agrega una nueva columna llamada correo a la tabla estudiantes.",
+        "Agrega un nuevo estudiante."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0202-11",
+      "text": "¿Qué sentencia DDL se utiliza para eliminar completamente una tabla, incluyendo su estructura?",
+      "options": [
+        "DELETE",
+        "SELECT",
+        "UPDATE",
+        "DROP TABLE"
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0202-12",
+      "text": "¿Qué significa la letra C en CRUD?",
+      "options": [
+        "Create.",
+        "Consult.",
+        "Connect.",
+        "Control."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0202-13",
+      "text": "¿Qué operación CRUD corresponde a consultar o leer información?",
+      "options": [
+        "Replace.",
+        "Register.",
+        "Read.",
+        "Remove."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0202-14",
+      "text": "¿Cuál relación entre una operación CRUD y una sentencia SQL es correcta?",
+      "options": [
+        "Read → DELETE.",
+        "Update → SELECT.",
+        "Delete → CREATE.",
+        "Create → INSERT."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0202-15",
+      "text": "¿Qué es una clave primaria o Primary Key?",
+      "options": [
+        "Un campo utilizado únicamente para almacenar nombres.",
+        "Un campo que permite identificar de forma única cada registro de una tabla.",
+        "Una contraseña para acceder a la base de datos.",
+        "Un campo que siempre debe tener valores repetidos."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0202-16",
+      "text": "En una tabla ESTUDIANTES con los campos id_estudiante, nombre y edad, ¿cuál sería el campo más apropiado para utilizar como clave primaria?",
+      "options": [
+        "nombre",
+        "edad",
+        "Todos los campos al mismo tiempo.",
+        "id_estudiante"
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0202-17",
+      "text": "¿Qué es una clave foránea o Foreign Key?",
+      "options": [
+        "Un campo utilizado para establecer una relación con otra tabla.",
+        "La clave de acceso del administrador.",
+        "Una sentencia utilizada para eliminar registros.",
+        "Un campo que siempre debe ser la clave primaria de la misma tabla."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0202-18",
+      "text": "La tabla PEDIDOS posee los campos id_pedido, id_cliente y total. Si id_cliente se relaciona con la tabla CLIENTES, ¿qué función cumple id_cliente en PEDIDOS?",
+      "options": [
+        "Nombre de la tabla.",
+        "Sentencia DDL.",
+        "Clave foránea.",
+        "Clave primaria obligatoria."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0202-19",
+      "text": "¿Cuál es el objetivo principal de la integridad referencial?",
+      "options": [
+        "Ordenar todas las tablas alfabéticamente.",
+        "Eliminar las claves primarias.",
+        "Convertir todos los datos a texto.",
+        "Mantener relaciones válidas y consistentes entre las tablas."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0202-20",
+      "text": "Si la tabla PEDIDOS tiene una clave foránea id_cliente, ¿qué condición ayuda a mantener la integridad referencial?",
+      "options": [
+        "La tabla CLIENTES no debe tener clave primaria.",
+        "El valor de id_cliente debe hacer referencia a un cliente existente.",
+        "Todos los pedidos deben pertenecer al mismo cliente.",
+        "id_cliente debe contener únicamente letras."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0202-21",
+      "text": "Se intenta registrar un pedido con id_cliente = 100, pero el cliente 100 no existe en la tabla CLIENTES. ¿Qué principio se estaría incumpliendo?",
+      "options": [
+        "Integridad referencial.",
+        "Ordenamiento de datos.",
+        "Factorial.",
+        "Normalización de texto."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0202-22",
+      "text": "¿Qué sentencia se utiliza para consultar información almacenada en una tabla?",
+      "options": [
+        "ALTER",
+        "DROP",
+        "SELECT",
+        "INSERT"
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0202-23",
+      "text": "¿Cuál sentencia permite consultar todos los campos de la tabla productos?",
+      "options": [
+        "INSERT * FROM productos;",
+        "DELETE * FROM productos;",
+        "UPDATE * FROM productos;",
+        "SELECT * FROM productos;"
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0202-24",
+      "text": "Observe la consulta. ¿Qué resultado busca obtener?\n\nSELECT *\nFROM estudiantes\nORDER BY nombre;",
+      "options": [
+        "Mostrar los estudiantes ordenados por nombre.",
+        "Eliminar estudiantes por nombre.",
+        "Agregar estudiantes en orden alfabético.",
+        "Modificar el nombre de todos los estudiantes."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0202-25",
+      "text": "¿Qué palabra o cláusula se utiliza para ordenar los resultados de una consulta SQL?",
+      "options": [
+        "VALUES",
+        "ORDER BY",
+        "INSERT",
+        "ALTER"
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0202-26",
+      "text": "Observe la consulta. ¿Qué registros mostrará?\n\nSELECT *\nFROM productos\nWHERE precio > 10 AND stock > 0;",
+      "options": [
+        "Productos cuyo precio sea mayor a 10 aunque no tengan stock.",
+        "Productos con precio menor a 10.",
+        "Todos los productos.",
+        "Productos cuyo precio sea mayor a 10 y que además tengan stock mayor a 0."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0202-27",
+      "text": "Observe la consulta. ¿Qué estudiantes serán seleccionados?\n\nSELECT *\nFROM estudiantes\nWHERE edad = 18 OR edad = 19;",
+      "options": [
+        "Únicamente los estudiantes de 19 años.",
+        "Los estudiantes mayores de 19 años.",
+        "Los estudiantes que tengan 18 o 19 años.",
+        "Únicamente los estudiantes de 18 años."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0202-28",
+      "text": "¿Cuál de los siguientes es un sistema gestor de bases de datos relacional?",
+      "options": [
+        "MySQL.",
+        "Photoshop.",
+        "Microsoft Word.",
+        "Visual Studio Code."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0202-29",
+      "text": "¿Cuál de los siguientes grupos contiene únicamente sistemas gestores de bases de datos relacionales?",
+      "options": [
+        "HTML, CSS, JavaScript y SQL.",
+        "MySQL, PostgreSQL, Oracle Database y SQL Server.",
+        "MySQL, Photoshop, Excel y Word.",
+        "MongoDB, PowerPoint, Chrome y Excel."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0202-30",
+      "text": "¿Cuál de las siguientes opciones es también un sistema gestor de bases de datos relacional?",
+      "options": [
+        "Google Chrome.",
+        "Adobe Illustrator.",
+        "Node.js.",
+        "PostgreSQL."
+      ],
+      "correctOption": 3
+    }
+  ]
+}
