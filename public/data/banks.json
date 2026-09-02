@@ -9,6 +9,12 @@
       "code": "0101",
       "name": "Matemática 1",
       "file": "/data/0101-matematica-1.json"
+    },
+     {
+      "id": "0102",
+      "code": "0102",
+      "name": "Introducción a la Programación",
+      "file": "/data/0102-introduccion-a-la-programacion"
     }
   ]
 }

@@ -1,0 +1,338 @@
+{
+  "id": "0102",
+  "code": "0102",
+  "name": "Introducción a la Programación",
+  "program": "Tecnología Superior en Desarrollo de Software y Programación",
+  "questions": [
+    {
+      "id": "0102-01",
+      "text": "¿Qué tipo de dato se utiliza normalmente para almacenar números enteros?",
+      "options": [
+        "String",
+        "boolean",
+        "int",
+        "float"
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0102-02",
+      "text": "¿Qué tipo de dato es apropiado para almacenar un valor que solamente puede ser verdadero o falso?",
+      "options": [
+        "String",
+        "boolean",
+        "int",
+        "decimal"
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0102-03",
+      "text": "¿Qué tipo de dato se utiliza normalmente para almacenar texto?",
+      "options": [
+        "String",
+        "int",
+        "boolean",
+        "float"
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0102-04",
+      "text": "¿Qué tipo de dato sería apropiado para almacenar el precio de un producto como 15.75?",
+      "options": [
+        "boolean",
+        "String",
+        "int",
+        "float / double / decimal"
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0102-05",
+      "text": "¿Cuál de los siguientes valores corresponde a un dato booleano?",
+      "options": [
+        "\"true\"",
+        "25",
+        "true",
+        "\"25\""
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0102-06",
+      "text": "¿Cuál de los siguientes valores representa una cadena de texto?",
+      "options": [
+        "100",
+        "\"100\"",
+        "true",
+        "10.5"
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0102-07",
+      "text": "¿Cuál será la salida del siguiente código?\n\nfor (let i = 1; i <= 7; i += 2) {\n    console.log(i);\n}",
+      "options": [
+        "0, 2, 4, 6",
+        "1, 3, 5, 7",
+        "1, 2, 3, 4",
+        "2, 4, 6, 8"
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0102-08",
+      "text": "¿Cuál será la salida del siguiente código?\n\nfor (let i = 10; i >= 4; i -= 2) {\n    console.log(i);\n}",
+      "options": [
+        "10, 8, 6, 4",
+        "10, 9, 8, 7, 6, 5, 4",
+        "8, 6, 4, 2",
+        "4, 6, 8, 10"
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0102-09",
+      "text": "¿Qué se mostrará en consola al ejecutar el siguiente código?\n\nlet numero = 14;\n\nif (numero % 2 !== 0) {\n    console.log(\"A\");\n} else if (numero > 10) {\n    console.log(\"B\");\n} else {\n    console.log(\"C\");\n}",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "14"
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0102-10",
+      "text": "¿Qué imprime el siguiente código?\n\nlet edad = 18;\n\nif (edad >= 18) {\n    console.log(\"Mayor de edad\");\n} else {\n    console.log(\"Menor de edad\");\n}",
+      "options": [
+        "Menor de edad",
+        "Mayor de edad",
+        "18",
+        "No imprime nada"
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0102-11",
+      "text": "¿Cuál será la salida del siguiente código?\n\nlet numero = 7;\n\nif (numero > 10) {\n    console.log(\"A\");\n} else {\n    console.log(\"B\");\n}",
+      "options": [
+        "A",
+        "B",
+        "7",
+        "Error"
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0102-12",
+      "text": "¿Qué muestra la consola al ejecutar el siguiente código?\n\nlet nota = 8;\n\nif (nota >= 7) {\n    console.log(\"Aprobado\");\n} else {\n    console.log(\"Reprobado\");\n}",
+      "options": [
+        "Reprobado",
+        "8",
+        "Aprobado",
+        "true"
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0102-13",
+      "text": "¿Cuál será la salida del siguiente código?\n\nlet nota = 6;\n\nif (nota >= 9) {\n    console.log(\"Excelente\");\n} else if (nota >= 7) {\n    console.log(\"Aprobado\");\n} else {\n    console.log(\"Reprobado\");\n}",
+      "options": [
+        "Excelente",
+        "Aprobado",
+        "Reprobado",
+        "6"
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0102-14",
+      "text": "¿Qué imprime el siguiente programa?\n\nlet temperatura = 25;\n\nif (temperatura > 30) {\n    console.log(\"Calor\");\n} else if (temperatura >= 20) {\n    console.log(\"Templado\");\n} else {\n    console.log(\"Frío\");\n}",
+      "options": [
+        "Calor",
+        "Templado",
+        "Frío",
+        "25"
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0102-15",
+      "text": "¿Qué mostrará la consola?\n\nlet numero = 0;\n\nif (numero > 0) {\n    console.log(\"Positivo\");\n} else if (numero < 0) {\n    console.log(\"Negativo\");\n} else {\n    console.log(\"Cero\");\n}",
+      "options": [
+        "Positivo",
+        "Negativo",
+        "Cero",
+        "Error"
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0102-16",
+      "text": "¿Cuál será la salida del siguiente código?\n\nlet edad = 15;\n\nif (edad >= 18) {\n    console.log(\"Adulto\");\n} else if (edad >= 13) {\n    console.log(\"Adolescente\");\n} else {\n    console.log(\"Niño\");\n}",
+      "options": [
+        "Adulto",
+        "Adolescente",
+        "Niño",
+        "15"
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0102-17",
+      "text": "¿Cuál es el valor almacenado en la variable resultado después de ejecutar el código?\n\nfunction calcular(a, b) {\n    return a * 2 + b;\n}\n\nlet resultado = calcular(4, 3);\nconsole.log(resultado);",
+      "options": [
+        "7",
+        "8",
+        "11",
+        "14"
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0102-18",
+      "text": "En la siguiente función, ¿cuáles son los parámetros?\n\nfunction sumar(a, b) {\n    return a + b;\n}",
+      "options": [
+        "sumar",
+        "return",
+        "a y b",
+        "a + b"
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0102-19",
+      "text": "¿Qué valor queda almacenado en la variable total después de ejecutar el código?\n\nfunction calcularDescuento(precio, descuento) {\n    return precio - (precio * descuento / 100);\n}\n\nlet total = calcularDescuento(200, 10);\nconsole.log(total);",
+      "options": [
+        "20",
+        "180",
+        "190",
+        "200"
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0102-20",
+      "text": "¿Cuál es la salida del siguiente código?\n\nfunction sumar(a, b) {\n    return a + b;\n}\n\nlet resultado = sumar(4, 6);\nconsole.log(resultado);",
+      "options": [
+        "46",
+        "2",
+        "10",
+        "sumar"
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0102-21",
+      "text": "¿Qué imprime el siguiente código?\n\nfunction doble(numero) {\n    return numero * 2;\n}\n\nconsole.log(doble(5));",
+      "options": [
+        "5",
+        "7",
+        "10",
+        "25"
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0102-22",
+      "text": "¿Cuál es la salida del siguiente código?\n\nfor (let i = 1; i <= 3; i++) {\n    console.log(i);\n}",
+      "options": [
+        "0, 1, 2",
+        "1, 2, 3",
+        "1, 2, 3, 4",
+        "3, 2, 1"
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0102-23",
+      "text": "¿Cuántas veces se ejecuta el siguiente ciclo?\n\nfor (let i = 0; i < 5; i++) {\n    console.log(\"Hola\");\n}",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "Infinitas veces"
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0102-24",
+      "text": "¿Cuál es la salida del siguiente código?\n\nfor (let i = 2; i <= 6; i += 2) {\n    console.log(i);\n}",
+      "options": [
+        "2, 3, 4, 5, 6",
+        "2, 4, 6",
+        "0, 2, 4, 6",
+        "6, 4, 2"
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0102-25",
+      "text": "¿Cuál es la salida del siguiente código?\n\nfor (let i = 3; i > 0; i--) {\n    console.log(i);\n}",
+      "options": [
+        "1, 2, 3",
+        "3, 2, 1",
+        "3, 2, 1, 0",
+        "0, 1, 2, 3"
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0102-26",
+      "text": "Dado el siguiente arreglo, ¿cuál es el valor de frutas[0]?\n\nlet frutas = [\"manzana\", \"pera\", \"uva\"];",
+      "options": [
+        "pera",
+        "uva",
+        "manzana",
+        "0"
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0102-27",
+      "text": "¿Cuál es la salida del siguiente código?\n\nlet numeros = [10, 20, 30, 40];\n\nconsole.log(numeros[2]);",
+      "options": [
+        "10",
+        "20",
+        "30",
+        "40"
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0102-28",
+      "text": "¿Qué imprime el siguiente código?\n\nlet colores = [\"rojo\", \"azul\", \"verde\"];\n\nconsole.log(colores.length);",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "verde"
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0102-29",
+      "text": "¿Qué valor queda almacenado en la variable resultado?\n\nlet estudiante = {\n    nombre: \"Carlos\",\n    curso: \"Programación\",\n    nota: 9\n};\n\nlet resultado = estudiante.nota;\nconsole.log(resultado);",
+      "options": [
+        "Carlos",
+        "Programación",
+        "nota",
+        "9"
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0102-30",
+      "text": "¿Cuál es el valor de producto.precio después de ejecutar el código?\n\nlet producto = {\n    nombre: \"Laptop\",\n    precio: 850,\n    disponible: true\n};\n\nproducto.precio = producto.precio + 100;\n\nconsole.log(producto.precio);",
+      "options": [
+        "750",
+        "850",
+        "950",
+        "100"
+      ],
+      "correctOption": 2
+    }
+  ]
+}
