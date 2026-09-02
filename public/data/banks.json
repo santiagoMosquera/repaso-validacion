@@ -1,0 +1,14 @@
+{
+  "expectedBanks": 24,
+  "fullPracticeSize": 75,
+  "minimumPerBank": 3,
+  "reviewSize": 10,
+  "banks": [
+    {
+      "id": "0101",
+      "code": "0101",
+      "name": "Matemática 1",
+      "file": "/data/0101-matematica-1.json"
+    }
+  ]
+}
