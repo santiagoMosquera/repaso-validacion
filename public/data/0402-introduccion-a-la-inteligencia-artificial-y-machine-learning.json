@@ -1,0 +1,338 @@
+{
+  "id": "0402",
+  "code": "0402",
+  "name": "Introducción a la Inteligencia Artificial y Machine Learning",
+  "program": "Tecnología Superior en Desarrollo de Software y Programación",
+  "questions": [
+    {
+      "id": "0402-01",
+      "text": "¿Qué librería es adecuada para trabajar con arreglos multidimensionales?",
+      "options": [
+        "NumPy",
+        "Flask",
+        "React",
+        "Docker"
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0402-02",
+      "text": "Si necesitas representar datos mediante matrices o arreglos de varias dimensiones, ¿qué librería utilizarías?",
+      "options": [
+        "Docker",
+        "NumPy",
+        "React",
+        "Flask"
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0402-03",
+      "text": "¿Cuál de las siguientes herramientas se relaciona directamente con el manejo de arreglos multidimensionales?",
+      "options": [
+        "Flask",
+        "Docker",
+        "NumPy",
+        "React"
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0402-04",
+      "text": "Un ejercicio requiere manipular un arreglo con varias dimensiones. ¿Cuál es la opción correcta?",
+      "options": [
+        "React",
+        "Flask",
+        "Docker",
+        "NumPy"
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0402-05",
+      "text": "¿Cuál asociación es correcta?",
+      "options": [
+        "NumPy - arreglos multidimensionales",
+        "Flask - arreglos multidimensionales",
+        "React - arreglos multidimensionales",
+        "Docker - arreglos multidimensionales"
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0402-06",
+      "text": "¿Qué herramienta elegirías para trabajar con estructuras numéricas de varias dimensiones?",
+      "options": [
+        "Flask",
+        "NumPy",
+        "Docker",
+        "React"
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0402-07",
+      "text": "¿Cuál de estas opciones corresponde a la librería utilizada para arreglos multidimensionales?",
+      "options": [
+        "React",
+        "Docker",
+        "NumPy",
+        "Flask"
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0402-08",
+      "text": "Si un proyecto necesita manejar arreglos de varias dimensiones, ¿qué tecnología es la más apropiada entre las siguientes?",
+      "options": [
+        "Docker",
+        "React",
+        "Flask",
+        "NumPy"
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0402-09",
+      "text": "¿Qué significan las siglas EDA?",
+      "options": [
+        "Exploratory Data Analysis",
+        "External Data Access",
+        "Encoded Data Analysis",
+        "Efficient Data Algorithm"
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0402-10",
+      "text": "¿Qué siglas corresponden a Exploratory Data Analysis?",
+      "options": [
+        "ML",
+        "EDA",
+        "API",
+        "SQL"
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0402-11",
+      "text": "La expresión “Análisis Exploratorio de Datos” corresponde a:",
+      "options": [
+        "External Data Access",
+        "Efficient Data Algorithm",
+        "Exploratory Data Analysis",
+        "Encoded Data Analysis"
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0402-12",
+      "text": "¿Cuál de las siguientes expresiones desarrolla correctamente el acrónimo EDA?",
+      "options": [
+        "External Data Algorithm",
+        "Encoded Data Access",
+        "Efficient Data Analysis",
+        "Exploratory Data Analysis"
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0402-13",
+      "text": "Si en una actividad se menciona EDA, ¿a qué concepto se está haciendo referencia?",
+      "options": [
+        "Exploratory Data Analysis",
+        "External Data Access",
+        "Efficient Data Algorithm",
+        "Encoded Data Analysis"
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0402-14",
+      "text": "¿Cuál es la abreviatura correcta de Exploratory Data Analysis?",
+      "options": [
+        "API",
+        "EDA",
+        "ML",
+        "SQL"
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0402-15",
+      "text": "¿Qué término corresponde a las siglas EDA?",
+      "options": [
+        "Efficient Data Algorithm",
+        "External Data Access",
+        "Exploratory Data Analysis",
+        "Encoded Data Analysis"
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0402-16",
+      "text": "¿Qué modelo se utiliza para un problema de clasificación binaria?",
+      "options": [
+        "Regresión Logística",
+        "BubbleSort",
+        "DFS",
+        "BFS"
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0402-17",
+      "text": "Si una tarea consiste en clasificar cada caso entre dos categorías posibles, ¿qué modelo corresponde?",
+      "options": [
+        "DFS",
+        "Regresión Logística",
+        "BubbleSort",
+        "BFS"
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0402-18",
+      "text": "¿Cuál de las siguientes opciones es un modelo asociado a clasificación binaria?",
+      "options": [
+        "BFS",
+        "DFS",
+        "Regresión Logística",
+        "BubbleSort"
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0402-19",
+      "text": "Un sistema debe decidir entre dos resultados posibles. ¿Qué modelo sería apropiado?",
+      "options": [
+        "BubbleSort",
+        "DFS",
+        "BFS",
+        "Regresión Logística"
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0402-20",
+      "text": "¿Cuál asociación es correcta?",
+      "options": [
+        "Regresión Logística - clasificación binaria",
+        "BubbleSort - clasificación binaria",
+        "DFS - clasificación binaria",
+        "BFS - clasificación binaria"
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0402-21",
+      "text": "Para una clasificación con únicamente dos clases, ¿qué modelo seleccionarías?",
+      "options": [
+        "BFS",
+        "Regresión Logística",
+        "DFS",
+        "BubbleSort"
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0402-22",
+      "text": "¿Qué modelo está relacionado con problemas donde la salida pertenece a una de dos categorías?",
+      "options": [
+        "BubbleSort",
+        "BFS",
+        "Regresión Logística",
+        "DFS"
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0402-23",
+      "text": "¿Cuál opción completa correctamente la relación: clasificación binaria → ____?",
+      "options": [
+        "DFS",
+        "BubbleSort",
+        "BFS",
+        "Regresión Logística"
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0402-24",
+      "text": "¿Qué herramienta permite trabajar con Machine Learning sin necesidad de escribir código?",
+      "options": [
+        "Orange",
+        "Git",
+        "Linux",
+        "Docker"
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0402-25",
+      "text": "Si una persona quiere experimentar con Machine Learning sin programar, ¿qué herramienta puede utilizar?",
+      "options": [
+        "Docker",
+        "Orange",
+        "Git",
+        "Linux"
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0402-26",
+      "text": "¿Cuál de las siguientes herramientas está orientada a Machine Learning sin código?",
+      "options": [
+        "Git",
+        "Docker",
+        "Orange",
+        "Linux"
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0402-27",
+      "text": "¿Qué opción completa correctamente la relación: Machine Learning sin código → ____?",
+      "options": [
+        "Linux",
+        "Git",
+        "Docker",
+        "Orange"
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0402-28",
+      "text": "¿Cuál asociación es correcta?",
+      "options": [
+        "Orange - Machine Learning sin código",
+        "Git - Machine Learning sin código",
+        "Linux - Machine Learning sin código",
+        "Docker - Machine Learning sin código"
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0402-29",
+      "text": "Un estudiante quiere probar conceptos de Machine Learning sin escribir código. ¿Qué herramienta elegiría?",
+      "options": [
+        "Git",
+        "Orange",
+        "Docker",
+        "Linux"
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0402-30",
+      "text": "¿Qué combinación relaciona correctamente dos contenidos de la materia?",
+      "options": [
+        "Docker - arreglos multidimensionales / Git - Machine Learning sin código",
+        "React - arreglos multidimensionales / Linux - Machine Learning sin código",
+        "Flask - arreglos multidimensionales / Docker - Machine Learning sin código",
+        "NumPy - arreglos multidimensionales / Orange - Machine Learning sin código"
+      ],
+      "correctOption": 3
+    }
+  ]
+}

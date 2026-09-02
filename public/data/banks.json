@@ -75,6 +75,42 @@
       "code": "0206",
       "name": "Lenguaje y Comunicación",
       "file": "/data/0206-lenguaje-y-comunicacion.json"
+    },
+      {
+      "id": "0301",
+      "code": "0301",
+      "name": "Bases de Datos Avanzadas",
+      "file": "/data/0301-bases-de-datos-avanzadas.json"
+    },
+    {
+      "id": "0302",
+      "code": "0302",
+      "name": "Pruebas de Software y TDD",
+      "file": "/data/0302-pruebas-de-software-y-tdd.json"
+    },
+     {
+      "id": "0303",
+      "code": "0303",
+      "name": "Desarrollo de aplicaciones móviles",
+      "file": "/data/0303-desarrollo-de-aplicaciones-moviles.json"
+    },
+     {
+      "id": "0304",
+      "code": "0304",
+      "name": "Desarrollo de Videojuegos",
+      "file": "/data/0304-desarrollo-de-videojuegos.json"
+    },
+     {
+      "id": "0305",
+      "code": "0305",
+      "name": "Desarrollo Full Stack",
+      "file": "/data/0305-desarrollo-full-stack.json"
+    },
+     {
+      "id": "0306",
+      "code": "0306",
+      "name": "Metodología de la Investigación",
+      "file": "/data/0306-metodologia-de-la-investigacion.json"
     }
   ]
 }

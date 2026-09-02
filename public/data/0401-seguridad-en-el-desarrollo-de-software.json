@@ -1,0 +1,338 @@
+{
+  "id": "0401",
+  "code": "0401",
+  "name": "Seguridad en el Desarrollo de Software",
+  "program": "Tecnología Superior en Desarrollo de Software y Programación",
+  "questions": [
+    {
+      "id": "0401-01",
+      "text": "¿Qué busca proteger principalmente la Seguridad de la Información?",
+      "options": [
+        "Únicamente los servidores.",
+        "La información y los datos.",
+        "Solamente las redes.",
+        "Únicamente las aplicaciones móviles."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0401-02",
+      "text": "¿Cuál de los siguientes pertenece a la tríada CIA de seguridad?",
+      "options": [
+        "Programación.",
+        "Virtualización.",
+        "Confidencialidad.",
+        "Compilación."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0401-03",
+      "text": "¿Qué significa confidencialidad en el manejo de información?",
+      "options": [
+        "Que la información sea accesible solamente para personas autorizadas.",
+        "Que la aplicación responda más rápido.",
+        "Que todos puedan modificar los datos.",
+        "Que los archivos ocupen menos espacio."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0401-04",
+      "text": "¿Qué busca garantizar la integridad de la información?",
+      "options": [
+        "Que el sistema tenga mayor memoria.",
+        "Que la información esté siempre disponible en Internet.",
+        "Que todos puedan consultar los datos.",
+        "Que los datos se mantengan correctos y no sean modificados indebidamente."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0401-05",
+      "text": "¿Qué representa la disponibilidad?",
+      "options": [
+        "Tener más espacio en disco.",
+        "Poder acceder a la información y servicios cuando se los necesita.",
+        "Utilizar únicamente servidores físicos.",
+        "Tener una interfaz gráfica moderna."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0401-06",
+      "text": "¿Cuál de las siguientes herramientas puede mejorar la protección de acceso a una cuenta?",
+      "options": [
+        "Canva.",
+        "PowerPoint.",
+        "Excel.",
+        "MFA."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0401-07",
+      "text": "¿Qué técnica puede utilizarse para comprobar que determinada información no fue modificada?",
+      "options": [
+        "Streaming.",
+        "Compresión.",
+        "Hashing.",
+        "Animación."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0401-08",
+      "text": "¿Qué práctica ayuda a recuperar información cuando existe una pérdida o falla?",
+      "options": [
+        "Mantener backups.",
+        "Desactivar los logs.",
+        "Eliminar versiones antiguas.",
+        "Cambiar los nombres de los archivos."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0401-09",
+      "text": "¿Qué es una vulnerabilidad de software?",
+      "options": [
+        "Una nueva funcionalidad.",
+        "Una mejora de rendimiento.",
+        "Una debilidad que podría ser aprovechada para afectar el sistema.",
+        "Un framework de frontend."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0401-10",
+      "text": "¿Qué vulnerabilidad permite intentar manipular consultas enviadas a una base de datos?",
+      "options": [
+        "MFA.",
+        "SQL Injection.",
+        "Hashing.",
+        "Backup."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0401-11",
+      "text": "¿Cuál de las siguientes prácticas ayuda a evitar consultas SQL vulnerables?",
+      "options": [
+        "Utilizar variables globales.",
+        "Colocar las consultas dentro de archivos CSS.",
+        "Utilizar consultas preparadas o Prepared Statements.",
+        "Comentar todas las consultas."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0401-12",
+      "text": "Una aplicación construye una consulta SQL concatenando directamente el texto introducido por el usuario. ¿Qué riesgo podría existir?",
+      "options": [
+        "Mayor consumo de almacenamiento.",
+        "Pérdida de resolución gráfica.",
+        "Error de compilación HTML.",
+        "SQL Injection."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0401-13",
+      "text": "¿Qué representa XSS?",
+      "options": [
+        "Un sistema de backups.",
+        "Una base de datos.",
+        "Un mecanismo de autenticación.",
+        "La posibilidad de ejecutar scripts maliciosos dentro de una aplicación web."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0401-14",
+      "text": "¿Qué contiene OWASP Top 10?",
+      "options": [
+        "Los diez lenguajes de programación más utilizados.",
+        "Una recopilación de riesgos importantes de seguridad en aplicaciones web.",
+        "Los mejores frameworks de frontend.",
+        "Los sistemas operativos más seguros."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0401-15",
+      "text": "¿Cuál es la misión principal de OWASP según el banco de referencia?",
+      "options": [
+        "Crear bases de datos.",
+        "Administrar servidores.",
+        "Diseñar videojuegos.",
+        "Mejorar la seguridad del software."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0401-16",
+      "text": "¿Qué propone el enfoque Shift Left?",
+      "options": [
+        "Realizar todas las pruebas únicamente después de publicar.",
+        "Eliminar las pruebas de seguridad.",
+        "Incorporar la seguridad desde etapas tempranas del desarrollo.",
+        "Analizar únicamente el hardware."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0401-17",
+      "text": "¿Por qué resulta conveniente encontrar una vulnerabilidad durante el desarrollo y no después de publicar el sistema?",
+      "options": [
+        "Porque permite corregirla antes de que llegue al ambiente de uso real.",
+        "Porque evita utilizar Git.",
+        "Porque elimina la necesidad de realizar pruebas.",
+        "Porque convierte automáticamente el sistema en seguro."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0401-18",
+      "text": "¿Qué significa SAST?",
+      "options": [
+        "Static Application Security Testing.",
+        "Secure Application Server Tool.",
+        "Software Access System Test.",
+        "Security API Server Testing."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0401-19",
+      "text": "¿Qué analiza principalmente una herramienta SAST?",
+      "options": [
+        "Únicamente el servidor en producción.",
+        "El diseño gráfico.",
+        "Los dispositivos físicos.",
+        "El código fuente de la aplicación."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0401-20",
+      "text": "¿Cuál de las siguientes herramientas se relaciona con análisis SAST en el banco proporcionado?",
+      "options": [
+        "Postman.",
+        "SonarQube.",
+        "OWASP ZAP.",
+        "Photoshop."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0401-21",
+      "text": "¿Qué analiza principalmente DAST?",
+      "options": [
+        "Aplicaciones mientras se encuentran en ejecución.",
+        "Únicamente comentarios del código.",
+        "Archivos de imágenes.",
+        "Bases de datos apagadas."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0401-22",
+      "text": "¿Cuál de las siguientes herramientas aparece asociada a DAST?",
+      "options": [
+        "SonarQube.",
+        "Excel.",
+        "OWASP ZAP.",
+        "Canva."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0401-23",
+      "text": "¿Cuál es una diferencia básica entre SAST y DAST?",
+      "options": [
+        "SAST solamente funciona en móviles y DAST solamente en web.",
+        "SAST es una base de datos y DAST es un lenguaje.",
+        "No existe diferencia entre ambos.",
+        "SAST analiza código y DAST analiza la aplicación mientras se ejecuta."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0401-24",
+      "text": "¿Qué es una contraseña hardcoded?",
+      "options": [
+        "Una contraseña temporal enviada por correo.",
+        "Una contraseña escrita directamente dentro del código fuente.",
+        "Una contraseña biométrica.",
+        "Una contraseña generada automáticamente en cada ingreso."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0401-25",
+      "text": "¿Cuál es el principal riesgo de mantener contraseñas escritas directamente en el código?",
+      "options": [
+        "La aplicación funciona más lentamente.",
+        "Aumenta el tamaño del archivo.",
+        "La contraseña puede quedar expuesta junto con el código.",
+        "La base de datos pierde sus índices."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0401-26",
+      "text": "Si una aplicación necesita una contraseña para conectarse a un servicio externo, ¿qué opción sería más segura conceptualmente?",
+      "options": [
+        "Gestionarla fuera del código mediante un mecanismo apropiado de configuración o secretos.",
+        "Escribirla directamente en cada archivo JavaScript.",
+        "Publicarla en el README.",
+        "Colocarla como comentario dentro del código."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0401-27",
+      "text": "¿Qué busca DevSecOps?",
+      "options": [
+        "Separar completamente la seguridad del desarrollo.",
+        "Eliminar las pruebas automáticas.",
+        "Analizar únicamente el diseño visual.",
+        "Integrar prácticas de seguridad dentro del proceso de desarrollo y operación del software."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0401-28",
+      "text": "¿Qué es SonarQube según el banco de referencia?",
+      "options": [
+        "Un servidor DNS.",
+        "Una plataforma de análisis de código.",
+        "Un editor gráfico.",
+        "Un sistema operativo."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0401-29",
+      "text": "¿Qué puede detectar SonarQube?",
+      "options": [
+        "Únicamente problemas de Internet.",
+        "Únicamente imágenes duplicadas.",
+        "Bugs y vulnerabilidades en el código.",
+        "Errores de diseño gráfico."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0401-30",
+      "text": "¿Para qué puede utilizarse un Quality Gate dentro de un proceso de desarrollo?",
+      "options": [
+        "Para validar si el código cumple determinadas condiciones de calidad antes de continuar con el proceso.",
+        "Para crear automáticamente usuarios.",
+        "Para modificar las imágenes de la aplicación.",
+        "Para desinstalar software."
+      ],
+      "correctOption": 0
+    }
+  ]
+}

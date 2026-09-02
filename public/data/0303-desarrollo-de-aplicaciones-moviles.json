@@ -1,0 +1,338 @@
+{
+  "id": "0303",
+  "code": "0303",
+  "name": "Desarrollo de Aplicaciones Móviles",
+  "program": "Tecnología Superior en Desarrollo de Software y Programación",
+  "questions": [
+    {
+      "id": "0303-01",
+      "text": "¿Cuál es la tienda oficial utilizada principalmente para distribuir aplicaciones Android?",
+      "options": [
+        "App Store",
+        "Google Play Store",
+        "Microsoft Store",
+        "Unity Store"
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0303-02",
+      "text": "¿Cuál es la tienda oficial para distribuir aplicaciones en dispositivos iPhone y iPad?",
+      "options": [
+        "Google Play",
+        "Galaxy Store",
+        "App Store",
+        "Play Console"
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0303-03",
+      "text": "Para publicar una aplicación móvil en una tienda oficial, normalmente es necesario:",
+      "options": [
+        "Preparar una versión compilada de la aplicación y cumplir los requisitos de publicación de la tienda.",
+        "Entregar únicamente el código fuente.",
+        "Convertir la aplicación en una página HTML.",
+        "Instalar una base de datos en el teléfono del usuario."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0303-04",
+      "text": "¿Cuál es una ventaja de publicar una aplicación mediante Google Play o App Store?",
+      "options": [
+        "La aplicación deja de necesitar Internet en todos los casos.",
+        "La tienda reemplaza completamente al backend.",
+        "No es necesario actualizar nunca la aplicación.",
+        "Facilita la distribución, instalación y actualización de la aplicación para los usuarios."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0303-05",
+      "text": "¿Qué lenguaje es actualmente uno de los principales para desarrollar aplicaciones Android de forma nativa?",
+      "options": [
+        "Kotlin",
+        "PHP",
+        "SQL",
+        "CSS"
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0303-06",
+      "text": "¿Qué lenguaje se utiliza principalmente para desarrollar aplicaciones nativas modernas para iOS?",
+      "options": [
+        "Java",
+        "Python",
+        "Swift",
+        "PHP"
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0303-07",
+      "text": "¿Qué significa desarrollar una aplicación de forma nativa?",
+      "options": [
+        "Utilizar tecnologías diseñadas específicamente para la plataforma o sistema operativo objetivo.",
+        "Crear únicamente una página web.",
+        "Desarrollar siempre para Android e iOS con exactamente el mismo código.",
+        "No utilizar programación."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0303-08",
+      "text": "¿Cuál puede ser una ventaja del desarrollo nativo?",
+      "options": [
+        "Nunca necesita actualizaciones.",
+        "Permite aprovechar directamente características y herramientas propias de la plataforma.",
+        "El mismo proyecto funciona automáticamente en cualquier sistema operativo.",
+        "No requiere pruebas."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0303-09",
+      "text": "¿Cuál es una característica importante del desarrollo multiplataforma?",
+      "options": [
+        "Permite reutilizar una parte importante del código para diferentes plataformas móviles.",
+        "Obliga a desarrollar dos proyectos completamente independientes.",
+        "Solamente funciona para sitios web.",
+        "No permite utilizar APIs."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0303-10",
+      "text": "¿Cuál de las siguientes tecnologías permite desarrollar aplicaciones móviles multiplataforma?",
+      "options": [
+        "PostgreSQL",
+        "React Native",
+        "Apache",
+        "MySQL"
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0303-11",
+      "text": "¿Cuál de las siguientes opciones contiene frameworks o tecnologías utilizadas para desarrollar aplicaciones móviles multiplataforma?",
+      "options": [
+        "React Native, Flutter e Ionic.",
+        "MySQL, PostgreSQL y Oracle.",
+        "HTML, SQL y MongoDB.",
+        "Apache, Nginx e IIS."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0303-12",
+      "text": "¿Cuál es una ventaja común del desarrollo multiplataforma?",
+      "options": [
+        "No necesita programación.",
+        "No necesita pruebas en dispositivos diferentes.",
+        "Permite compartir código entre versiones para Android e iOS, reduciendo esfuerzo de desarrollo.",
+        "Elimina la necesidad de un backend."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0303-13",
+      "text": "Una empresa necesita una aplicación para Android y iOS y desea mantener gran parte de la lógica en un solo proyecto. ¿Cuál alternativa sería razonable?",
+      "options": [
+        "Utilizar únicamente SQL.",
+        "Crear una página Word.",
+        "Desarrollar solo para Android.",
+        "Utilizar un framework multiplataforma como React Native."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0303-14",
+      "text": "Observe la arquitectura. ¿Cuál es la función principal de la API?\n\nAplicación móvil\n       ↓\n      API\n       ↓\n    Backend\n       ↓\nBase de datos",
+      "options": [
+        "Permitir la comunicación entre la aplicación móvil y los servicios del backend.",
+        "Reemplazar físicamente al teléfono.",
+        "Dibujar todos los botones de la aplicación.",
+        "Sustituir la base de datos."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0303-15",
+      "text": "Una aplicación necesita consultar la lista de productos almacenados en el servidor. ¿Qué método HTTP se utiliza normalmente para obtener información?",
+      "options": [
+        "DELETE",
+        "POST",
+        "GET",
+        "REMOVE"
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0303-16",
+      "text": "Una aplicación móvil envía al backend los datos para registrar un nuevo usuario. ¿Qué método HTTP suele utilizarse?",
+      "options": [
+        "GET",
+        "POST",
+        "DELETE",
+        "READ"
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0303-17",
+      "text": "¿Qué formato es muy utilizado para intercambiar información entre una aplicación móvil y una API REST?",
+      "options": [
+        "JSON",
+        "JPG",
+        "MP3",
+        "EXE"
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0303-18",
+      "text": "La aplicación realiza la siguiente petición. ¿Qué información parece solicitar?\n\nGET /api/productos/25",
+      "options": [
+        "Todos los usuarios.",
+        "La eliminación del producto 25.",
+        "La creación de un producto.",
+        "El producto identificado con el número 25."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0303-19",
+      "text": "¿Qué significa autenticar a un usuario?",
+      "options": [
+        "Determinar el color de su aplicación.",
+        "Verificar que el usuario es quien dice ser.",
+        "Eliminar su cuenta.",
+        "Asignarle automáticamente todos los permisos."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0303-20",
+      "text": "Después de que el usuario inicia sesión correctamente, el backend devuelve un JWT. ¿Para qué puede utilizarlo la aplicación móvil?",
+      "options": [
+        "Para enviarlo en posteriores peticiones y demostrar al backend que el usuario ya fue autenticado.",
+        "Para reemplazar la contraseña del Wi-Fi.",
+        "Para almacenar toda la base de datos.",
+        "Para diseñar las pantallas."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0303-21",
+      "text": "¿Dónde suele enviarse un JWT cuando una aplicación realiza una petición protegida a una API?",
+      "options": [
+        "En el nombre del usuario.",
+        "Dentro del archivo CSS.",
+        "En una cabecera HTTP, normalmente utilizando Authorization.",
+        "En el nombre de la aplicación."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0303-22",
+      "text": "¿Cuál de los siguientes flujos representa mejor un inicio de sesión con JWT?",
+      "options": [
+        "Usuario → Login → Backend valida credenciales → Backend genera token → App guarda/utiliza token.",
+        "Usuario → Base de datos → CSS → Login.",
+        "JWT → HTML → Teléfono → Usuario.",
+        "App → Imagen → JWT → Bluetooth."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0303-23",
+      "text": "¿Qué es React Native?",
+      "options": [
+        "Una base de datos móvil.",
+        "Un sistema operativo.",
+        "Un framework que permite crear aplicaciones móviles utilizando JavaScript/TypeScript y conceptos de React.",
+        "Un servidor web."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0303-24",
+      "text": "En React Native, ¿qué componente se utiliza comúnmente como contenedor de otros componentes?",
+      "options": [
+        "<body>",
+        "<View>",
+        "<div>",
+        "<section>"
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0303-25",
+      "text": "¿Qué se mostrará en la aplicación al renderizar el siguiente componente?\n\nfunction App() {\n    return (\n        <View>\n            <Text>Hola mundo</Text>\n        </View>\n    );\n}",
+      "options": [
+        "View",
+        "App",
+        "Text",
+        "Hola mundo"
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0303-26",
+      "text": "¿Qué componente de React Native se utiliza normalmente para mostrar texto?",
+      "options": [
+        "<Text>",
+        "<p>",
+        "<label>",
+        "<h1>"
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0303-27",
+      "text": "¿Qué se mostrará al renderizar el siguiente código?\n\nfunction Usuario(props) {\n    return (\n        <Text>{props.nombre}</Text>\n    );\n}\n\nfunction App() {\n    return <Usuario nombre=\"María\" />;\n}",
+      "options": [
+        "Usuario",
+        "props.nombre",
+        "María",
+        "nombre"
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0303-28",
+      "text": "Si incrementar() se ejecuta una vez partiendo de contador = 0, ¿cuál será el nuevo valor?\n\nconst [contador, setContador] = useState(0);\n\nconst incrementar = () => {\n    setContador(contador + 1);\n};",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "undefined"
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0303-29",
+      "text": "¿Qué contenido se muestra inicialmente?\n\nconst [nombre, setNombre] = useState(\"Carlos\");\n\nreturn (\n    <Text>{nombre}</Text>\n);",
+      "options": [
+        "Carlos",
+        "nombre",
+        "useState",
+        "Text"
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0303-30",
+      "text": "¿Cuál es el propósito principal del siguiente código?\n\nconst respuesta = await fetch(\n    \"https://api.ejemplo.com/productos\"\n);\n\nconst datos = await respuesta.json();",
+      "options": [
+        "Crear una pantalla nueva.",
+        "Instalar la aplicación en Android.",
+        "Modificar directamente la base de datos del teléfono.",
+        "Realizar una petición a una API y convertir la respuesta recibida a JSON."
+      ],
+      "correctOption": 3
+    }
+  ]
+}

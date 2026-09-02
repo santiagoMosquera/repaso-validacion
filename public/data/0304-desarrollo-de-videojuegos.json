@@ -1,0 +1,338 @@
+{
+  "id": "0304",
+  "code": "0304",
+  "name": "Desarrollo de Videojuegos",
+  "program": "Tecnología Superior en Desarrollo de Software y Programación",
+  "questions": [
+    {
+      "id": "0304-01",
+      "text": "¿Qué es Unity?",
+      "options": [
+        "Un navegador web",
+        "Un motor para crear videojuegos y aplicaciones interactivas",
+        "Una base de datos",
+        "Un lenguaje de programación"
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0304-02",
+      "text": "¿Qué lenguaje de programación se utiliza principalmente para crear scripts en Unity?",
+      "options": [
+        "PHP",
+        "SQL",
+        "C#",
+        "HTML"
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0304-03",
+      "text": "¿Cuál de las siguientes es una ventaja de Unity?",
+      "options": [
+        "Solo permite crear juegos para computadora",
+        "No permite utilizar programación",
+        "Solo sirve para videojuegos móviles",
+        "Permite crear proyectos 2D y 3D"
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0304-04",
+      "text": "¿Qué significa que Unity sea multiplataforma?",
+      "options": [
+        "Que un proyecto puede prepararse para funcionar en diferentes dispositivos y sistemas",
+        "Que solo puede ejecutarse en Windows",
+        "Que cada escena necesita un sistema operativo diferente",
+        "Que no necesita instalarse"
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0304-05",
+      "text": "¿Para cuál de las siguientes plataformas se puede preparar un proyecto desarrollado en Unity?",
+      "options": [
+        "Únicamente Windows",
+        "Android, Windows y Web, entre otras",
+        "Únicamente Android",
+        "Solo navegadores web"
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0304-06",
+      "text": "Si se desarrolla un videojuego para teléfonos Android, ¿qué plataforma de compilación se debería seleccionar?",
+      "options": [
+        "Windows",
+        "macOS",
+        "Linux",
+        "Android"
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0304-07",
+      "text": "¿Qué es una Scene en Unity?",
+      "options": [
+        "Un archivo de sonido",
+        "Un lenguaje de programación",
+        "El espacio donde se colocan y organizan los elementos de un nivel o pantalla",
+        "Una base de datos"
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0304-08",
+      "text": "¿Qué es un GameObject?",
+      "options": [
+        "Un objeto que puede formar parte de una escena",
+        "Únicamente el personaje principal",
+        "Una función de C#",
+        "Un archivo de instalación"
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0304-09",
+      "text": "¿Cuál de los siguientes elementos podría ser un GameObject?",
+      "options": [
+        "Solo un personaje",
+        "Solo una cámara",
+        "Un personaje, una moneda o una cámara",
+        "Solo una imagen de fondo"
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0304-10",
+      "text": "¿Para qué sirve principalmente la ventana Hierarchy?",
+      "options": [
+        "Para instalar Unity",
+        "Para visualizar los objetos que existen en la escena",
+        "Para escribir código",
+        "Para crear una cuenta de usuario"
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0304-11",
+      "text": "¿Para qué sirve el Inspector?",
+      "options": [
+        "Para navegar por Internet",
+        "Para ejecutar SQL",
+        "Para reemplazar el código C#",
+        "Para modificar las propiedades del objeto seleccionado"
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0304-12",
+      "text": "¿Cuál es la función de la ventana Scene?",
+      "options": [
+        "Permitir al desarrollador visualizar y organizar el mundo del juego",
+        "Mostrar únicamente errores",
+        "Guardar usuarios",
+        "Ejecutar una base de datos"
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0304-13",
+      "text": "¿Qué componente tienen normalmente todos los GameObjects de Unity?",
+      "options": [
+        "AudioSource",
+        "Transform",
+        "Rigidbody",
+        "Camera"
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0304-14",
+      "text": "¿Qué información contiene principalmente el componente Transform?",
+      "options": [
+        "Usuario y contraseña",
+        "Sonido y música",
+        "Código fuente",
+        "Posición, rotación y escala"
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0304-15",
+      "text": "Si queremos mover un objeto de un lugar a otro dentro de la escena, ¿qué propiedad del Transform es importante modificar?",
+      "options": [
+        "Position",
+        "Audio",
+        "Color",
+        "File"
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0304-16",
+      "text": "Si queremos hacer un objeto más grande o más pequeño, ¿qué propiedad del Transform debemos modificar?",
+      "options": [
+        "Position",
+        "Collider",
+        "Scale",
+        "Rotation"
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0304-17",
+      "text": "Si queremos hacer girar un objeto, ¿qué propiedad utilizamos?",
+      "options": [
+        "Scale",
+        "Position",
+        "Audio",
+        "Rotation"
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0304-18",
+      "text": "¿Para qué sirve un script en Unity?",
+      "options": [
+        "Para agregar comportamiento y lógica a los objetos",
+        "Únicamente para cambiar colores",
+        "Para reemplazar las escenas",
+        "Para almacenar imágenes"
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0304-19",
+      "text": "¿Qué extensión utilizan normalmente los archivos de código C#?",
+      "options": [
+        ".html",
+        ".cs",
+        ".css",
+        ".sql"
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0304-20",
+      "text": "¿Para qué se utiliza Debug.Log() en un script de Unity?",
+      "options": [
+        "Para eliminar un objeto",
+        "Para cerrar el juego",
+        "Para mostrar un mensaje en la consola de Unity",
+        "Para cambiar de escena"
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0304-21",
+      "text": "¿Cuándo se ejecuta normalmente el método Start()?",
+      "options": [
+        "Cada vez que existe una colisión",
+        "Al iniciar la ejecución del objeto o script",
+        "Únicamente al cerrar el juego",
+        "Solo al presionar una tecla"
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0304-22",
+      "text": "¿Cuál de estos métodos se ejecuta repetidamente mientras el juego está funcionando?",
+      "options": [
+        "Close()",
+        "Delete()",
+        "Exit()",
+        "Update()"
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0304-23",
+      "text": "¿Para qué sirve principalmente un Rigidbody?",
+      "options": [
+        "Para permitir que un objeto participe en la física del juego",
+        "Para colocar texto",
+        "Para reproducir música",
+        "Para cambiar el nombre del objeto"
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0304-24",
+      "text": "Si queremos que una caja caiga debido a la gravedad, ¿qué componente sería especialmente importante agregar?",
+      "options": [
+        "Camera",
+        "Rigidbody",
+        "AudioSource",
+        "Canvas"
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0304-25",
+      "text": "¿Para qué sirve un Collider?",
+      "options": [
+        "Para guardar datos",
+        "Para cambiar de escena",
+        "Para definir la zona utilizada para detectar contactos o colisiones",
+        "Para escribir código"
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0304-26",
+      "text": "Si una pelota debe chocar contra una pared, ¿qué deberían tener normalmente los objetos para detectar correctamente el contacto?",
+      "options": [
+        "Cámaras",
+        "Archivos HTML",
+        "AudioSource",
+        "Colliders"
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0304-27",
+      "text": "¿Para qué puede utilizarse un Collider configurado como Trigger?",
+      "options": [
+        "Para aumentar el tamaño de la pantalla",
+        "Para detectar que otro objeto entra en una zona",
+        "Para guardar una escena",
+        "Para escribir un script automáticamente"
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0304-28",
+      "text": "¿Qué es un Prefab?",
+      "options": [
+        "Una base de datos",
+        "Un tipo de lenguaje",
+        "Un objeto configurado que puede guardarse y reutilizarse varias veces",
+        "Una plataforma de exportación"
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0304-29",
+      "text": "Si queremos colocar 20 monedas iguales dentro de un nivel, ¿qué opción sería práctica?",
+      "options": [
+        "Crear una moneda, convertirla en Prefab y reutilizarla",
+        "Crear 20 proyectos diferentes",
+        "Crear 20 cámaras",
+        "Crear una base de datos para cada moneda"
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0304-30",
+      "text": "¿Cuál es la función principal de una Camera en Unity?",
+      "options": [
+        "Aplicar gravedad",
+        "Detectar todos los sonidos",
+        "Guardar los datos del jugador",
+        "Determinar qué parte del juego puede ver el jugador"
+      ],
+      "correctOption": 3
+    }
+  ]
+}

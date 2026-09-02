@@ -1,0 +1,338 @@
+{
+  "id": "0302",
+  "code": "0302",
+  "name": "Pruebas de Software y TDD",
+  "program": "Tecnología Superior en Desarrollo de Software y Programación",
+  "questions": [
+    {
+      "id": "0302-01",
+      "text": "¿Cuál es uno de los principales objetivos de realizar pruebas durante el desarrollo de software?",
+      "options": [
+        "Aumentar la cantidad de código del proyecto.",
+        "Detectar errores y comprobar que el sistema funciona como se espera.",
+        "Evitar que los programadores modifiquen el sistema.",
+        "Reemplazar la documentación."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0302-02",
+      "text": "¿Por qué es conveniente realizar pruebas durante el desarrollo y no únicamente al finalizar el proyecto?",
+      "options": [
+        "Porque elimina completamente la posibilidad de errores.",
+        "Porque reemplaza al equipo de desarrollo.",
+        "Porque permite detectar problemas antes y corregirlos con menor impacto.",
+        "Porque evita utilizar control de versiones."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0302-03",
+      "text": "Una funcionalidad que funcionaba correctamente deja de hacerlo después de modificar otra parte del sistema. ¿Qué pueden ayudar a detectar las pruebas automáticas?",
+      "options": [
+        "Que existe una regresión o que un cambio afectó una funcionalidad existente.",
+        "Que cambió el diseño de la pantalla.",
+        "Que el computador necesita más memoria.",
+        "Que el usuario olvidó su contraseña."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0302-04",
+      "text": "¿Cuál es una ventaja importante de automatizar pruebas?",
+      "options": [
+        "Garantiza que nunca existirán errores.",
+        "Reemplaza completamente las pruebas manuales.",
+        "Evita escribir código.",
+        "Permite ejecutar las mismas verificaciones repetidamente de manera rápida."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0302-05",
+      "text": "¿En qué momento del ciclo de desarrollo deberían considerarse las pruebas?",
+      "options": [
+        "Únicamente después de publicar el sistema.",
+        "Durante todo el proceso de desarrollo.",
+        "Solamente cuando el cliente encuentra errores.",
+        "Únicamente al crear la base de datos."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0302-06",
+      "text": "Si un sistema pasa todas sus pruebas, ¿qué significa?",
+      "options": [
+        "Que no puede tener ningún error bajo ninguna circunstancia.",
+        "Que ya no necesita mantenimiento.",
+        "Que cumplió las condiciones verificadas por esas pruebas.",
+        "Que todos los usuarios utilizarán correctamente el sistema."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0302-07",
+      "text": "¿Qué busca comprobar principalmente una prueba unitaria?",
+      "options": [
+        "El funcionamiento de una pequeña unidad de código, como una función o método.",
+        "La capacidad máxima de usuarios del servidor.",
+        "La comunicación de toda la empresa.",
+        "La velocidad de Internet del usuario."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0302-08",
+      "text": "Tenemos la siguiente función. ¿Cuál de las opciones representa una prueba unitaria razonable?\n\nfunction sumar(a, b) {\n    return a + b;\n}",
+      "options": [
+        "expect(sumar).toBe('servidor');",
+        "expect(Internet).toBe(true);",
+        "expect(baseDatos).toBe('HTML');",
+        "expect(sumar(2, 3)).toBe(5);"
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0302-09",
+      "text": "¿Qué busca comprobar principalmente una prueba de integración?",
+      "options": [
+        "Únicamente que una función sume correctamente.",
+        "Que diferentes componentes o servicios funcionen correctamente cuando interactúan entre sí.",
+        "El diseño de un logotipo.",
+        "La cantidad de líneas del código fuente."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0302-10",
+      "text": "Una API recibe un usuario, lo procesa mediante el backend y almacena la información en una base de datos. ¿Qué tipo de prueba sería apropiada para verificar que estos elementos funcionan correctamente en conjunto?",
+      "options": [
+        "Prueba de carga.",
+        "Prueba exclusivamente visual.",
+        "Prueba de integración.",
+        "Prueba de una sola variable."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0302-11",
+      "text": "¿Cuál es el objetivo principal de una prueba de carga?",
+      "options": [
+        "Comprobar cómo se comporta el sistema cuando recibe una cantidad determinada de usuarios o peticiones simultáneas.",
+        "Verificar únicamente una función matemática.",
+        "Comprobar los colores de la interfaz.",
+        "Validar el nombre de una variable."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0302-12",
+      "text": "Una aplicación normalmente recibe 100 usuarios simultáneos, pero se quiere conocer su comportamiento con 5.000 usuarios. ¿Qué tipo de prueba resulta especialmente útil?",
+      "options": [
+        "Unitaria.",
+        "De integración básica.",
+        "De sintaxis.",
+        "De carga."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0302-13",
+      "text": "¿Cuál de las siguientes afirmaciones diferencia correctamente una prueba unitaria de una prueba de integración?",
+      "options": [
+        "Ambas sirven únicamente para medir rendimiento.",
+        "La unitaria evalúa una parte pequeña de forma aislada y la de integración verifica la interacción entre varias partes.",
+        "La prueba de integración nunca utiliza una base de datos.",
+        "Una prueba unitaria siempre necesita varios servidores."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0302-14",
+      "text": "¿Cuál de las siguientes herramientas se utiliza comúnmente para realizar pruebas unitarias en proyectos JavaScript?",
+      "options": [
+        "MySQL.",
+        "Photoshop.",
+        "Jest.",
+        "Docker Hub."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0302-15",
+      "text": "¿Cuál de las siguientes herramientas es muy utilizada para pruebas unitarias en proyectos Java?",
+      "options": [
+        "JUnit.",
+        "Figma.",
+        "Apache.",
+        "MongoDB."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0302-16",
+      "text": "¿Qué herramienta puede utilizarse para probar manualmente o automatizar pruebas sobre APIs REST?",
+      "options": [
+        "Visual Studio Code únicamente como editor.",
+        "Photoshop.",
+        "Excel.",
+        "Postman."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0302-17",
+      "text": "¿Cuál de las siguientes herramientas está especialmente orientada a pruebas de carga y rendimiento?",
+      "options": [
+        "Jest.",
+        "JMeter.",
+        "JUnit.",
+        "Git."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0302-18",
+      "text": "Otra herramienta que puede utilizarse para generar carga y medir el rendimiento de una API es:",
+      "options": [
+        "HTML.",
+        "Bootstrap.",
+        "k6.",
+        "SQLite."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0302-19",
+      "text": "¿Qué significan las siglas TDD?",
+      "options": [
+        "Test Driven Development.",
+        "Total Database Development.",
+        "Technical Design Document.",
+        "Test Database Deployment."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0302-20",
+      "text": "¿Cuál es la idea principal de TDD?",
+      "options": [
+        "Programar todo el sistema y nunca ejecutar pruebas.",
+        "Escribir las pruebas únicamente cuando el proyecto esté terminado.",
+        "Realizar pruebas solamente de carga.",
+        "Escribir primero una prueba que describa el comportamiento esperado y posteriormente desarrollar el código necesario para que esa prueba funcione."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0302-21",
+      "text": "¿Cuál es la secuencia clásica utilizada en TDD?",
+      "options": [
+        "Diseñar → Publicar → Eliminar.",
+        "Red → Green → Refactor.",
+        "Backend → Frontend → Database.",
+        "Commit → Push → Delete."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0302-22",
+      "text": "En TDD, ¿qué representa normalmente la etapa RED?",
+      "options": [
+        "Eliminar todas las pruebas.",
+        "Publicar el sistema.",
+        "Escribir una prueba que inicialmente falla porque la funcionalidad todavía no está implementada.",
+        "Cambiar el color de la interfaz."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0302-23",
+      "text": "¿Qué representa la etapa GREEN en TDD?",
+      "options": [
+        "Escribir el código necesario para lograr que la prueba pase.",
+        "Crear una base de datos.",
+        "Borrar la prueba que falló.",
+        "Realizar únicamente pruebas de carga."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0302-24",
+      "text": "¿Qué se busca hacer durante la etapa REFACTOR?",
+      "options": [
+        "Eliminar todas las funcionalidades.",
+        "Crear nuevamente el proyecto.",
+        "Modificar los resultados de las pruebas.",
+        "Mejorar y reorganizar el código sin cambiar su comportamiento esperado."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0302-25",
+      "text": "Observe la siguiente prueba. En un proceso TDD, si la función doble() todavía no existe, ¿qué debería ocurrir inicialmente?\n\ntest(\"debe calcular el doble de un número\", () => {\n    expect(doble(5)).toBe(10);\n});",
+      "options": [
+        "La prueba debería eliminarse.",
+        "La prueba debería fallar.",
+        "El sistema debería publicarse.",
+        "La prueba debería convertirse en una prueba de carga."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0302-26",
+      "text": "Después de escribir la prueba anterior y verla fallar, el desarrollador implementa la función. Ahora la prueba pasa. ¿En qué etapa se encuentra principalmente?\n\nfunction doble(numero) {\n    return numero * 2;\n}",
+      "options": [
+        "RED.",
+        "LOAD.",
+        "GREEN.",
+        "DEPLOY."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0302-27",
+      "text": "Un desarrollador tiene una función que calcula descuentos y desea verificar rápidamente distintos valores cada vez que modifica el código. ¿Qué tipo de prueba sería la más apropiada?",
+      "options": [
+        "Prueba unitaria.",
+        "Prueba de carga.",
+        "Prueba de instalación del sistema operativo.",
+        "Prueba de red."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0302-28",
+      "text": "El equipo quiere comprobar que el endpoint /usuarios guarde correctamente la información utilizando el servicio de usuarios y la base de datos. ¿Qué tipo de prueba tiene mayor sentido?",
+      "options": [
+        "Prueba exclusivamente visual.",
+        "Prueba de una función aislada.",
+        "Prueba de resolución de pantalla.",
+        "Prueba de integración."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0302-29",
+      "text": "Antes de una campaña comercial se espera que miles de clientes ingresen simultáneamente al sistema. ¿Qué sería recomendable realizar?",
+      "options": [
+        "Solamente pruebas unitarias.",
+        "Una prueba de carga.",
+        "Únicamente revisar el código manualmente.",
+        "Eliminar temporalmente las pruebas."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0302-30",
+      "text": "Un equipo aplica el siguiente ciclo para desarrollar cada nueva funcionalidad. ¿Qué metodología está aplicando?\n\n1. Escribe una prueba\n2. La prueba falla\n3. Implementa el código\n4. La prueba pasa\n5. Mejora el código\n6. Repite el proceso",
+      "options": [
+        "Scrum.",
+        "Git Flow.",
+        "TDD.",
+        "Diseño gráfico."
+      ],
+      "correctOption": 2
+    }
+  ]
+}

@@ -1,0 +1,338 @@
+{
+  "id": "0306",
+  "code": "0306",
+  "name": "Metodología de la Investigación",
+  "program": "Tecnología Superior en Desarrollo de Software y Programación",
+  "questions": [
+    {
+      "id": "0306-01",
+      "text": "¿Cuál es el propósito principal de realizar una investigación?",
+      "options": [
+        "Reunir la mayor cantidad posible de documentos.",
+        "Obtener información de manera organizada para comprender o responder un problema.",
+        "Confirmar siempre lo que el investigador piensa.",
+        "Escribir un informe extenso."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0306-02",
+      "text": "Antes de iniciar una investigación, ¿qué conviene definir primero?",
+      "options": [
+        "La cantidad de páginas del informe.",
+        "El color de las gráficas.",
+        "El problema o pregunta que se desea investigar.",
+        "La presentación final."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0306-03",
+      "text": "¿Para qué sirven los objetivos de una investigación?",
+      "options": [
+        "Para indicar qué se pretende conocer o lograr con el estudio.",
+        "Para definir el formato de las tablas.",
+        "Para decidir quién obtendrá la mejor calificación.",
+        "Para reemplazar los resultados."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0306-04",
+      "text": "Un estudiante quiere conocer cuántas horas al día utilizan Internet sus compañeros. ¿Qué herramienta sería apropiada para obtener información de muchas personas?",
+      "options": [
+        "Una conclusión.",
+        "Una bibliografía.",
+        "Un prólogo.",
+        "Una encuesta."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0306-05",
+      "text": "Si un investigador quiere conocer con detalle las experiencias y opiniones de una persona, ¿qué técnica sería más adecuada?",
+      "options": [
+        "Una operación matemática.",
+        "Una entrevista.",
+        "Un gráfico circular.",
+        "Una lista de referencias."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0306-06",
+      "text": "¿Cuál es una diferencia sencilla entre una investigación cuantitativa y una cualitativa?",
+      "options": [
+        "La cualitativa no necesita información.",
+        "No existe ninguna diferencia.",
+        "La cuantitativa suele trabajar con datos numéricos y la cualitativa busca comprender experiencias, opiniones o significados.",
+        "La cuantitativa siempre es correcta y la cualitativa siempre es subjetiva."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0306-07",
+      "text": "Si queremos conocer la opinión de todos los estudiantes de un instituto, pero solo podemos consultar a una parte de ellos, ese grupo consultado representa:",
+      "options": [
+        "Una muestra.",
+        "Una conclusión.",
+        "Una hipótesis comprobada.",
+        "Una bibliografía."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0306-08",
+      "text": "¿Por qué es importante que las personas seleccionadas para una encuesta tengan relación con el tema investigado?",
+      "options": [
+        "Porque todas deben responder exactamente lo mismo.",
+        "Porque así no es necesario analizar los resultados.",
+        "Porque deben conocer personalmente al investigador.",
+        "Porque sus respuestas deben aportar información útil para el estudio."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0306-09",
+      "text": "Si una investigación utiliza únicamente las respuestas de los amigos cercanos del investigador, ¿qué problema podría existir?",
+      "options": [
+        "La investigación automáticamente se vuelve experimental.",
+        "Los resultados podrían no representar adecuadamente a otras personas.",
+        "Las respuestas dejan de ser texto.",
+        "No existe ningún problema posible."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0306-10",
+      "text": "Si después de muchas entrevistas comienzan a repetirse las mismas ideas y prácticamente no aparece información nueva, ¿qué podría hacer razonablemente el investigador?",
+      "options": [
+        "Borrar todas las entrevistas.",
+        "Cambiar todas las respuestas.",
+        "Considerar que ya posee suficiente información sobre esos temas.",
+        "Continuar obligatoriamente hasta entrevistar a toda la población."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0306-11",
+      "text": "¿Por qué puede ser útil consultar diferentes fuentes sobre un mismo tema?",
+      "options": [
+        "Porque permite comparar la información y aumentar la confianza en los hallazgos.",
+        "Porque garantiza que todas las fuentes dirán exactamente lo mismo.",
+        "Porque evita analizar la información.",
+        "Porque reemplaza la necesidad de investigar."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0306-12",
+      "text": "Si dos fuentes presentan información diferente sobre el mismo tema, ¿qué debería hacer el investigador?",
+      "options": [
+        "Elegir inmediatamente la que más le guste.",
+        "Eliminar las dos.",
+        "Utilizar únicamente la más corta.",
+        "Revisar la calidad y procedencia de ambas antes de sacar una conclusión."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0306-13",
+      "text": "Si una persona participa en una investigación sobre un tema personal, ¿qué debe proteger especialmente el investigador?",
+      "options": [
+        "El número de páginas del informe.",
+        "La privacidad y confidencialidad de la información.",
+        "El diseño de la portada.",
+        "El precio de la computadora utilizada."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0306-14",
+      "text": "Antes de entrevistar o encuestar a una persona, es importante que esta:",
+      "options": [
+        "Conozca las respuestas correctas.",
+        "Sea amiga del investigador.",
+        "Conozca para qué se utilizará la información y acepte participar.",
+        "Esté obligada a responder todas las preguntas."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0306-15",
+      "text": "Un participante decide que ya no desea continuar en una investigación. ¿Qué sería lo correcto?",
+      "options": [
+        "Respetar su decisión.",
+        "Obligarlo a terminar.",
+        "Cambiar sus respuestas.",
+        "Publicar inmediatamente sus datos."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0306-16",
+      "text": "¿Cuál de las siguientes prácticas sería incorrecta en una investigación?",
+      "options": [
+        "Registrar los datos obtenidos.",
+        "Proteger información confidencial.",
+        "Explicar cómo se realizó el estudio.",
+        "Cambiar respuestas porque no coinciden con lo que esperaba el investigador."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0306-17",
+      "text": "Después de realizar 100 encuestas, ¿qué debería hacerse antes de sacar conclusiones?",
+      "options": [
+        "Elegir únicamente las respuestas que parecen interesantes.",
+        "Organizar y analizar las respuestas obtenidas.",
+        "Inventar las respuestas que faltan.",
+        "Escribir directamente las conclusiones."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0306-18",
+      "text": "Si 70 de 100 estudiantes responden que prefieren clases prácticas, ¿qué conclusión razonable puede obtenerse?",
+      "options": [
+        "Todos los estudiantes del mundo prefieren clases prácticas.",
+        "Ningún estudiante prefiere clases teóricas.",
+        "La mayoría de los estudiantes encuestados prefiere clases prácticas.",
+        "Las encuestas no sirven."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0306-19",
+      "text": "En varias entrevistas los participantes mencionan repetidamente que “falta tiempo para estudiar”. ¿Qué debería hacer el investigador con esa información?",
+      "options": [
+        "Identificarla como una idea o tema que aparece frecuentemente.",
+        "Ignorarla porque se repite.",
+        "Cambiarla por otra respuesta.",
+        "Convertirla obligatoriamente en una fórmula."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0306-20",
+      "text": "Si los resultados obtenidos contradicen lo que el investigador esperaba inicialmente, ¿qué debería hacer?",
+      "options": [
+        "Modificarlos para que coincidan con su idea inicial.",
+        "Eliminar el estudio.",
+        "Ocultar los resultados.",
+        "Presentar y analizar los resultados tal como fueron obtenidos."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0306-21",
+      "text": "¿Cuál es el principal beneficio de utilizar una gráfica sencilla para presentar ciertos resultados?",
+      "options": [
+        "Evitar explicar los resultados.",
+        "Facilitar la comprensión de la información.",
+        "Hacer que todas las investigaciones sean correctas.",
+        "Reemplazar completamente el informe."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0306-22",
+      "text": "Si queremos mostrar qué porcentaje de estudiantes eligió cada una de cuatro opciones, ¿qué sería útil utilizar?",
+      "options": [
+        "Una página completa de texto sin números.",
+        "Únicamente fotografías.",
+        "Una gráfica que muestre claramente las proporciones.",
+        "Una lista de nombres."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0306-23",
+      "text": "¿En qué parte de un informe se explica cómo se realizó la investigación, a quiénes se consultó y qué instrumentos se utilizaron?",
+      "options": [
+        "Metodología.",
+        "Portada.",
+        "Agradecimientos.",
+        "Título."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0306-24",
+      "text": "¿Qué debería presentar principalmente la sección de resultados?",
+      "options": [
+        "Opiniones personales que no tienen relación con el estudio.",
+        "Datos que no fueron investigados.",
+        "Los agradecimientos.",
+        "La información obtenida durante la investigación."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0306-25",
+      "text": "¿Para qué sirve la discusión de resultados?",
+      "options": [
+        "Para repetir exactamente todas las preguntas de la encuesta.",
+        "Para interpretar lo encontrado y relacionarlo con el problema investigado.",
+        "Para colocar las referencias bibliográficas.",
+        "Para presentar únicamente la portada."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0306-26",
+      "text": "¿Cuál sería una buena conclusión de una investigación?",
+      "options": [
+        "Una idea completamente nueva que nunca fue investigada.",
+        "Una opinión personal sin relación con los datos.",
+        "Una conclusión relacionada directamente con los resultados y los objetivos planteados.",
+        "Una copia de la introducción."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0306-27",
+      "text": "¿Por qué no deberían agregarse datos completamente nuevos en las conclusiones?",
+      "options": [
+        "Porque las conclusiones deberían construirse a partir de lo que realmente fue investigado y encontrado.",
+        "Porque las conclusiones solamente pueden tener una oración.",
+        "Porque los resultados no tienen relación con las conclusiones.",
+        "Porque está prohibido utilizar números."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0306-28",
+      "text": "¿Para qué sirve la lista de referencias bibliográficas al final de un trabajo?",
+      "options": [
+        "Para mostrar los nombres de los estudiantes del curso.",
+        "Para reemplazar las conclusiones.",
+        "Para indicar quién obtuvo la mejor nota.",
+        "Para indicar de dónde proviene la información consultada y permitir verificar las fuentes."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0306-29",
+      "text": "Al presentar una investigación ante otras personas, ¿qué suele ser más efectivo?",
+      "options": [
+        "Leer todas las tablas completas sin explicar su significado.",
+        "Mostrar las ideas y resultados más importantes de forma clara y apoyarse en gráficos cuando sean útiles.",
+        "Utilizar la mayor cantidad de términos técnicos posible.",
+        "Evitar explicar las conclusiones."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0306-30",
+      "text": "¿Cuál de las siguientes acciones refleja mejor una buena investigación?",
+      "options": [
+        "Decidir primero la conclusión y luego buscar información que la confirme.",
+        "Recopilar datos sin tener claro qué se quiere investigar.",
+        "Formular una pregunta, recopilar información de manera organizada, analizarla y obtener conclusiones basadas en los resultados.",
+        "Copiar información de Internet sin verificar las fuentes."
+      ],
+      "correctOption": 2
+    }
+  ]
+}

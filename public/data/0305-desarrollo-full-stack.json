@@ -1,0 +1,338 @@
+{
+  "id": "0305",
+  "code": "0305",
+  "name": "Desarrollo Full Stack",
+  "program": "Tecnología Superior en Desarrollo de Software y Programación",
+  "questions": [
+    {
+      "id": "0305-01",
+      "text": "¿Qué es Node.js?",
+      "options": [
+        "Un lenguaje de programación diferente de JavaScript.",
+        "Un entorno que permite ejecutar JavaScript fuera del navegador.",
+        "Una base de datos relacional.",
+        "Un framework exclusivo de Angular."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0305-02",
+      "text": "¿Cuál es una aplicación común de Node.js?",
+      "options": [
+        "Diseñar únicamente interfaces gráficas.",
+        "Reemplazar HTML en el navegador.",
+        "Crear servicios backend y APIs.",
+        "Administrar exclusivamente hojas de estilo CSS."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0305-03",
+      "text": "Observe el siguiente código con Express. ¿Qué ocurre cuando un cliente realiza una petición GET a /usuarios?\n\napp.get(\"/usuarios\", (req, res) => {\n    res.json({ mensaje: \"Lista de usuarios\" });\n});",
+      "options": [
+        "Se elimina un usuario.",
+        "Se crea automáticamente una tabla en la base de datos.",
+        "Se descarga un archivo JavaScript.",
+        "El servidor devuelve una respuesta en formato JSON."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0305-04",
+      "text": "En el siguiente código, ¿de dónde obtiene el servidor los datos enviados por el cliente?\n\napp.post(\"/productos\", (req, res) => {\n    const producto = req.body;\n    res.json(producto);\n});",
+      "options": [
+        "De req.body.",
+        "De res.body.",
+        "De app.body.",
+        "De console.log."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0305-05",
+      "text": "En una API desarrollada con Node.js y Express, ¿para qué se utiliza normalmente res.json()?",
+      "options": [
+        "Para conectarse automáticamente a la base de datos.",
+        "Para enviar una respuesta JSON al cliente.",
+        "Para crear una nueva ruta.",
+        "Para autenticar automáticamente al usuario."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0305-06",
+      "text": "¿Qué representa normalmente una ruta como app.get(\"/productos/:id\", ...)?",
+      "options": [
+        "Una ruta exclusiva para crear productos.",
+        "Una conexión directa a la base de datos.",
+        "Una ruta que recibe un identificador como parámetro.",
+        "Un componente de React."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0305-07",
+      "text": "¿Cuál es la función principal del frontend en una aplicación web?",
+      "options": [
+        "Procesar únicamente reglas de negocio en el servidor.",
+        "Administrar directamente la base de datos.",
+        "Sustituir completamente el backend.",
+        "Mostrar la interfaz e interactuar con el usuario."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0305-08",
+      "text": "¿Cuál es una responsabilidad típica del backend?",
+      "options": [
+        "Procesar reglas de negocio y comunicarse con la base de datos.",
+        "Definir únicamente colores y fuentes.",
+        "Ejecutarse siempre dentro del navegador.",
+        "Diseñar exclusivamente botones y formularios."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0305-09",
+      "text": "¿Qué función cumple normalmente una API entre frontend y backend?",
+      "options": [
+        "Reemplazar completamente la base de datos.",
+        "Definir una forma para que distintas partes del sistema intercambien información.",
+        "Servir únicamente para crear estilos CSS.",
+        "Eliminar la necesidad de tener un backend."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0305-10",
+      "text": "Un usuario presiona Guardar en el frontend. El sistema debe validar la información, almacenarla y luego actualizar la pantalla. ¿Cuál flujo representa mejor una arquitectura Full Stack típica?",
+      "options": [
+        "Base de datos → CSS → Frontend → API.",
+        "Frontend → Base de datos → CSS → Backend.",
+        "Frontend → API/Backend → Base de datos → respuesta al Frontend.",
+        "Backend → HTML → navegador → Base de datos."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0305-11",
+      "text": "¿Qué es un middleware en una aplicación backend?",
+      "options": [
+        "Una tabla de base de datos.",
+        "Un componente visual del frontend.",
+        "Un archivo de estilos.",
+        "Código que puede ejecutarse entre la recepción de una petición y la lógica final de una ruta."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0305-12",
+      "text": "Un sistema necesita verificar un token antes de permitir el acceso a una ruta protegida. ¿Dónde es razonable colocar esta validación?",
+      "options": [
+        "En un middleware.",
+        "En una imagen del sitio.",
+        "Únicamente en CSS.",
+        "Solo en el navegador, sin validación del backend."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0305-13",
+      "text": "¿Qué es un ORM?",
+      "options": [
+        "Un protocolo para transmitir imágenes.",
+        "Una herramienta que permite trabajar con la base de datos mediante objetos y estructuras del lenguaje de programación.",
+        "Un framework exclusivo de frontend.",
+        "Un servidor web."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0305-14",
+      "text": "Un ORM permite escribir operaciones como Usuario.findAll() en lugar de escribir directamente SELECT * FROM usuarios. ¿Cuál es la idea principal?",
+      "options": [
+        "Eliminar completamente la base de datos.",
+        "Convertir SQL en HTML.",
+        "Abstraer parte de la interacción con la base de datos.",
+        "Ejecutar todas las consultas en el navegador."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0305-15",
+      "text": "¿Cuál es una ventaja habitual de utilizar un ORM?",
+      "options": [
+        "Garantiza que cualquier consulta será siempre rápida.",
+        "Elimina la necesidad de diseñar correctamente la base de datos.",
+        "Sustituye al frontend.",
+        "Facilita operaciones comunes de acceso y manipulación de datos desde el código."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0305-16",
+      "text": "¿Qué caracteriza generalmente a una arquitectura monolítica?",
+      "options": [
+        "Gran parte de la aplicación se desarrolla y despliega como una sola unidad.",
+        "Cada función debe ejecutarse obligatoriamente en un servidor diferente.",
+        "No puede utilizar una base de datos.",
+        "Solo funciona para aplicaciones pequeñas."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0305-17",
+      "text": "¿Cuál es una ventaja de los microservicios?",
+      "options": [
+        "Eliminan completamente la comunicación entre sistemas.",
+        "Permiten separar funcionalidades en servicios que pueden evolucionar y desplegarse de manera más independiente.",
+        "Nunca necesitan monitoreo.",
+        "Siempre son más sencillos que un monolito."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0305-18",
+      "text": "¿Cuál puede ser una desventaja de utilizar microservicios frente a un monolito?",
+      "options": [
+        "No permiten utilizar APIs.",
+        "No permiten escalar.",
+        "Aumentan la complejidad de comunicación, despliegue y administración de varios servicios.",
+        "No permiten utilizar bases de datos."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0305-19",
+      "text": "¿Qué significa autenticación?",
+      "options": [
+        "Determinar qué acciones puede realizar un usuario.",
+        "Aumentar la capacidad del servidor.",
+        "Crear automáticamente una base de datos.",
+        "Verificar quién es el usuario."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0305-20",
+      "text": "¿Qué significa autorización?",
+      "options": [
+        "Determinar qué acciones o recursos puede utilizar un usuario que ya fue identificado.",
+        "Comprobar únicamente que existe una contraseña.",
+        "Registrar automáticamente un usuario nuevo.",
+        "Crear siempre un token JWT."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0305-21",
+      "text": "Un usuario inicia sesión correctamente, pero su rol no le permite eliminar otros usuarios. ¿Qué concepto está impidiendo la operación?",
+      "options": [
+        "Autenticación.",
+        "Autorización.",
+        "Escalabilidad.",
+        "ORM."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0305-22",
+      "text": "¿Qué es un JWT?",
+      "options": [
+        "Una base de datos.",
+        "Un servidor web.",
+        "Un token firmado que puede transportar información y se usa comúnmente en autenticación y autorización.",
+        "Una hoja de estilos."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0305-23",
+      "text": "Observe el flujo: Usuario inicia sesión → Backend valida credenciales → Backend entrega JWT → Cliente envía JWT en nuevas peticiones. ¿Cuál es el propósito principal del token en esas peticiones?",
+      "options": [
+        "Cambiar automáticamente el diseño de la página.",
+        "Guardar todos los registros de la base de datos.",
+        "Reemplazar por completo la API.",
+        "Permitir al backend validar la identidad o sesión asociada al usuario."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0305-24",
+      "text": "¿Qué tienen en común Angular y React en el desarrollo frontend?",
+      "options": [
+        "Permiten construir interfaces a partir de componentes.",
+        "Son bases de datos relacionales.",
+        "Solo pueden ejecutarse en backend.",
+        "Son servidores web."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0305-25",
+      "text": "En React, ¿qué representa normalmente un componente?",
+      "options": [
+        "Una conexión física de red.",
+        "Una parte reutilizable de la interfaz y su comportamiento.",
+        "Una tabla SQL.",
+        "Un middleware de Node.js."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0305-26",
+      "text": "En Angular, un componente puede estar asociado a una plantilla HTML. ¿Para qué sirve principalmente la plantilla?",
+      "options": [
+        "Para almacenar registros de la base de datos.",
+        "Para crear tokens JWT.",
+        "Para definir la interfaz que se mostrará al usuario.",
+        "Para configurar un servidor Linux."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0305-27",
+      "text": "Una aplicación recibe más tráfico y se decide aumentar CPU y memoria del servidor existente. ¿Qué tipo de escalabilidad se está aplicando?",
+      "options": [
+        "Escalabilidad horizontal.",
+        "Autorización.",
+        "Replicación de frontend.",
+        "Escalabilidad vertical."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0305-28",
+      "text": "Una aplicación recibe más tráfico y se agregan varios servidores adicionales para distribuir las peticiones. ¿Qué tipo de escalabilidad se está aplicando?",
+      "options": [
+        "Escalabilidad horizontal.",
+        "Escalabilidad vertical.",
+        "Autenticación.",
+        "Escalabilidad local."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0305-29",
+      "text": "¿Qué es WebSocket?",
+      "options": [
+        "Una base de datos relacional.",
+        "Una tecnología que permite mantener comunicación bidireccional persistente entre cliente y servidor.",
+        "Un tipo de archivo JavaScript.",
+        "Un framework de frontend."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0305-30",
+      "text": "¿En cuál de los siguientes casos WebSockets resulta especialmente útil?",
+      "options": [
+        "Una página HTML completamente estática.",
+        "Un documento que nunca cambia.",
+        "Una aplicación de chat donde los mensajes deben aparecer casi inmediatamente sin consultar constantemente al servidor.",
+        "Una imagen almacenada en el servidor."
+      ],
+      "correctOption": 2
+    }
+  ]
+}
