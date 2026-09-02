@@ -15,6 +15,12 @@
       "code": "0102",
       "name": "Introducción a la Programación",
       "file": "/data/0102-introduccion-a-la-programacion.json"
+    },
+    {
+      "id": "0103",
+      "code": "0103",
+      "name": "Estructuras de Datos y Algoritmos",
+      "file": "/data/0103-estructuras-de-datos-y-algoritmos.json"
     }
   ]
 }

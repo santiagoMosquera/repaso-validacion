@@ -1,0 +1,338 @@
+{
+  "id": "0103",
+  "code": "0103",
+  "name": "Estructuras de Datos y Algoritmos",
+  "program": "Tecnología Superior en Desarrollo de Software y Programación",
+  "questions": [
+    {
+      "id": "0103-01",
+      "text": "Observe el objeto. ¿Qué valor se muestra en consola?\n\nlet estudiante = {\n    nombre: \"Ana\",\n    edad: 19,\n    carrera: \"Software\"\n};\n\nconsole.log(estudiante.carrera);",
+      "options": [
+        "Ana",
+        "19",
+        "Software",
+        "estudiante"
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0103-02",
+      "text": "En el siguiente ejemplo de composición, ¿qué valor imprime el programa?\n\nlet persona = {\n    nombre: \"Carlos\",\n    direccion: {\n        ciudad: \"Quito\",\n        sector: \"Tumbaco\"\n    }\n};\n\nconsole.log(persona.direccion.ciudad);",
+      "options": [
+        "Carlos",
+        "Quito",
+        "Tumbaco",
+        "direccion"
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0103-03",
+      "text": "¿Qué valor queda almacenado en producto.fabricante.pais al finalizar el código?\n\nlet producto = {\n    nombre: \"Laptop\",\n    fabricante: {\n        nombre: \"TechCorp\",\n        pais: \"Ecuador\"\n    }\n};\n\nproducto.fabricante.pais = \"Colombia\";",
+      "options": [
+        "Ecuador",
+        "Colombia",
+        "TechCorp",
+        "Laptop"
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0103-04",
+      "text": "¿Qué se muestra en consola?\n\nlet curso = {\n    nombre: \"Algoritmos\",\n    estudiantes: [\n        { nombre: \"María\" },\n        { nombre: \"Luis\" }\n    ]\n};\n\nconsole.log(curso.estudiantes[1].nombre);",
+      "options": [
+        "María",
+        "Luis",
+        "2",
+        "undefined"
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0103-05",
+      "text": "¿Cuál de las siguientes opciones representa correctamente un objeto en JavaScript?",
+      "options": [
+        "{ nombre = \"Ana\", edad = 20 }",
+        "{ nombre: \"Ana\", edad: 20 }",
+        "[ nombre: \"Ana\", edad: 20 ]",
+        "( nombre: \"Ana\", edad: 20 )"
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0103-06",
+      "text": "¿Cuál de las siguientes afirmaciones describe mejor la composición de objetos?",
+      "options": [
+        "Un objeto contiene otro objeto como parte de sus atributos.",
+        "Un objeto solo puede almacenar números.",
+        "Un objeto no puede contener arreglos.",
+        "Todos los objetos deben tener los mismos atributos."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0103-07",
+      "text": "¿Qué valor se imprime en consola?\n\nlet numeros = [10, 20, 30, 40];\n\nconsole.log(numeros[2]);",
+      "options": [
+        "10",
+        "20",
+        "30",
+        "40"
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0103-08",
+      "text": "Después de ejecutar el código, ¿qué valor tiene colores[1]?\n\nlet colores = [\"rojo\", \"azul\", \"verde\"];\n\ncolores[1] = \"amarillo\";",
+      "options": [
+        "rojo",
+        "azul",
+        "amarillo",
+        "verde"
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0103-09",
+      "text": "¿Qué valor imprime console.log(numeros.length)?\n\nlet numeros = [10, 20, 30, 40];\n\nnumeros.push(50);\n\nconsole.log(numeros.length);",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "50"
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0103-10",
+      "text": "¿Qué valor queda almacenado en la variable ultimo?\n\nlet datos = [5, 10, 15];\n\nlet ultimo = datos.pop();",
+      "options": [
+        "5",
+        "10",
+        "15",
+        "20"
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0103-11",
+      "text": "¿Cuál es el valor final de suma?\n\nlet numeros = [1, 2, 3, 4];\nlet suma = 0;\n\nfor (let i = 0; i < numeros.length; i++) {\n    suma = suma + numeros[i];\n}",
+      "options": [
+        "6",
+        "10",
+        "12",
+        "15"
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0103-12",
+      "text": "¿Qué imprime el siguiente código?\n\nlet nombres = [\"Ana\", \"Luis\", \"Pedro\"];\n\nconsole.log(nombres[nombres.length - 1]);",
+      "options": [
+        "Pedro",
+        "Ana",
+        "Luis",
+        "3"
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0103-13",
+      "text": "¿Qué se muestra en consola?\n\nlet estudiantes = new Map();\n\nestudiantes.set(\"A01\", \"Carlos\");\nestudiantes.set(\"A02\", \"María\");\n\nconsole.log(estudiantes.get(\"A02\"));",
+      "options": [
+        "A01",
+        "Carlos",
+        "María",
+        "undefined"
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0103-14",
+      "text": "Si se necesita asociar cada código de estudiante con su nombre y buscar directamente por el código, ¿qué estructura es más apropiada?",
+      "options": [
+        "Un Map",
+        "Una pila",
+        "Una cola",
+        "Una variable boolean"
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0103-15",
+      "text": "¿Cuál es la principal diferencia entre un Map y un arreglo/lista?",
+      "options": [
+        "El Map almacena pares clave-valor; el arreglo/lista organiza elementos por posición.",
+        "El arreglo solo puede almacenar texto.",
+        "El Map solo permite números.",
+        "No existe diferencia entre ambos."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0103-16",
+      "text": "¿Qué valor se obtiene con edades.get('Ana')?\n\nlet edades = new Map();\n\nedades.set(\"Ana\", 20);\nedades.set(\"Ana\", 21);\n\nconsole.log(edades.get(\"Ana\"));",
+      "options": [
+        "20",
+        "21",
+        "Ana",
+        "undefined"
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0103-17",
+      "text": "¿Qué imprime el siguiente código?\n\nlet usuarios = new Map();\n\nusuarios.set(\"A01\", \"Carlos\");\nusuarios.set(\"A02\", \"María\");\n\nconsole.log(usuarios.has(\"A03\"));",
+      "options": [
+        "true",
+        "false",
+        "A03",
+        "Error"
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0103-18",
+      "text": "¿Qué principio utiliza una pila (Stack)?",
+      "options": [
+        "FIFO: el primero en entrar es el primero en salir.",
+        "LIFO: el último en entrar es el primero en salir.",
+        "Orden alfabético.",
+        "Orden aleatorio."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0103-19",
+      "text": "¿Qué valor se muestra en consola?\n\nlet pila = [];\n\npila.push(\"A\");\npila.push(\"B\");\npila.push(\"C\");\n\nlet elemento = pila.pop();\n\nconsole.log(elemento);",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "3"
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0103-20",
+      "text": "Después de ejecutar dos operaciones pop(), ¿qué valor queda en la parte superior de la pila?\n\nlet pila = [];\n\npila.push(10);\npila.push(20);\npila.push(30);\n\npila.pop();\npila.pop();",
+      "options": [
+        "10",
+        "20",
+        "30",
+        "La pila queda vacía"
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0103-21",
+      "text": "¿Cuál de los siguientes casos se adapta mejor al uso de una pila?",
+      "options": [
+        "Atender personas según el orden de llegada.",
+        "Implementar la función Deshacer de un editor.",
+        "Buscar un usuario por su cédula.",
+        "Guardar pares clave-valor."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0103-22",
+      "text": "¿Qué principio utiliza una cola (Queue)?",
+      "options": [
+        "LIFO: el último en entrar es el primero en salir.",
+        "FIFO: el primero en entrar es el primero en salir.",
+        "Los elementos salen al azar.",
+        "Los elementos siempre se ordenan de mayor a menor."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0103-23",
+      "text": "¿Qué valor se muestra en consola?\n\nlet cola = [];\n\ncola.push(\"Cliente 1\");\ncola.push(\"Cliente 2\");\ncola.push(\"Cliente 3\");\n\nlet atendido = cola.shift();\n\nconsole.log(atendido);",
+      "options": [
+        "Cliente 1",
+        "Cliente 2",
+        "Cliente 3",
+        "3"
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0103-24",
+      "text": "¿Cuál afirmación diferencia correctamente una pila de una cola?",
+      "options": [
+        "Ambas eliminan siempre el primer elemento.",
+        "La pila usa LIFO y la cola usa FIFO.",
+        "La pila usa FIFO y la cola usa LIFO.",
+        "No existe diferencia entre ellas."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0103-25",
+      "text": "¿Qué valor final queda almacenado en mayor?\n\nlet numeros = [4, 8, 2, 10, 3];\nlet mayor = numeros[0];\n\nfor (let i = 1; i < numeros.length; i++) {\n    if (numeros[i] > mayor) {\n        mayor = numeros[i];\n    }\n}",
+      "options": [
+        "2",
+        "4",
+        "8",
+        "10"
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0103-26",
+      "text": "¿Cuál es el valor final de contador?\n\nlet numeros = [2, 5, 8, 11, 14];\nlet contador = 0;\n\nfor (let i = 0; i < numeros.length; i++) {\n    if (numeros[i] % 2 === 0) {\n        contador++;\n    }\n}",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0103-27",
+      "text": "¿Qué imprime el algoritmo de búsqueda?\n\nlet datos = [12, 7, 25, 9];\nlet buscado = 25;\nlet posicion = -1;\n\nfor (let i = 0; i < datos.length; i++) {\n    if (datos[i] === buscado) {\n        posicion = i;\n        break;\n    }\n}\n\nconsole.log(posicion);",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "-1"
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0103-28",
+      "text": "¿Cuál es el valor final de total?\n\nlet valores = [3, 6, 9];\nlet total = 0;\n\nfor (let i = 0; i < valores.length; i++) {\n    total += valores[i];\n}",
+      "options": [
+        "6",
+        "12",
+        "18",
+        "24"
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0103-29",
+      "text": "¿Qué se mostrará en consola al usar una pila para invertir el orden?\n\nlet pila = [];\nlet letras = [\"A\", \"B\", \"C\"];\n\nfor (let i = 0; i < letras.length; i++) {\n    pila.push(letras[i]);\n}\n\nlet resultado = \"\";\n\nwhile (pila.length > 0) {\n    resultado += pila.pop() + \" \";\n}\n\nconsole.log(resultado.trim());",
+      "options": [
+        "A B C",
+        "C B A",
+        "B C A",
+        "A C B"
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0103-30",
+      "text": "¿Qué valor imprime el siguiente algoritmo?\n\nlet numeros = [7, 3, 9, 4];\nlet menor = numeros[0];\n\nfor (let i = 1; i < numeros.length; i++) {\n    if (numeros[i] < menor) {\n        menor = numeros[i];\n    }\n}\n\nconsole.log(menor);",
+      "options": [
+        "3",
+        "4",
+        "7",
+        "10"
+      ],
+      "correctOption": 0
+    }
+  ]
+}
