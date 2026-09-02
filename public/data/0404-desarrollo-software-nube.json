@@ -1,0 +1,338 @@
+{
+  "id": "0404",
+  "code": "0404",
+  "name": "Desarrollo de Software en la Nube",
+  "program": "Tecnología Superior en Desarrollo de Software y Programación",
+  "questions": [
+    {
+      "id": "0404-01",
+      "text": "¿Cuál es una ventaja común de utilizar servicios en la nube frente a comprar infraestructura propia desde el inicio?",
+      "options": [
+        "Permite utilizar recursos bajo demanda sin realizar necesariamente una gran inversión inicial en hardware.",
+        "Obliga a comprar servidores físicos antes de empezar.",
+        "Impide aumentar la capacidad de la aplicación.",
+        "Elimina la necesidad de conectividad de red."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0404-02",
+      "text": "Una empresa necesita servidores solo durante tres meses y no quiere comprar hardware. ¿Qué alternativa tiene más sentido?",
+      "options": [
+        "Construir un centro de datos propio.",
+        "Utilizar recursos de computación en la nube y pagar por el uso.",
+        "Comprar servidores y dejarlos sin uso después.",
+        "Desarrollar la aplicación sin servidor ni infraestructura."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0404-03",
+      "text": "¿Qué significa que una solución sea On-Premise?",
+      "options": [
+        "Que todos los recursos están obligatoriamente en AWS.",
+        "Que la aplicación solo funciona en dispositivos móviles.",
+        "Que la organización mantiene su infraestructura en instalaciones o equipos propios.",
+        "Que no existen servidores."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0404-04",
+      "text": "Una aplicación tiene pocos usuarios durante el año, pero en una campaña recibe miles de usuarios adicionales. ¿Qué característica de la nube resulta especialmente útil?",
+      "options": [
+        "Compresión de archivos.",
+        "Diseño responsive.",
+        "Control de versiones.",
+        "Elasticidad para aumentar o reducir recursos según la demanda."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0404-05",
+      "text": "¿Cuál de los siguientes grupos contiene proveedores importantes de servicios de nube pública?",
+      "options": [
+        "AWS, Microsoft Azure y Google Cloud.",
+        "React, Angular y Vue.",
+        "Git, GitHub y GitLab.",
+        "MySQL, PostgreSQL y Oracle."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0404-06",
+      "text": "¿Qué describe mejor una nube híbrida?",
+      "options": [
+        "Una infraestructura que utiliza únicamente servidores locales.",
+        "Una combinación de recursos de nube y recursos propios u otra infraestructura.",
+        "Una aplicación que solo funciona sin Internet.",
+        "Una base de datos que tiene tablas y documentos."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0404-07",
+      "text": "Si una empresa aumenta CPU y memoria del mismo servidor para soportar más carga, está aplicando:",
+      "options": [
+        "Alta disponibilidad.",
+        "Replicación.",
+        "Escalabilidad vertical.",
+        "Escalabilidad horizontal."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0404-08",
+      "text": "Si una aplicación agrega varios servidores para repartir las peticiones de los usuarios, está aplicando:",
+      "options": [
+        "Escalabilidad vertical.",
+        "Backup automático.",
+        "Autenticación distribuida.",
+        "Escalabilidad horizontal."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0404-09",
+      "text": "Una empresa necesita una máquina virtual en AWS donde pueda instalar su aplicación y administrar el sistema operativo. ¿Qué servicio debe utilizar?",
+      "options": [
+        "Amazon EC2.",
+        "Amazon S3.",
+        "Amazon SNS.",
+        "Amazon Route 53."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0404-10",
+      "text": "Una aplicación necesita almacenar fotografías, documentos y archivos subidos por los usuarios. ¿Qué servicio AWS resulta apropiado?",
+      "options": [
+        "Amazon EC2.",
+        "Amazon S3.",
+        "AWS IAM.",
+        "Amazon RDS."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0404-11",
+      "text": "Una aplicación necesita una base de datos PostgreSQL administrada por AWS. ¿Qué servicio es una opción adecuada?",
+      "options": [
+        "Amazon SQS.",
+        "Amazon CloudFront.",
+        "Amazon RDS.",
+        "Amazon SNS."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0404-12",
+      "text": "Una aplicación necesita una base de datos NoSQL administrada y altamente escalable en AWS. ¿Qué servicio corresponde?",
+      "options": [
+        "Amazon RDS.",
+        "Amazon Route 53.",
+        "Amazon EC2.",
+        "Amazon DynamoDB."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0404-13",
+      "text": "Se necesita ejecutar código cuando ocurre un evento, sin mantener un servidor encendido permanentemente. ¿Qué servicio AWS encaja mejor?",
+      "options": [
+        "AWS Lambda.",
+        "Amazon RDS.",
+        "Amazon Route 53.",
+        "AWS IAM."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0404-14",
+      "text": "¿Qué servicio AWS permite crear, publicar y administrar APIs para que una aplicación web o móvil se comunique con el backend?",
+      "options": [
+        "Amazon S3.",
+        "Amazon API Gateway.",
+        "Amazon CloudFront.",
+        "Amazon EBS."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0404-15",
+      "text": "¿Qué servicio AWS permite administrar usuarios, roles, políticas y permisos sobre los recursos de AWS?",
+      "options": [
+        "Amazon SNS.",
+        "Amazon VPC.",
+        "AWS Identity and Access Management (IAM).",
+        "Amazon SQS."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0404-16",
+      "text": "Una empresa quiere crear una red virtual privada dentro de AWS para organizar sus recursos. ¿Qué servicio debe utilizar?",
+      "options": [
+        "Amazon CloudWatch.",
+        "Amazon Route 53.",
+        "AWS Lambda.",
+        "Amazon VPC."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0404-17",
+      "text": "Se quiere permitir acceso HTTPS a una instancia EC2 y bloquear otros puertos no necesarios. ¿Qué elemento puede utilizarse para controlar este tráfico?",
+      "options": [
+        "Security Group.",
+        "Amazon S3.",
+        "AWS Lambda.",
+        "Amazon DynamoDB."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0404-18",
+      "text": "Una aplicación tiene tres instancias EC2 y necesita distribuir las peticiones entre ellas. ¿Qué servicio se utiliza para este propósito?",
+      "options": [
+        "AWS IAM.",
+        "Elastic Load Balancing.",
+        "Amazon SQS.",
+        "Amazon CloudTrail."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0404-19",
+      "text": "Una aplicación debe agregar automáticamente más instancias EC2 cuando aumenta la demanda y reducirlas cuando disminuye. ¿Qué servicio o característica debe utilizar?",
+      "options": [
+        "Amazon SNS.",
+        "Amazon RDS.",
+        "EC2 Auto Scaling.",
+        "AWS CloudTrail."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0404-20",
+      "text": "¿Qué servicio AWS permite monitorear métricas como uso de CPU y crear alarmas?",
+      "options": [
+        "Amazon Route 53.",
+        "AWS IAM.",
+        "Amazon S3.",
+        "Amazon CloudWatch."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0404-21",
+      "text": "Un administrador quiere saber qué usuario eliminó un recurso de AWS y en qué momento ocurrió. ¿Qué servicio debería revisar?",
+      "options": [
+        "AWS CloudTrail.",
+        "Amazon CloudFront.",
+        "Amazon RDS.",
+        "Amazon EBS."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0404-22",
+      "text": "Una aplicación necesita almacenar trabajos o mensajes en una cola para que sean procesados posteriormente. ¿Qué servicio AWS es apropiado?",
+      "options": [
+        "Amazon SNS.",
+        "Amazon SQS.",
+        "Amazon Route 53.",
+        "Amazon CloudWatch."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0404-23",
+      "text": "Una aplicación necesita publicar una notificación para que varios suscriptores puedan recibirla. ¿Qué servicio AWS es apropiado?",
+      "options": [
+        "Amazon RDS.",
+        "Amazon EC2.",
+        "Amazon SNS.",
+        "Amazon EBS."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0404-24",
+      "text": "¿Qué servicio AWS se utiliza principalmente para administrar nombres de dominio y resolución DNS?",
+      "options": [
+        "Amazon S3.",
+        "Amazon DynamoDB.",
+        "AWS Lambda.",
+        "Amazon Route 53."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0404-25",
+      "text": "Una empresa quiere entregar imágenes y contenido web rápidamente a usuarios ubicados en distintos países mediante una CDN. ¿Qué servicio puede utilizar?",
+      "options": [
+        "Amazon CloudFront.",
+        "AWS IAM.",
+        "Amazon SQS.",
+        "Amazon RDS."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0404-26",
+      "text": "Observe la arquitectura. ¿Qué servicio cumple la función de almacenar archivos?\n\nAplicación web\n |\n +--> archivos e imágenes --> ?\n |\n +--> datos relacionales --> RDS",
+      "options": [
+        "Amazon RDS.",
+        "Amazon S3.",
+        "AWS IAM.",
+        "Amazon CloudTrail."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0404-27",
+      "text": "Observe el flujo. ¿Qué servicio debería ubicarse en el espacio indicado para ejecutar código sin administrar servidores?\n\nAplicación móvil\n |\nAPI Gateway\n |\n ?\n |\nDynamoDB",
+      "options": [
+        "Amazon EC2.",
+        "Amazon Route 53.",
+        "AWS Lambda.",
+        "Amazon CloudFront."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0404-28",
+      "text": "Una arquitectura utiliza varias instancias EC2. ¿Qué servicio debe ir delante de ellas para repartir el tráfico de los usuarios?",
+      "options": [
+        "AWS IAM.",
+        "Amazon DynamoDB.",
+        "Amazon S3.",
+        "Elastic Load Balancing."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0404-29",
+      "text": "¿Cuál asociación entre servicio AWS y función es correcta?",
+      "options": [
+        "Amazon RDS → base de datos relacional administrada.",
+        "Amazon S3 → administrar usuarios y roles.",
+        "AWS IAM → almacenar imágenes y videos.",
+        "Amazon EC2 → servicio de DNS."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0404-30",
+      "text": "¿Cuál combinación representa correctamente tres servicios AWS?",
+      "options": [
+        "EC2 → DNS / Route 53 → servidor virtual / RDS → archivos.",
+        "EC2 → servidor virtual / S3 → almacenamiento de objetos / RDS → base de datos relacional.",
+        "S3 → usuarios y permisos / IAM → base de datos / RDS → CDN.",
+        "CloudFront → base de datos / DynamoDB → DNS / Route 53 → archivos."
+      ],
+      "correctOption": 1
+    }
+  ]
+}

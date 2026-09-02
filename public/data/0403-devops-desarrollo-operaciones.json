@@ -1,0 +1,338 @@
+{
+  "id": "0403",
+  "code": "0403",
+  "name": "DevOps (Desarrollo y Operaciones)",
+  "program": "Tecnología Superior en Desarrollo de Software y Programación",
+  "questions": [
+    {
+      "id": "0403-01",
+      "text": "¿Qué describe mejor DevOps?",
+      "options": [
+        "Una práctica que integra desarrollo y operaciones para entregar software de forma más rápida y confiable.",
+        "Un lenguaje de programación para servidores.",
+        "Una base de datos distribuida.",
+        "Una herramienta exclusiva para diseñar interfaces."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0403-02",
+      "text": "¿Cuál es uno de los objetivos principales de DevOps?",
+      "options": [
+        "Separar completamente a desarrollo y operaciones.",
+        "Evitar las automatizaciones.",
+        "Mejorar la colaboración y automatizar procesos de entrega de software.",
+        "Eliminar el control de versiones."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0403-03",
+      "text": "¿Qué significa CI en un proceso DevOps?",
+      "options": [
+        "Continuous Integration.",
+        "Code Installation.",
+        "Central Infrastructure.",
+        "Computer Integration."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0403-04",
+      "text": "¿Qué busca principalmente la Integración Continua (CI)?",
+      "options": [
+        "Ejecutar únicamente despliegues manuales.",
+        "Integrar cambios de código frecuentemente y validarlos automáticamente.",
+        "Evitar que varios desarrolladores trabajen sobre el mismo proyecto.",
+        "Eliminar las pruebas automatizadas."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0403-05",
+      "text": "¿Qué representa normalmente CD dentro de CI/CD?",
+      "options": [
+        "Code Design.",
+        "Central Database.",
+        "Continuous Delivery o Continuous Deployment.",
+        "Computer Development."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0403-06",
+      "text": "¿Qué es un pipeline de CI/CD?",
+      "options": [
+        "Una secuencia automatizada de pasos como build, pruebas y despliegue.",
+        "Una base de datos de producción.",
+        "Una rama especial de Git.",
+        "Un servidor físico obligatorio."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0403-07",
+      "text": "¿Qué representa el proceso de build?",
+      "options": [
+        "Eliminar versiones antiguas del sistema.",
+        "Crear usuarios en producción.",
+        "Hacer backup de la base de datos.",
+        "Preparar o compilar la aplicación para que pueda ejecutarse o desplegarse."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0403-08",
+      "text": "¿Cuál de las siguientes secuencias representa mejor un pipeline básico?",
+      "options": [
+        "Deploy → Código → Pruebas → Build.",
+        "Pruebas → Producción → Código → Git.",
+        "Código → Build → Pruebas → Deploy.",
+        "Base de datos → CSS → Git → Monitor."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0403-09",
+      "text": "¿Qué es un ambiente de desarrollo?",
+      "options": [
+        "El entorno utilizado para construir y probar cambios antes de producción.",
+        "El ambiente que utilizan exclusivamente los clientes finales.",
+        "Una copia obligatoria de Internet.",
+        "Un servidor que nunca puede modificarse."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0403-10",
+      "text": "¿Qué es un ambiente de producción?",
+      "options": [
+        "El espacio donde el desarrollador escribe código por primera vez.",
+        "El entorno donde se ejecuta la aplicación que utilizan los usuarios reales.",
+        "Una rama de Git.",
+        "Una herramienta de monitoreo."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0403-11",
+      "text": "¿Qué significa realizar un deploy?",
+      "options": [
+        "Eliminar el repositorio.",
+        "Revertir un commit.",
+        "Publicar o instalar una versión de la aplicación en un ambiente.",
+        "Crear una base de datos local."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0403-12",
+      "text": "Una nueva versión genera errores graves y el equipo vuelve a la versión estable anterior. ¿Qué acción está realizando?",
+      "options": [
+        "Rollback.",
+        "Build.",
+        "Commit.",
+        "Scale out."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0403-13",
+      "text": "¿Por qué es importante automatizar procesos en DevOps?",
+      "options": [
+        "Porque reduce tareas manuales repetitivas y ayuda a disminuir errores.",
+        "Porque elimina la necesidad de programadores.",
+        "Porque evita utilizar servidores.",
+        "Porque reemplaza todas las pruebas."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0403-14",
+      "text": "Un desarrollador hace push al repositorio y automáticamente se ejecutan pruebas. ¿Qué concepto se está aplicando?",
+      "options": [
+        "Diseño gráfico.",
+        "Integración Continua.",
+        "Base de datos distribuida.",
+        "Rollback manual."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0403-15",
+      "text": "¿Qué papel cumple Git dentro de un proceso DevOps?",
+      "options": [
+        "Permite versionar el código y puede servir como punto de inicio para automatizaciones.",
+        "Reemplaza la infraestructura cloud.",
+        "Es una herramienta de monitoreo de CPU.",
+        "Es una base de datos NoSQL."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0403-16",
+      "text": "¿Qué es un contenedor en el contexto de DevOps?",
+      "options": [
+        "Un repositorio de Git.",
+        "Una base de datos física.",
+        "Una página HTML.",
+        "Una instancia que ejecuta una aplicación junto con sus dependencias en un entorno aislado."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0403-17",
+      "text": "¿Qué herramienta se utiliza comúnmente para trabajar con contenedores?",
+      "options": [
+        "JMeter.",
+        "Postman.",
+        "Docker.",
+        "Figma."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0403-18",
+      "text": "¿Cuál es una ventaja de utilizar Docker?",
+      "options": [
+        "Ayuda a ejecutar la aplicación de manera consistente en diferentes ambientes.",
+        "Convierte automáticamente cualquier aplicación en microservicios.",
+        "Elimina la necesidad de redes.",
+        "Reemplaza el control de versiones."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0403-19",
+      "text": "¿Cuál es la diferencia básica entre una imagen y un contenedor Docker?",
+      "options": [
+        "No existe diferencia.",
+        "La imagen es una plantilla y el contenedor es una instancia en ejecución de esa imagen.",
+        "El contenedor crea la imagen después de ejecutarse.",
+        "La imagen solo funciona en producción."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0403-20",
+      "text": "¿Qué significa Infraestructura como Código (IaC)?",
+      "options": [
+        "Configurar toda la infraestructura únicamente de forma manual.",
+        "Guardar contraseñas dentro del código fuente.",
+        "Diseñar interfaces mediante scripts.",
+        "Definir y administrar infraestructura mediante archivos o código."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0403-21",
+      "text": "¿Cuál de las siguientes plataformas puede utilizarse para desplegar infraestructura y aplicaciones en la nube?",
+      "options": [
+        "Photoshop.",
+        "Excel.",
+        "PowerPoint.",
+        "AWS."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0403-22",
+      "text": "Si un servidor recibe más CPU y memoria para soportar mayor carga, ¿qué tipo de escalabilidad se aplica?",
+      "options": [
+        "Horizontal.",
+        "Vertical.",
+        "Distribuida.",
+        "Local."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0403-23",
+      "text": "Si se agregan más servidores para repartir las peticiones de los usuarios, ¿qué tipo de escalabilidad se aplica?",
+      "options": [
+        "Vertical.",
+        "Manual.",
+        "Horizontal.",
+        "Monolítica."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0403-24",
+      "text": "¿Qué significa alta disponibilidad?",
+      "options": [
+        "Tener únicamente un servidor muy potente.",
+        "Eliminar los respaldos.",
+        "Ejecutar la aplicación solo en horario laboral.",
+        "Diseñar el sistema para continuar funcionando aunque algún componente falle."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0403-25",
+      "text": "¿Para qué sirve el monitoreo en una aplicación en producción?",
+      "options": [
+        "Para cambiar automáticamente el lenguaje de programación.",
+        "Para observar el estado, rendimiento y posibles problemas del sistema.",
+        "Para crear commits.",
+        "Para reemplazar el backend."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0403-26",
+      "text": "¿Qué son los logs?",
+      "options": [
+        "Servidores adicionales para escalar horizontalmente.",
+        "Archivos CSS.",
+        "Contenedores detenidos.",
+        "Registros de eventos y acciones que ayudan a entender qué ocurrió en el sistema."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0403-27",
+      "text": "¿Cuál de los siguientes es un ejemplo de una métrica de monitoreo?",
+      "options": [
+        "El color del logotipo.",
+        "El nombre del desarrollador.",
+        "CPU utilizada, memoria consumida o tiempo de respuesta.",
+        "La extensión del archivo HTML."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0403-28",
+      "text": "¿Qué es una alerta en un sistema de monitoreo?",
+      "options": [
+        "Una nueva rama de Git.",
+        "Una notificación generada cuando se detecta una condición que requiere atención.",
+        "Un tipo de contenedor.",
+        "Un lenguaje de automatización."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0403-29",
+      "text": "¿Qué busca DevSecOps?",
+      "options": [
+        "Separar la seguridad del proceso de desarrollo.",
+        "Incorporar prácticas de seguridad dentro del ciclo DevOps.",
+        "Eliminar las pruebas automáticas.",
+        "Guardar claves directamente en el código."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0403-30",
+      "text": "Un programador hace push, el pipeline ejecuta build y pruebas, despliega la aplicación y luego se monitorea producción. ¿Qué representa este flujo?",
+      "options": [
+        "Una consulta SQL.",
+        "Una arquitectura exclusivamente frontend.",
+        "Un proceso manual de diseño.",
+        "Un ciclo típico de trabajo DevOps automatizado."
+      ],
+      "correctOption": 3
+    }
+  ]
+}

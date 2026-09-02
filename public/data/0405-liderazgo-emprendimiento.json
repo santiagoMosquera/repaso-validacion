@@ -1,0 +1,338 @@
+{
+  "id": "0405",
+  "code": "0405",
+  "name": "Liderazgo y Emprendimiento",
+  "program": "Tecnología Superior en Desarrollo de Software y Programación",
+  "questions": [
+    {
+      "id": "0405-01",
+      "text": "¿Qué describe mejor un emprendimiento tecnológico?",
+      "options": [
+        "Utilizar cualquier tecnología nueva aunque no exista una necesidad.",
+        "Identificar un problema y crear una solución tecnológica que genere valor.",
+        "Crear exclusivamente aplicaciones móviles.",
+        "Comprar tecnología para luego venderla."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0405-02",
+      "text": "¿Por qué la tecnología debe considerarse un medio y no el objetivo principal de un emprendimiento?",
+      "options": [
+        "Porque debería evitarse en los negocios.",
+        "Porque únicamente sirve para reducir costos.",
+        "Porque debe utilizarse para resolver problemas y generar valor.",
+        "Porque todos los proyectos deben funcionar manualmente."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0405-03",
+      "text": "¿Qué busca relacionar el IKIGAI emprendedor?",
+      "options": [
+        "Lo que sabemos hacer, lo que nos interesa, lo que se necesita y aquello por lo que podrían pagar.",
+        "Únicamente ingresos y gastos.",
+        "Las tareas y fechas del proyecto.",
+        "Los proveedores y competidores."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0405-04",
+      "text": "¿Cuál de estas conductas representa mejor una mentalidad emprendedora?",
+      "options": [
+        "Esperar instrucciones antes de actuar.",
+        "Evitar cualquier situación incierta.",
+        "Mantener una idea aunque la evidencia indique que no funciona.",
+        "Identificar oportunidades, experimentar y aprender de los resultados."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0405-05",
+      "text": "¿Qué característica es especialmente importante en un líder emprendedor?",
+      "options": [
+        "Tomar todas las decisiones sin consultar al equipo.",
+        "Movilizar personas y recursos para convertir una oportunidad en una solución viable.",
+        "Evitar delegar actividades.",
+        "Trabajar siempre de manera individual."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0405-06",
+      "text": "¿Qué habilidad de inteligencia emocional ayuda especialmente a comprender a usuarios y compañeros de equipo?",
+      "options": [
+        "Competitividad.",
+        "Rigidez.",
+        "Empatía.",
+        "Autoridad."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0405-07",
+      "text": "¿Qué caracteriza a un equipo de alto desempeño?",
+      "options": [
+        "Propósito compartido, roles claros, comunicación y responsabilidad colectiva.",
+        "Ausencia de responsabilidades individuales.",
+        "Dependencia absoluta de un líder.",
+        "Evitar la retroalimentación."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0405-08",
+      "text": "¿Cuál de los siguientes ejemplos representa mejor una oportunidad tecnológica?",
+      "options": [
+        "Desarrollar una aplicación porque otras empresas tienen una.",
+        "Utilizar inteligencia artificial aunque no sea necesaria.",
+        "Diseñar el logotipo antes de conocer al usuario.",
+        "Automatizar un proceso manual que provoca errores frecuentes."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0405-09",
+      "text": "¿Cuál debería ser una de las primeras preguntas al iniciar un emprendimiento?",
+      "options": [
+        "¿Qué lenguaje de programación utilizaremos?",
+        "¿Qué problema real queremos resolver?",
+        "¿Qué nombre tendrá la empresa?",
+        "¿Cuánto costará el logotipo?"
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0405-10",
+      "text": "¿Qué representa el “dolor” del usuario?",
+      "options": [
+        "El precio de la tecnología utilizada.",
+        "Una característica del producto.",
+        "Una dificultad, frustración, pérdida o barrera que afecta al usuario.",
+        "El costo de desarrollar el software."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0405-11",
+      "text": "¿Cuál de estos casos representa un dolor económico del usuario?",
+      "options": [
+        "Una empresa pierde ventas porque tarda demasiado en responder a sus clientes.",
+        "Un usuario prefiere otro color para el botón.",
+        "Una persona quiere probar una tecnología nueva por curiosidad.",
+        "El programador quiere cambiar de framework."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0405-12",
+      "text": "¿Cuál de estas opciones diferencia correctamente problema, necesidad y oportunidad?",
+      "options": [
+        "Los tres significan exactamente lo mismo.",
+        "La necesidad siempre aparece después de crear la solución.",
+        "La oportunidad es únicamente una forma de ganar dinero.",
+        "El problema describe una dificultad, la necesidad expresa lo requerido y la oportunidad permite crear valor."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0405-13",
+      "text": "¿Para qué sirve un árbol de problemas?",
+      "options": [
+        "Para calcular ingresos y gastos.",
+        "Para organizar causas, problema central y efectos.",
+        "Para crear un organigrama empresarial.",
+        "Para definir las tareas de programación."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0405-14",
+      "text": "¿Cuál es la secuencia básica de Design Thinking?",
+      "options": [
+        "Programar → publicar → vender → escalar → cerrar.",
+        "Analizar → cobrar → programar → vender → medir.",
+        "Empatizar → definir → idear → prototipar → probar.",
+        "Planificar → contratar → vender → invertir → exportar."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0405-15",
+      "text": "¿Qué busca principalmente la etapa de empatizar?",
+      "options": [
+        "Comprender a las personas mediante observación, escucha y preguntas.",
+        "Terminar inmediatamente el producto.",
+        "Definir cuánto cobrará la empresa.",
+        "Elegir las tecnologías que utilizará el equipo."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0405-16",
+      "text": "¿Qué significa prototipar una solución?",
+      "options": [
+        "Crear obligatoriamente el producto final.",
+        "Escribir únicamente la documentación.",
+        "Presentar una propuesta sin interacción.",
+        "Construir una representación inicial que pueda ser observada y evaluada."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0405-17",
+      "text": "¿Para qué sirve un mapa de empatía?",
+      "options": [
+        "Para calcular el presupuesto.",
+        "Para organizar lo que el usuario piensa, siente, ve, escucha, dice y hace.",
+        "Para administrar los sprints.",
+        "Para definir la infraestructura tecnológica."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0405-18",
+      "text": "¿Qué explica un modelo de negocio?",
+      "options": [
+        "Solo cómo será diseñada la aplicación.",
+        "Únicamente qué tecnologías utilizará el proyecto.",
+        "Cómo una solución crea, entrega y captura valor.",
+        "Cuántas personas integrarán el equipo."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0405-19",
+      "text": "¿Cuál de los siguientes elementos pertenece al Business Model Canvas?",
+      "options": [
+        "Segmentos de clientes.",
+        "Lenguaje de programación.",
+        "Sistema operativo.",
+        "Sprint diario."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0405-20",
+      "text": "¿Por qué decir que un producto está dirigido a “todo el mundo” puede ser un problema?",
+      "options": [
+        "Porque obliga a bajar el precio.",
+        "Porque impide utilizar tecnología.",
+        "Porque significa que no existe competencia.",
+        "Porque dificulta definir propuesta de valor, canales y validación."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0405-21",
+      "text": "¿Qué diferencia puede existir entre usuario y cliente pagador?",
+      "options": [
+        "El usuario siempre debe pagar.",
+        "El usuario utiliza la solución, mientras que el cliente pagador aporta los recursos económicos.",
+        "El cliente nunca utiliza el producto.",
+        "No puede existir ninguna diferencia entre ambos."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0405-22",
+      "text": "¿Qué enfatiza especialmente el Lean Canvas?",
+      "options": [
+        "La estructura jerárquica de la empresa.",
+        "El diseño gráfico del producto.",
+        "Problema, solución, métricas y ventaja diferencial.",
+        "Únicamente los estados financieros."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0405-23",
+      "text": "¿Qué es una ventaja diferencial?",
+      "options": [
+        "Algo que hace que una propuesta sea especial, preferible o difícil de copiar.",
+        "La cantidad de trabajadores de la empresa.",
+        "El número de seguidores en redes sociales.",
+        "El capital disponible inicialmente."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0405-24",
+      "text": "¿Qué es un MVP?",
+      "options": [
+        "El producto final con todas sus características.",
+        "Una campaña de publicidad.",
+        "Un documento financiero.",
+        "Una versión inicial que permite aprender de usuarios reales con el menor esfuerzo posible."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0405-25",
+      "text": "¿Qué representa la conversión en un emprendimiento digital?",
+      "options": [
+        "El número total de personas que conocen la marca.",
+        "El porcentaje de personas que realizan una acción que esperamos.",
+        "La cantidad de publicaciones realizadas.",
+        "La cantidad de integrantes del equipo."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0405-26",
+      "text": "¿Qué indica la retención?",
+      "options": [
+        "Cuántas personas conocen la aplicación.",
+        "Cuánto cuesta adquirir servidores.",
+        "Si los usuarios regresan o continúan utilizando la solución.",
+        "Cuántos seguidores tiene una cuenta."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0405-27",
+      "text": "¿Qué es una métrica accionable?",
+      "options": [
+        "Una métrica relacionada con una hipótesis que ayuda a tomar una decisión.",
+        "Una cifra alta que se ve bien en una presentación.",
+        "Cualquier dato publicado en redes sociales.",
+        "Una estimación sin evidencia."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0405-28",
+      "text": "¿Cuál sería un ejemplo de una métrica de vanidad?",
+      "options": [
+        "Porcentaje de usuarios que completan una compra.",
+        "Porcentaje de usuarios que regresan cada semana.",
+        "Número de clientes que aceptan una prueba piloto.",
+        "Número de seguidores que no demuestra uso ni interés real en el producto."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0405-29",
+      "text": "¿Cuál debería ser el propósito del capital semilla?",
+      "options": [
+        "Financiar gastos personales de los fundadores.",
+        "Desarrollar, validar, lanzar o fortalecer las primeras etapas del emprendimiento.",
+        "Evitar realizar entrevistas con usuarios.",
+        "Sustituir completamente el modelo de negocio."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0405-30",
+      "text": "¿Qué debería comunicar un buen pitch de un emprendimiento?",
+      "options": [
+        "Únicamente las características técnicas del software.",
+        "Solo el nombre, logotipo y redes sociales.",
+        "Problema, solución, usuario, validación, modelo de negocio, métricas y aspectos relevantes del proyecto.",
+        "Únicamente cuánto dinero desea recibir el equipo."
+      ],
+      "correctOption": 2
+    }
+  ]
+}

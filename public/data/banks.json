@@ -111,6 +111,42 @@
       "code": "0306",
       "name": "Metodología de la Investigación",
       "file": "/data/0306-metodologia-de-la-investigacion.json"
+    },
+    {
+      "id": "0401",
+      "code": "0401",
+      "name": "Seguridad en el Desarrollo de Software",
+      "file": "/data/0401-seguridad-en-el-desarrollo-de-software.json"
+    },
+    {
+      "id": "0402",
+      "code": "0402",
+      "name": "Introducción a la Inteligencia Artificial y Machine Learning",
+      "file": "/data/0402-introduccion-a-la-inteligencia-artificial-y-machine-learning.json"
+    },
+     {
+      "id": "0403",
+      "code": "0403",
+      "name": "DevOps",
+      "file": "/data/0403-devops-desarrollo-operaciones.json"
+    },
+     {
+      "id": "0404",
+      "code": "0404",
+      "name": "Desarrollo de Software en la Nube",
+      "file": "/data/0404-desarrollo-software-nube.json"
+    },
+     {
+      "id": "0405",
+      "code": "0405",
+      "name": "Liderazgo y Emprendimiento",
+      "file": "/data/0405-liderazgo-emprendimiento.json"
+    },
+     {
+      "id": "0406",
+      "code": "0406",
+      "name": "Proyecto de Titulación",
+      "file": "/data/0406-proyecto-titulacion.json"
     }
   ]
 }

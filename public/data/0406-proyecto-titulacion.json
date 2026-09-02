@@ -1,0 +1,338 @@
+{
+  "id": "0406",
+  "code": "0406",
+  "name": "Proyecto de Titulación",
+  "program": "Tecnología Superior en Desarrollo de Software y Programación",
+  "questions": [
+    {
+      "id": "0406-01",
+      "text": "¿Cuál debería ser una de las primeras actividades al iniciar un proyecto de titulación?",
+      "options": [
+        "Publicar el sistema.",
+        "Identificar claramente el problema que se desea resolver.",
+        "Realizar pruebas de carga.",
+        "Crear el manual de usuario."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0406-02",
+      "text": "¿Cuál es el propósito principal del planteamiento del problema?",
+      "options": [
+        "Describir de manera clara la situación o necesidad que el proyecto pretende resolver.",
+        "Seleccionar el lenguaje de programación.",
+        "Definir los colores de la interfaz.",
+        "Elaborar las conclusiones."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0406-03",
+      "text": "¿Para qué sirve la justificación de un proyecto?",
+      "options": [
+        "Para describir únicamente la arquitectura.",
+        "Para definir exclusivamente el presupuesto.",
+        "Para explicar por qué el proyecto es importante y qué beneficios puede generar.",
+        "Para escribir el código fuente."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0406-04",
+      "text": "¿Qué permite definir el alcance de un proyecto?",
+      "options": [
+        "Los nombres de todos los usuarios.",
+        "Únicamente la duración del proyecto.",
+        "Los salarios del equipo.",
+        "Qué se incluirá y qué quedará fuera del proyecto."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0406-05",
+      "text": "¿Cuál de las siguientes características debería tener un objetivo bien formulado?",
+      "options": [
+        "Ser claro y permitir verificar su cumplimiento.",
+        "Ser lo más extenso posible.",
+        "Cambiar constantemente durante el proyecto.",
+        "Evitar resultados medibles."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0406-06",
+      "text": "¿Cuál es la relación correcta entre el objetivo general y los objetivos específicos?",
+      "options": [
+        "Los objetivos específicos reemplazan al objetivo general.",
+        "Los objetivos específicos ayudan a alcanzar el objetivo general.",
+        "No deben estar relacionados.",
+        "El objetivo general solo se escribe al finalizar."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0406-07",
+      "text": "¿Para qué resulta útil investigar antecedentes antes de desarrollar la solución?",
+      "options": [
+        "Para copiar proyectos anteriores.",
+        "Para evitar formular objetivos.",
+        "Para conocer trabajos previos y comprender mejor el problema.",
+        "Para reemplazar el desarrollo del sistema."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0406-08",
+      "text": "Un equipo descubre que su proyecto intenta solucionar demasiados problemas al mismo tiempo. ¿Qué debería hacer?",
+      "options": [
+        "Agregar más funcionalidades.",
+        "Eliminar los objetivos.",
+        "Cambiar inmediatamente de tecnología.",
+        "Delimitar mejor el problema y el alcance."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0406-09",
+      "text": "¿Cuál es una ventaja de asignar roles dentro de un equipo de proyecto?",
+      "options": [
+        "Permite distribuir responsabilidades y organizar mejor el trabajo.",
+        "Hace innecesario el cronograma.",
+        "Elimina la necesidad de comunicación.",
+        "Evita realizar seguimiento."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0406-10",
+      "text": "Después de elaborar una primera versión del anteproyecto, ¿qué sería recomendable hacer?",
+      "options": [
+        "Publicarlo inmediatamente.",
+        "Revisarlo, recibir retroalimentación y realizar ajustes.",
+        "Eliminar la documentación inicial.",
+        "Empezar directamente el producto final."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0406-11",
+      "text": "¿Cuál es el propósito principal de diseñar la arquitectura de un sistema antes de desarrollarlo completamente?",
+      "options": [
+        "Definir el precio de venta.",
+        "Diseñar la presentación final.",
+        "Organizar los componentes y cómo se relacionarán entre sí.",
+        "Crear las conclusiones."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0406-12",
+      "text": "¿Qué representa un módulo dentro de un sistema?",
+      "options": [
+        "Una parte del sistema con responsabilidades específicas.",
+        "Únicamente una pantalla.",
+        "Un usuario del sistema.",
+        "Una referencia bibliográfica."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0406-13",
+      "text": "¿Por qué es importante definir las relaciones entre los módulos?",
+      "options": [
+        "Para reducir la cantidad de documentación.",
+        "Para conocer cómo intercambian información y trabajan en conjunto.",
+        "Para evitar las pruebas.",
+        "Para eliminar el cronograma."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0406-14",
+      "text": "¿Cuál de las siguientes herramientas puede utilizarse para representar visualmente la estructura o comportamiento de un sistema?",
+      "options": [
+        "PowerPoint exclusivamente.",
+        "Excel.",
+        "UML.",
+        "Bloc de notas."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0406-15",
+      "text": "¿Qué es un mockup?",
+      "options": [
+        "Una prueba de rendimiento.",
+        "Una base de datos temporal.",
+        "Un archivo de configuración.",
+        "Una representación visual de una interfaz."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0406-16",
+      "text": "¿Cuál es el principal beneficio de crear un prototipo de interfaz antes del desarrollo completo?",
+      "options": [
+        "Permite visualizar y evaluar la idea antes de invertir todo el esfuerzo de programación.",
+        "Garantiza que el sistema no tendrá errores.",
+        "Elimina la necesidad de usuarios.",
+        "Sustituye toda la documentación."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0406-17",
+      "text": "Antes de elegir una tecnología para un módulo, ¿qué debería analizar el equipo?",
+      "options": [
+        "Qué tecnología está de moda.",
+        "Las necesidades y características del módulo.",
+        "Qué lenguaje conoce un solo integrante.",
+        "El diseño del logotipo."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0406-18",
+      "text": "¿Qué significa “stack tecnológico”?",
+      "options": [
+        "El cronograma del proyecto.",
+        "El conjunto de integrantes del equipo.",
+        "El conjunto de tecnologías utilizadas para construir la solución.",
+        "La lista de requerimientos del usuario."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0406-19",
+      "text": "Un equipo selecciona React para frontend, Node.js para backend y PostgreSQL para base de datos. ¿Qué está definiendo?",
+      "options": [
+        "Las conclusiones.",
+        "El alcance.",
+        "La metodología de investigación.",
+        "Su stack tecnológico."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0406-20",
+      "text": "¿Para qué sirve un cronograma de trabajo?",
+      "options": [
+        "Para organizar actividades, responsables y tiempos del proyecto.",
+        "Para reemplazar los objetivos.",
+        "Para diseñar la base de datos.",
+        "Para ejecutar automáticamente las pruebas."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0406-21",
+      "text": "¿Qué representa un MVP dentro de un proyecto de software?",
+      "options": [
+        "El producto con todas las funcionalidades futuras.",
+        "Únicamente el diseño visual.",
+        "El documento final de titulación.",
+        "Una versión inicial con las funcionalidades esenciales necesarias para demostrar y evaluar la solución."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0406-22",
+      "text": "¿Cuál de estas opciones describe mejor qué debería incluir inicialmente un MVP?",
+      "options": [
+        "Todas las ideas del equipo.",
+        "Las funcionalidades esenciales para comprobar que la solución funciona.",
+        "Únicamente el logotipo y la portada.",
+        "Todas las funcionalidades posibles."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0406-23",
+      "text": "¿Cuál es el propósito principal de integrar los distintos módulos de un sistema?",
+      "options": [
+        "Reducir el número de integrantes.",
+        "Reescribir el planteamiento del problema.",
+        "Comprobar que las diferentes partes funcionan correctamente en conjunto.",
+        "Cambiar el stack tecnológico."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0406-24",
+      "text": "Durante la integración se detecta que el módulo de usuarios no puede comunicarse correctamente con el módulo de pagos. ¿Qué debería hacer el equipo?",
+      "options": [
+        "Ignorar el problema hasta la presentación final.",
+        "Eliminar uno de los módulos.",
+        "Cambiar el tema del proyecto.",
+        "Registrar la incidencia, analizarla y realizar los ajustes necesarios."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0406-25",
+      "text": "¿Qué buscan comprobar las pruebas de validación de un sistema?",
+      "options": [
+        "Que la solución funciona correctamente de acuerdo con lo esperado.",
+        "Que todos los integrantes trabajaron la misma cantidad de horas.",
+        "Que el documento tiene suficientes páginas.",
+        "Que se utilizó una tecnología moderna."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0406-26",
+      "text": "¿Qué ventaja tiene desarrollar y probar el prototipo de forma iterativa?",
+      "options": [
+        "Evita completamente los errores.",
+        "Permite realizar mejoras progresivas a partir de los resultados obtenidos.",
+        "Elimina la necesidad de planificar.",
+        "Obliga a desarrollar todo desde el inicio."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0406-27",
+      "text": "Después de recibir observaciones sobre el prototipo, ¿qué debería hacer el equipo?",
+      "options": [
+        "Defender la versión original sin cambios.",
+        "Ignorar las observaciones.",
+        "Evaluar la retroalimentación e incorporar los ajustes que correspondan.",
+        "Reiniciar obligatoriamente el proyecto."
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0406-28",
+      "text": "¿Para qué sirve un checklist antes de la entrega final?",
+      "options": [
+        "Para diseñar nuevas funcionalidades.",
+        "Para seleccionar tecnologías.",
+        "Para asignar nuevos roles.",
+        "Para comprobar que todos los entregables requeridos estén completos."
+      ],
+      "correctOption": 3
+    },
+    {
+      "id": "0406-29",
+      "text": "¿Qué deberían reflejar las conclusiones de un proyecto de titulación?",
+      "options": [
+        "Los principales resultados obtenidos y su relación con los objetivos planteados.",
+        "Nuevas funcionalidades que nunca fueron desarrolladas.",
+        "Únicamente opiniones personales.",
+        "Solo una descripción del código fuente."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0406-30",
+      "text": "¿Cuál de los siguientes representa mejor un proyecto de titulación completo?",
+      "options": [
+        "Una buena idea acompañada únicamente de una presentación.",
+        "Un problema definido, objetivos, arquitectura, solución funcional, validación y documentación coherente.",
+        "Una aplicación terminada sin documentación ni análisis.",
+        "Un documento teórico sin solución implementada."
+      ],
+      "correctOption": 1
+    }
+  ]
+}
