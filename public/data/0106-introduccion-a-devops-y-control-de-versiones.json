@@ -1,0 +1,338 @@
+{
+  "id": "0106",
+  "code": "0106",
+  "name": "Introducción a DevOps y Control de Versiones",
+  "program": "Tecnología Superior en Desarrollo de Software y Programación",
+  "questions": [
+    {
+      "id": "0106-01",
+      "text": "¿Cuál de las siguientes opciones describe mejor el propósito de DevOps?",
+      "options": [
+        "Separar completamente a los equipos de desarrollo y operaciones.",
+        "Mejorar la colaboración entre desarrollo y operaciones para entregar software de forma más rápida y confiable.",
+        "Reemplazar a los programadores por herramientas automáticas.",
+        "Utilizar únicamente servidores en la nube."
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0106-02",
+      "text": "¿Qué significa CI en el contexto de CI/CD?",
+      "options": [
+        "Code Integration",
+        "Continuous Integration",
+        "Computer Installation",
+        "Continuous Internet"
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0106-03",
+      "text": "¿Cuál es uno de los objetivos principales de la Integración Continua (CI)?",
+      "options": [
+        "Integrar frecuentemente los cambios de código y ejecutar validaciones automáticas.",
+        "Evitar que los desarrolladores compartan código.",
+        "Realizar todos los cambios directamente en producción.",
+        "Eliminar la necesidad de realizar pruebas."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0106-04",
+      "text": "¿Qué representa normalmente CD en una estrategia CI/CD?",
+      "options": [
+        "Continuous Delivery o Continuous Deployment.",
+        "Code Development.",
+        "Computer Design.",
+        "Central Database."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0106-05",
+      "text": "¿Qué es un pipeline de CI/CD?",
+      "options": [
+        "Una secuencia automatizada de pasos como compilación, pruebas y despliegue.",
+        "Una carpeta donde se almacenan únicamente imágenes.",
+        "Una rama especial de Git.",
+        "Un tipo de base de datos."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0106-06",
+      "text": "Un equipo configura un proceso que, cada vez que se envía código al repositorio, ejecuta automáticamente pruebas antes de permitir un despliegue. ¿Qué concepto está aplicando principalmente?",
+      "options": [
+        "Integración Continua.",
+        "Programación orientada a objetos.",
+        "Diseño gráfico.",
+        "Base de datos distribuida."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0106-07",
+      "text": "¿Cuál es una ventaja del control de versiones para un programador que trabaja individualmente?",
+      "options": [
+        "Permite conservar el historial de cambios y regresar a versiones anteriores.",
+        "Obliga a eliminar las versiones anteriores del código.",
+        "Evita utilizar archivos.",
+        "Solo sirve cuando trabajan más de diez personas."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0106-08",
+      "text": "Un programador modifica un proyecto y descubre que su último cambio dañó una funcionalidad. ¿Qué ventaja del control de versiones puede ayudarlo?",
+      "options": [
+        "Consultar el historial y recuperar una versión anterior.",
+        "Eliminar todo el proyecto.",
+        "Crear otra computadora.",
+        "Reinstalar el sistema operativo."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0106-09",
+      "text": "¿Por qué es importante el control de versiones cuando varias personas trabajan en el mismo proyecto?",
+      "options": [
+        "Porque permite coordinar cambios y mantener un historial común del proyecto.",
+        "Porque evita que más de una persona programe.",
+        "Porque reemplaza las reuniones del equipo.",
+        "Porque impide crear ramas."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0106-10",
+      "text": "¿Qué información permite conocer normalmente el historial de un repositorio Git?",
+      "options": [
+        "Los cambios realizados, sus autores y los commits efectuados.",
+        "Únicamente el tamaño del monitor del programador.",
+        "Las contraseñas de los usuarios.",
+        "Solo los archivos eliminados."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0106-11",
+      "text": "¿Qué es un commit en Git?",
+      "options": [
+        "Un registro de un conjunto de cambios realizado en el repositorio.",
+        "Una carpeta temporal del sistema operativo.",
+        "Una conexión a Internet.",
+        "Una base de datos."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0106-12",
+      "text": "¿Cuál es una buena práctica al escribir el mensaje de un commit?",
+      "options": [
+        "Describir de forma clara el cambio realizado.",
+        "Utilizar siempre el mensaje \"cambio\".",
+        "No escribir ningún mensaje.",
+        "Utilizar únicamente números aleatorios."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0106-13",
+      "text": "¿Qué comando permite crear un nuevo repositorio Git en una carpeta existente?",
+      "options": [
+        "git start",
+        "git init",
+        "git create",
+        "git new"
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0106-14",
+      "text": "¿Qué comando se utiliza para obtener una copia local de un repositorio remoto existente?",
+      "options": [
+        "git clone",
+        "git copy",
+        "git download",
+        "git init"
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0106-15",
+      "text": "¿Qué comando permite consultar el estado actual de los archivos de un repositorio?",
+      "options": [
+        "git log",
+        "git status",
+        "git check",
+        "git show-files"
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0106-16",
+      "text": "Un desarrollador modifica el archivo app.js. ¿Qué comando permite preparar específicamente ese archivo para el próximo commit?",
+      "options": [
+        "git add app.js",
+        "git commit app.js",
+        "git push app.js",
+        "git status app.js"
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0106-17",
+      "text": "¿Qué hace el siguiente comando?\n\ngit add .",
+      "options": [
+        "Prepara los cambios del directorio actual para incluirlos en el próximo commit.",
+        "Elimina todos los archivos.",
+        "Envía automáticamente los cambios al repositorio remoto.",
+        "Crea una nueva rama."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0106-18",
+      "text": "¿Cuál de los siguientes comandos crea un commit con el mensaje indicado?",
+      "options": [
+        "git commit -m \"Agregar formulario de login\"",
+        "git add \"Agregar formulario de login\"",
+        "git push -m \"Agregar formulario de login\"",
+        "git message \"Agregar formulario de login\""
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0106-19",
+      "text": "¿Qué comando permite consultar el historial de commits?",
+      "options": [
+        "git history",
+        "git commits",
+        "git log",
+        "git status"
+      ],
+      "correctOption": 2
+    },
+    {
+      "id": "0106-20",
+      "text": "¿Qué comando permite enviar los commits locales hacia un repositorio remoto?",
+      "options": [
+        "git pull",
+        "git push",
+        "git add",
+        "git init"
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0106-21",
+      "text": "¿Qué comando se utiliza normalmente para obtener e integrar cambios desde un repositorio remoto hacia el repositorio local?",
+      "options": [
+        "git pull",
+        "git push",
+        "git commit",
+        "git branch"
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0106-22",
+      "text": "¿Cuál es el propósito principal de utilizar ramas en Git?",
+      "options": [
+        "Trabajar en cambios o funcionalidades de forma separada sin modificar directamente la rama principal.",
+        "Crear automáticamente una base de datos.",
+        "Eliminar el historial del proyecto.",
+        "Impedir que otras personas programen."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0106-23",
+      "text": "¿Qué comando permite consultar las ramas locales existentes?",
+      "options": [
+        "git branches",
+        "git branch",
+        "git list branch",
+        "git status branch"
+      ],
+      "correctOption": 1
+    },
+    {
+      "id": "0106-24",
+      "text": "¿Qué comando crea una nueva rama llamada login?",
+      "options": [
+        "git branch login",
+        "git add login",
+        "git commit login",
+        "git init login"
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0106-25",
+      "text": "Si ya existe una rama llamada login, ¿qué comando moderno permite cambiarse a ella?",
+      "options": [
+        "git switch login",
+        "git push login",
+        "git merge login",
+        "git add login"
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0106-26",
+      "text": "¿Qué hace el siguiente comando?\n\ngit switch -c pagos",
+      "options": [
+        "Crea la rama pagos y cambia inmediatamente a ella.",
+        "Elimina la rama pagos.",
+        "Fusiona pagos con la rama actual.",
+        "Envía la rama pagos al repositorio remoto."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0106-27",
+      "text": "Un desarrollador termina una funcionalidad en la rama login y quiere incorporarla a main. Si ya se encuentra ubicado en main, ¿qué comando debe ejecutar?",
+      "options": [
+        "git merge login",
+        "git branch login",
+        "git add login",
+        "git init login"
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0106-28",
+      "text": "¿Cuándo puede producirse un conflicto de Git?",
+      "options": [
+        "Cuando dos cambios incompatibles afectan la misma parte de un archivo y Git no puede decidir automáticamente cuál conservar.",
+        "Cada vez que se ejecuta git status.",
+        "Únicamente cuando se crea un repositorio.",
+        "Cada vez que dos personas utilizan Git."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0106-29",
+      "text": "Dos desarrolladores modificaron la misma línea de un archivo en ramas diferentes. Al intentar fusionarlas Git informa un conflicto. ¿Qué debe hacer el desarrollador?",
+      "options": [
+        "Revisar los cambios, decidir cómo debe quedar el código, resolver manualmente el conflicto y posteriormente registrar la solución.",
+        "Formatear la computadora.",
+        "Eliminar obligatoriamente ambas ramas.",
+        "Crear otro repositorio desde cero."
+      ],
+      "correctOption": 0
+    },
+    {
+      "id": "0106-30",
+      "text": "Durante un conflicto Git muestra una sección como la siguiente. ¿Qué representan estas marcas?\n\n<<<<<<< HEAD\nconsole.log(\"Versión A\");\n=======\nconsole.log(\"Versión B\");\n>>>>>>> login",
+      "options": [
+        "Las diferentes versiones del código que Git no pudo combinar automáticamente.",
+        "Comentarios normales de JavaScript que deben permanecer en producción.",
+        "Un error del navegador.",
+        "Una forma de declarar una rama en JavaScript."
+      ],
+      "correctOption": 0
+    }
+  ]
+}

@@ -33,6 +33,12 @@
       "code": "0105 ",
       "name": "Lógica y Resolución de Problemas Computacionales",
       "file": "/data/0105-logica-y-resolucion-de-problemas-computacionales.json"
+    },
+    {
+      "id": "0106",
+      "code": "0106 ",
+      "name": "Introducción a DevOps y Control de Versiones",
+      "file": "/data/0106-introduccion-a-devops-y-control-de-versiones.json"
     }
   ]
 }
